@@ -1,0 +1,21 @@
+{
+    "pedal": 88,
+    "path": "/datasets/dataset2/Rider3/109.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.2421190|13.9242720",
+    "coordinateFinal": "45.2420140|13.9245070",
+    "country": "Croatia",
+    "locality": "Pazin",
+    "centroid": "45.259319|13.958532",
+    "bbox": "[[45.240457,13.911714],[45.278181,13.911714],[45.278181,14.00535],[45.240457,14.00535],[45.240457,13.911714]]",
+    "datetime": "2013-05-10 13:03:17",
+    "duration": "2:42:32",
+    "distance": "27.36",
+    "elevation_gps": "342.9731",
+    "elevation_google": "330.3035",
+    "elevation_bing": "330.6738",
+    "speed_avg": "10.10",
+    "heartrate_avg": "154.68",
+    "temperature_avg": "14.6801",
+    "trackpoints": "3801"
+}

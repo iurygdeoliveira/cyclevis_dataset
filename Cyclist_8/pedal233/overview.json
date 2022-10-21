@@ -1,0 +1,21 @@
+{
+    "pedal": 233,
+    "path": "/datasets/dataset2/Rider3/285.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.4053530|16.1699360",
+    "coordinateFinal": "46.4053440|16.1699300",
+    "country": "Slovenia",
+    "locality": "Ormo\u017e",
+    "centroid": "46.4596475|16.1587225",
+    "bbox": "[[46.39586,16.046037],[46.523435,16.046037],[46.523435,16.271408],[46.39586,16.271408],[46.39586,16.046037]]",
+    "datetime": "2013-06-02 06:57:33",
+    "duration": "2:46:29",
+    "distance": "68.73",
+    "elevation_gps": "273.2536",
+    "elevation_google": "241.9277",
+    "elevation_bing": "243.9685",
+    "speed_avg": "24.77",
+    "heartrate_avg": "148.92",
+    "temperature_avg": "14.9095",
+    "trackpoints": "4633"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 357,
+    "path": "/datasets/dataset2/Rider3/431.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.3301670|13.7601330",
+    "coordinateFinal": "45.3306070|13.7610340",
+    "country": "Croatia",
+    "locality": "Vi\u017einada",
+    "centroid": "45.331306999999995|13.7564535",
+    "bbox": "[[45.329809,13.751684],[45.332805,13.751684],[45.332805,13.761223],[45.329809,13.761223],[45.329809,13.751684]]",
+    "datetime": "2012-09-30 08:23:06",
+    "duration": "0:25:19",
+    "distance": "3.01",
+    "elevation_gps": "228.0366",
+    "elevation_google": "262.0971",
+    "elevation_bing": "261.9780",
+    "speed_avg": "7.13",
+    "heartrate_avg": "98.08",
+    "temperature_avg": "22.0490",
+    "trackpoints": "410"
+}

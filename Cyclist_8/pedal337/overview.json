@@ -1,0 +1,21 @@
+{
+    "pedal": 337,
+    "path": "/datasets/dataset2/Rider3/406.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.7769710|15.1941080",
+    "coordinateFinal": "45.7753970|15.1861840",
+    "country": "Slovenia",
+    "locality": "Novo mesto",
+    "centroid": "45.7783005|15.2327415",
+    "bbox": "[[45.770273,15.186167],[45.786328,15.186167],[45.786328,15.279316],[45.770273,15.279316],[45.770273,15.186167]]",
+    "datetime": "2015-06-05 15:33:51",
+    "duration": "1:37:28",
+    "distance": "23.89",
+    "elevation_gps": "216.0219",
+    "elevation_google": "301.9399",
+    "elevation_bing": "303.7504",
+    "speed_avg": "14.71",
+    "heartrate_avg": "122.98",
+    "temperature_avg": "23.9587",
+    "trackpoints": "3129"
+}

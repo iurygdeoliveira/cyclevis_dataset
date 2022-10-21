@@ -1,0 +1,21 @@
+{
+    "pedal": 395,
+    "path": "/datasets/dataset2/Rider3/480.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.2949730|13.5899230",
+    "coordinateFinal": "45.2916480|13.5834720",
+    "country": "Croatia",
+    "locality": "Vabriga",
+    "centroid": "45.295491|13.6281415",
+    "bbox": "[[45.269887,13.569624],[45.321095,13.569624],[45.321095,13.686659],[45.269887,13.686659],[45.269887,13.569624]]",
+    "datetime": "2015-09-18 20:00:07",
+    "duration": "17:31:57",
+    "distance": "49.27",
+    "elevation_gps": "67.3098",
+    "elevation_google": "70.5835",
+    "elevation_bing": "70.2834",
+    "speed_avg": "2.81",
+    "heartrate_avg": "109.57",
+    "temperature_avg": "17.0214",
+    "trackpoints": "4019"
+}

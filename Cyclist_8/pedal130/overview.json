@@ -1,0 +1,21 @@
+{
+    "pedal": 130,
+    "path": "/datasets/dataset2/Rider3/159.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5171790|16.2035340",
+    "coordinateFinal": "46.5172390|16.2035450",
+    "country": "Slovenia",
+    "locality": "Ljutomer",
+    "centroid": "46.479379|16.2130975",
+    "bbox": "[[46.441001,16.185118],[46.517757,16.185118],[46.517757,16.241077],[46.441001,16.241077],[46.441001,16.185118]]",
+    "datetime": "2014-08-24 09:09:10",
+    "duration": "1:21:9",
+    "distance": "29.26",
+    "elevation_gps": "209.1674",
+    "elevation_google": "247.6228",
+    "elevation_bing": "248.8735",
+    "speed_avg": "21.63",
+    "heartrate_avg": "113.31",
+    "temperature_avg": "21.9946",
+    "trackpoints": "2238"
+}

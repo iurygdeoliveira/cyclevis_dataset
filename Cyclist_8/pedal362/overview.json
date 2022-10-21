@@ -1,0 +1,21 @@
+{
+    "pedal": 362,
+    "path": "/datasets/dataset2/Rider3/436.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1183030|14.4600350",
+    "coordinateFinal": "46.1204630|14.4610800",
+    "country": "Slovenia",
+    "locality": "Ljubljana - \u0160martno",
+    "centroid": "46.124323000000004|14.4618035",
+    "bbox": "[[46.118303,14.458187],[46.130343,14.458187],[46.130343,14.46542],[46.118303,14.46542],[46.118303,14.458187]]",
+    "datetime": "2013-01-30 15:25:11",
+    "duration": "0:56:24",
+    "distance": "4.23",
+    "elevation_gps": "441.2005",
+    "elevation_google": "484.1075",
+    "elevation_bing": "489.8561",
+    "speed_avg": "4.50",
+    "heartrate_avg": "126.56",
+    "temperature_avg": "9.3017",
+    "trackpoints": "1974"
+}

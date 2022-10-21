@@ -1,0 +1,21 @@
+{
+    "pedal": 192,
+    "path": "/datasets/dataset2/Rider3/234.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.4947370|16.3361890",
+    "coordinateFinal": "46.4936530|16.3357500",
+    "country": "Croatia",
+    "locality": "Grkave\u0161\u010dak",
+    "centroid": "46.4899565|16.340198",
+    "bbox": "[[46.483635,16.333983],[46.496278,16.333983],[46.496278,16.346413],[46.483635,16.346413],[46.483635,16.333983]]",
+    "datetime": "2014-08-02 11:50:46",
+    "duration": "3:39:28",
+    "distance": "20.86",
+    "elevation_gps": "221.2075",
+    "elevation_google": "222.1620",
+    "elevation_bing": "230.3427",
+    "speed_avg": "5.70",
+    "heartrate_avg": "148.34",
+    "temperature_avg": "26.1645",
+    "trackpoints": "4970"
+}

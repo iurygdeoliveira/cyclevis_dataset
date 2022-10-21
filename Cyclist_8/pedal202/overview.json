@@ -1,0 +1,21 @@
+{
+    "pedal": 202,
+    "path": "/datasets/dataset2/Rider3/247.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "43.9092720|15.4363070",
+    "coordinateFinal": "43.9219150|15.4177510",
+    "country": "Croatia",
+    "locality": "Tkon",
+    "centroid": "43.947570999999996|15.376609",
+    "bbox": "[[43.898905,15.316224],[43.996237,15.316224],[43.996237,15.436994],[43.898905,15.436994],[43.898905,15.316224]]",
+    "datetime": "2015-07-20 03:53:42",
+    "duration": "3:56:27",
+    "distance": "56.97",
+    "elevation_gps": "66.7396",
+    "elevation_google": "62.8705",
+    "elevation_bing": "62.9379",
+    "speed_avg": "14.46",
+    "heartrate_avg": "109.35",
+    "temperature_avg": "25.4358",
+    "trackpoints": "4559"
+}
