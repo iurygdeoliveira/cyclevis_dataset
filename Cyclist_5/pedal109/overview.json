@@ -1,0 +1,21 @@
+{
+    "pedal": 109,
+    "path": "/datasets/dataset1/Rider7/112.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.9193020|13.6505210",
+    "coordinateFinal": "45.9157630|13.6450310",
+    "country": "Slovenia",
+    "locality": "\u0160empeter pri Gorici",
+    "centroid": "45.9124225|13.646275",
+    "bbox": "[[45.90544,13.640171],[45.919405,13.640171],[45.919405,13.652379],[45.90544,13.652379],[45.90544,13.640171]]",
+    "datetime": "2013-04-01 09:22:59",
+    "duration": "1:16:37",
+    "distance": "16.14",
+    "elevation_gps": "69.2769",
+    "elevation_google": "79.9482",
+    "elevation_bing": "80.1581",
+    "speed_avg": "12.64",
+    "heartrate_avg": "147.97",
+    "temperature_avg": "10.5458",
+    "trackpoints": "2688"
+}

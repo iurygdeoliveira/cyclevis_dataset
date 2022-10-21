@@ -1,0 +1,21 @@
+{
+    "pedal": 271,
+    "path": "/datasets/dataset1/Rider7/277.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5668150|14.8409510",
+    "coordinateFinal": "46.5667390|14.8403210",
+    "country": "Slovenia",
+    "locality": "Prevalje",
+    "centroid": "46.565944|14.733224",
+    "bbox": "[[46.553488,14.625479],[46.5784,14.625479],[46.5784,14.840969],[46.553488,14.840969],[46.553488,14.625479]]",
+    "datetime": "2014-06-09 08:01:56",
+    "duration": "1:25:38",
+    "distance": "36.49",
+    "elevation_gps": "337.5570",
+    "elevation_google": "509.2693",
+    "elevation_bing": "509.7899",
+    "speed_avg": "25.57",
+    "heartrate_avg": "120.30",
+    "temperature_avg": "29.9029",
+    "trackpoints": "1390"
+}

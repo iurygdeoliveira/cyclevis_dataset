@@ -1,0 +1,21 @@
+{
+    "pedal": 138,
+    "path": "/datasets/dataset1/Rider7/142.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.3167130|13.5728170",
+    "coordinateFinal": "45.3166070|13.5727230",
+    "country": "Croatia",
+    "locality": "Novigrad",
+    "centroid": "45.3468025|13.729238500000001",
+    "bbox": "[[45.316607,13.569311],[45.376998,13.569311],[45.376998,13.889166],[45.316607,13.889166],[45.316607,13.569311]]",
+    "datetime": "2013-03-04 14:11:11",
+    "duration": "19:4:56",
+    "distance": "63.36",
+    "elevation_gps": "41.9850",
+    "elevation_google": "38.8715",
+    "elevation_bing": "38.0558",
+    "speed_avg": "3.32",
+    "heartrate_avg": "118.00",
+    "temperature_avg": "14.3205",
+    "trackpoints": "2543"
+}

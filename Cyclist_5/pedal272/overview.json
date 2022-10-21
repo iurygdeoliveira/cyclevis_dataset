@@ -1,0 +1,21 @@
+{
+    "pedal": 272,
+    "path": "/datasets/dataset1/Rider7/278.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5676330|14.8359200",
+    "coordinateFinal": "46.5683050|14.8312680",
+    "country": "Austria",
+    "locality": "Grablach",
+    "centroid": "46.5679225|14.833594",
+    "bbox": "[[46.56754,14.831268],[46.568305,14.831268],[46.568305,14.83592],[46.56754,14.83592],[46.56754,14.831268]]",
+    "datetime": "2014-04-24 08:46:45",
+    "duration": "0:2:20",
+    "distance": "0.38",
+    "elevation_gps": "470.0629",
+    "elevation_google": "497.4958",
+    "elevation_bing": "499.3857",
+    "speed_avg": "9.77",
+    "heartrate_avg": "85.49",
+    "temperature_avg": "19.0000",
+    "trackpoints": "70"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 124,
+    "path": "/datasets/dataset1/Rider7/127.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.6013760|15.1059480",
+    "coordinateFinal": "46.5416130|14.9454850",
+    "country": "Slovenia",
+    "locality": "Trbonje",
+    "centroid": "46.5747685|15.0287685",
+    "bbox": "[[46.541597,14.945358],[46.60794,14.945358],[46.60794,15.112179],[46.541597,15.112179],[46.541597,14.945358]]",
+    "datetime": "2013-04-13 08:12:09",
+    "duration": "3:43:27",
+    "distance": "60.61",
+    "elevation_gps": "544.2158",
+    "elevation_google": "537.6447",
+    "elevation_bing": "543.7107",
+    "speed_avg": "16.27",
+    "heartrate_avg": "122.26",
+    "temperature_avg": "16.3721",
+    "trackpoints": "5832"
+}

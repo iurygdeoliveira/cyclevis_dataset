@@ -1,0 +1,21 @@
+{
+    "pedal": 16,
+    "path": "/datasets/dataset1/Rider7/16.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "41.1193400|20.7969120",
+    "coordinateFinal": "41.1194270|20.7969680",
+    "country": "North Macedonia",
+    "locality": "Ohrid",
+    "centroid": "41.0731685|20.831265000000002",
+    "bbox": "[[41.026859,20.796907],[41.119478,20.796907],[41.119478,20.865623],[41.026859,20.865623],[41.026859,20.796907]]",
+    "datetime": "2013-08-14 06:03:56",
+    "duration": "2:49:34",
+    "distance": "41.28",
+    "elevation_gps": "1183.6918",
+    "elevation_google": "1210.8839",
+    "elevation_bing": "1210.5394",
+    "speed_avg": "14.61",
+    "heartrate_avg": "137.45",
+    "temperature_avg": "26.8236",
+    "trackpoints": "4976"
+}
