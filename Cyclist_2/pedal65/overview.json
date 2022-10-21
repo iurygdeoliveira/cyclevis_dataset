@@ -1,0 +1,21 @@
+{
+    "pedal": 65,
+    "path": "/datasets/dataset1/Rider2/81.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.0421720|14.0554770",
+    "coordinateFinal": "46.0410110|14.0394340",
+    "country": "Slovenia",
+    "locality": "Spodnja Idrija",
+    "centroid": "46.0384685|14.0404315",
+    "bbox": "[[46.032286,14.025225],[46.044651,14.025225],[46.044651,14.055638],[46.032286,14.055638],[46.032286,14.025225]]",
+    "datetime": "2013-10-05 10:53:59",
+    "duration": "1:47:59",
+    "distance": "9.79",
+    "elevation_gps": "508.5912",
+    "elevation_google": "542.0942",
+    "elevation_bing": "542.8151",
+    "speed_avg": "5.44",
+    "heartrate_avg": "139.76",
+    "temperature_avg": "5.4357",
+    "trackpoints": "3169"
+}

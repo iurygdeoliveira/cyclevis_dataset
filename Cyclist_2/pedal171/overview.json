@@ -1,0 +1,21 @@
+{
+    "pedal": 171,
+    "path": "/datasets/dataset1/Rider2/215.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.2172080|13.8370300",
+    "coordinateFinal": "45.2169840|13.8403240",
+    "country": "Croatia",
+    "locality": "Tinjan",
+    "centroid": "45.193922|13.847823",
+    "bbox": "[[45.145689,13.818543],[45.242155,13.818543],[45.242155,13.877103],[45.145689,13.877103],[45.145689,13.818543]]",
+    "datetime": "2013-05-12 07:51:59",
+    "duration": "3:18:53",
+    "distance": "47.64",
+    "elevation_gps": "269.1182",
+    "elevation_google": "267.3883",
+    "elevation_bing": "267.2187",
+    "speed_avg": "14.37",
+    "heartrate_avg": "144.50",
+    "temperature_avg": "16.1915",
+    "trackpoints": "5669"
+}

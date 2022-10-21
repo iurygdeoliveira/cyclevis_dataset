@@ -1,0 +1,21 @@
+{
+    "pedal": 215,
+    "path": "/datasets/dataset1/Rider2/267.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "47.3884990|13.4664820",
+    "coordinateFinal": "47.3884290|13.4661620",
+    "country": "Austria",
+    "locality": "Radstadt",
+    "centroid": "47.392348999999996|13.46546",
+    "bbox": "[[47.388425,13.460108],[47.396273,13.460108],[47.396273,13.470812],[47.388425,13.470812],[47.388425,13.460108]]",
+    "datetime": "2014-02-18 12:55:09",
+    "duration": "1:11:30",
+    "distance": "7.11",
+    "elevation_gps": "949.9531",
+    "elevation_google": "995.5760",
+    "elevation_bing": "1007.5788",
+    "speed_avg": "5.97",
+    "heartrate_avg": "123.23",
+    "temperature_avg": "10.3210",
+    "trackpoints": "2056"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 32,
+    "path": "/datasets/dataset1/Rider2/42.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1645550|14.3083000",
+    "coordinateFinal": "46.1650790|14.3068900",
+    "country": "Slovenia",
+    "locality": "\u0160kofja Loka",
+    "centroid": "46.134691000000004|14.274561",
+    "bbox": "[[46.101457,14.240747],[46.167925,14.240747],[46.167925,14.308375],[46.101457,14.308375],[46.101457,14.240747]]",
+    "datetime": "2013-09-21 06:32:06",
+    "duration": "6:36:26",
+    "distance": "83.56",
+    "elevation_gps": "641.8265",
+    "elevation_google": "636.7807",
+    "elevation_bing": "643.1375",
+    "speed_avg": "12.65",
+    "heartrate_avg": "143.95",
+    "temperature_avg": "13.4189",
+    "trackpoints": "12871"
+}

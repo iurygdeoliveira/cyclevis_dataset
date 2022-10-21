@@ -1,0 +1,21 @@
+{
+    "pedal": 61,
+    "path": "/datasets/dataset1/Rider2/77.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.0781870|14.5168680",
+    "coordinateFinal": "46.0781790|14.5167440",
+    "country": "Slovenia",
+    "locality": "Ljubljana",
+    "centroid": "46.1121605|14.5139195",
+    "bbox": "[[46.078168,14.490414],[46.146153,14.490414],[46.146153,14.537425],[46.078168,14.537425],[46.078168,14.490414]]",
+    "datetime": "2014-04-03 14:28:48",
+    "duration": "1:56:39",
+    "distance": "27.72",
+    "elevation_gps": "387.9015",
+    "elevation_google": "376.8200",
+    "elevation_bing": "384.8677",
+    "speed_avg": "14.26",
+    "heartrate_avg": "121.28",
+    "temperature_avg": "11.7749",
+    "trackpoints": "3409"
+}
