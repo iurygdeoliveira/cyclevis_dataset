@@ -1,0 +1,21 @@
+{
+    "pedal": 2,
+    "path": "/datasets/dataset1/Rider4/5.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5568480|15.6459170",
+    "coordinateFinal": "46.5580460|15.6477630",
+    "country": "Slovenia",
+    "locality": "Maribor",
+    "centroid": "46.4648965|15.6176785",
+    "bbox": "[[46.355399,15.499421],[46.574394,15.499421],[46.574394,15.735936],[46.355399,15.735936],[46.355399,15.499421]]",
+    "datetime": "2014-03-31 09:06:30",
+    "duration": "4:52:15",
+    "distance": "91.65",
+    "elevation_gps": "277.2004",
+    "elevation_google": "274.9326",
+    "elevation_bing": "276.6922",
+    "speed_avg": "18.82",
+    "heartrate_avg": "115.23",
+    "temperature_avg": "24.8248",
+    "trackpoints": "4298"
+}

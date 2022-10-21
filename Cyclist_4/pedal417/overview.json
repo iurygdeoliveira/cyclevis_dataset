@@ -1,0 +1,21 @@
+{
+    "pedal": 417,
+    "path": "/datasets/dataset1/Rider4/806.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5407910|15.3874280",
+    "coordinateFinal": "46.5405140|15.3875370",
+    "country": "Slovenia",
+    "locality": "Lovrenc na Pohorju",
+    "centroid": "46.5571085|15.3802565",
+    "bbox": "[[46.540393,15.354089],[46.573824,15.354089],[46.573824,15.406424],[46.540393,15.406424],[46.540393,15.354089]]",
+    "datetime": "2014-08-16 08:01:18",
+    "duration": "1:30:39",
+    "distance": "20.34",
+    "elevation_gps": "532.8510",
+    "elevation_google": "544.4097",
+    "elevation_bing": "553.3774",
+    "speed_avg": "13.46",
+    "heartrate_avg": "141.61",
+    "temperature_avg": "18.6832",
+    "trackpoints": "2194"
+}

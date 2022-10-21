@@ -1,0 +1,21 @@
+{
+    "pedal": 325,
+    "path": "/datasets/dataset1/Rider4/624.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1567640|14.4117340",
+    "coordinateFinal": "46.1657530|14.3066340",
+    "country": "Slovenia",
+    "locality": "Medvode",
+    "centroid": "46.129275500000006|14.3601445",
+    "bbox": "[[46.092798,14.306634],[46.165753,14.306634],[46.165753,14.413655],[46.092798,14.413655],[46.092798,14.306634]]",
+    "datetime": "2013-06-10 15:23:48",
+    "duration": "16:38:1",
+    "distance": "34.62",
+    "elevation_gps": "481.1484",
+    "elevation_google": "460.5035",
+    "elevation_bing": "464.8027",
+    "speed_avg": "2.08",
+    "heartrate_avg": "122.00",
+    "temperature_avg": "20.1056",
+    "trackpoints": "2235"
+}

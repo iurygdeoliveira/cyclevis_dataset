@@ -1,0 +1,21 @@
+{
+    "pedal": 264,
+    "path": "/datasets/dataset1/Rider4/506.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.1231920|14.8056160",
+    "coordinateFinal": "45.1229750|14.8062850",
+    "country": "Croatia",
+    "locality": "Novi Vinodolski",
+    "centroid": "45.0594575|14.8438005",
+    "bbox": "[[44.989945,14.786429],[45.12897,14.786429],[45.12897,14.901172],[44.989945,14.901172],[44.989945,14.786429]]",
+    "datetime": "2013-07-29 07:49:09",
+    "duration": "3:4:33",
+    "distance": "48.76",
+    "elevation_gps": "56.4327",
+    "elevation_google": "40.3502",
+    "elevation_bing": "40.3376",
+    "speed_avg": "15.85",
+    "heartrate_avg": "84.88",
+    "temperature_avg": "36.7683",
+    "trackpoints": "3984"
+}

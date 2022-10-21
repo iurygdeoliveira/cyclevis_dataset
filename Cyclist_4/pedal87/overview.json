@@ -1,0 +1,21 @@
+{
+    "pedal": 87,
+    "path": "/datasets/dataset1/Rider4/183.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5159240|15.5841890",
+    "coordinateFinal": "46.5576980|15.6475000",
+    "country": "Slovenia",
+    "locality": "Pohorje",
+    "centroid": "46.535174|15.610978000000001",
+    "bbox": "[[46.51265,15.574456],[46.557698,15.574456],[46.557698,15.6475],[46.51265,15.6475],[46.51265,15.574456]]",
+    "datetime": "2014-07-29 15:30:20",
+    "duration": "1:55:28",
+    "distance": "14.25",
+    "elevation_gps": "731.5689",
+    "elevation_google": "724.0591",
+    "elevation_bing": "732.8439",
+    "speed_avg": "7.40",
+    "heartrate_avg": "95.25",
+    "temperature_avg": "20.0126",
+    "trackpoints": "1749"
+}

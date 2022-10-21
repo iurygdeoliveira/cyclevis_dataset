@@ -1,0 +1,21 @@
+{
+    "pedal": 53,
+    "path": "/datasets/dataset1/Rider4/121.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "39.7598550|3.1694040",
+    "coordinateFinal": "39.7599490|3.1691760",
+    "country": "Spain",
+    "locality": "Can Picafort",
+    "centroid": "39.773393999999996|3.148375",
+    "bbox": "[[39.759855,3.127346],[39.786933,3.127346],[39.786933,3.169404],[39.759855,3.169404],[39.759855,3.127346]]",
+    "datetime": "2013-10-11 14:59:09",
+    "duration": "0:52:15",
+    "distance": "10.55",
+    "elevation_gps": "10.4775",
+    "elevation_google": "3.7924",
+    "elevation_bing": "3.8554",
+    "speed_avg": "12.11",
+    "heartrate_avg": "147.42",
+    "temperature_avg": "22.9431",
+    "trackpoints": "650"
+}

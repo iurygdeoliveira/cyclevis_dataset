@@ -1,0 +1,21 @@
+{
+    "pedal": 213,
+    "path": "/datasets/dataset1/Rider4/419.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.2618030|13.6328980",
+    "coordinateFinal": "45.2141450|13.5993050",
+    "country": "Croatia",
+    "locality": "Kukci",
+    "centroid": "45.3292755|13.715023500000001",
+    "bbox": "[[45.20772,13.599303],[45.450831,13.599303],[45.450831,13.830744],[45.20772,13.830744],[45.20772,13.599303]]",
+    "datetime": "2013-12-25 10:02:48",
+    "duration": "4:0:24",
+    "distance": "108.61",
+    "elevation_gps": "197.9916",
+    "elevation_google": "201.7983",
+    "elevation_bing": "201.8036",
+    "speed_avg": "27.11",
+    "heartrate_avg": "132.72",
+    "temperature_avg": "13.8106",
+    "trackpoints": "7802"
+}

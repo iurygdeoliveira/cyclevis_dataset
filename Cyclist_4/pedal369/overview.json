@@ -1,0 +1,21 @@
+{
+    "pedal": 369,
+    "path": "/datasets/dataset1/Rider4/723.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "43.7585080|15.7885660",
+    "coordinateFinal": "43.7652000|15.7741670",
+    "country": "Croatia",
+    "locality": "Vodice",
+    "centroid": "43.766208500000005|15.771794499999999",
+    "bbox": "[[43.758508,15.755023],[43.773909,15.755023],[43.773909,15.788566],[43.758508,15.788566],[43.758508,15.755023]]",
+    "datetime": "2013-04-27 08:42:55",
+    "duration": "1:24:8",
+    "distance": "21.07",
+    "elevation_gps": "91.1202",
+    "elevation_google": "72.8126",
+    "elevation_bing": "73.3470",
+    "speed_avg": "15.03",
+    "heartrate_avg": "143.25",
+    "temperature_avg": "22.4961",
+    "trackpoints": "2334"
+}

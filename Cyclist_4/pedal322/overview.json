@@ -1,0 +1,21 @@
+{
+    "pedal": 322,
+    "path": "/datasets/dataset1/Rider4/618.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "44.8126050|13.9054820",
+    "coordinateFinal": "44.7990490|13.9135460",
+    "country": "Croatia",
+    "locality": "Premantura",
+    "centroid": "44.806407|13.905652499999999",
+    "bbox": "[[44.798915,13.897749],[44.813899,13.897749],[44.813899,13.913556],[44.798915,13.913556],[44.798915,13.897749]]",
+    "datetime": "2014-04-04 14:39:20",
+    "duration": "1:14:59",
+    "distance": "12.35",
+    "elevation_gps": "121.1554",
+    "elevation_google": "52.8984",
+    "elevation_bing": "53.7069",
+    "speed_avg": "9.88",
+    "heartrate_avg": "148.67",
+    "temperature_avg": "18.0556",
+    "trackpoints": "2105"
+}

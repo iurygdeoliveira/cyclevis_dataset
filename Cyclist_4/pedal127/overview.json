@@ -1,0 +1,21 @@
+{
+    "pedal": 127,
+    "path": "/datasets/dataset1/Rider4/253.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "44.9917610|13.7456280",
+    "coordinateFinal": "44.9891700|13.7555460",
+    "country": "Croatia",
+    "locality": "Peroj",
+    "centroid": "45.092521|13.8703775",
+    "bbox": "[[44.880112,13.724021],[45.30493,13.724021],[45.30493,14.016734],[44.880112,14.016734],[44.880112,13.724021]]",
+    "datetime": "2014-07-06 06:50:47",
+    "duration": "4:40:3",
+    "distance": "133.30",
+    "elevation_gps": "194.5325",
+    "elevation_google": "207.3527",
+    "elevation_bing": "207.2400",
+    "speed_avg": "28.56",
+    "heartrate_avg": "113.15",
+    "temperature_avg": "31.2831",
+    "trackpoints": "7888"
+}

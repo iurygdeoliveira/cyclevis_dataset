@@ -1,0 +1,21 @@
+{
+    "pedal": 393,
+    "path": "/datasets/dataset1/Rider4/762.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "49.4575030|7.1773620",
+    "coordinateFinal": "49.4594730|7.1792400",
+    "country": "Germany",
+    "locality": "Sankt Wendel",
+    "centroid": "49.458498000000006|7.178328",
+    "bbox": "[[49.457503,7.177362],[49.459493,7.177362],[49.459493,7.179294],[49.457503,7.179294],[49.457503,7.177362]]",
+    "datetime": "2014-06-08 07:27:47",
+    "duration": "0:27:6",
+    "distance": "0.28",
+    "elevation_gps": "275.0000",
+    "elevation_google": "310.5087",
+    "elevation_bing": "0.0000",
+    "speed_avg": "0.62",
+    "heartrate_avg": "127.16",
+    "temperature_avg": "27.1976",
+    "trackpoints": "167"
+}

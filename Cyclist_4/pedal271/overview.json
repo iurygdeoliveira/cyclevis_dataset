@@ -1,0 +1,21 @@
+{
+    "pedal": 271,
+    "path": "/datasets/dataset1/Rider4/518.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5025590|15.2103260",
+    "coordinateFinal": "46.5447580|14.9310770",
+    "country": "Slovenia",
+    "locality": "\u0160martno pri Slovenj Gradcu",
+    "centroid": "46.501923500000004|15.1279155",
+    "bbox": "[[46.458638,14.931077],[46.545209,14.931077],[46.545209,15.324754],[46.458638,15.324754],[46.458638,14.931077]]",
+    "datetime": "2013-09-03 11:20:13",
+    "duration": "4:9:35",
+    "distance": "62.35",
+    "elevation_gps": "1079.7137",
+    "elevation_google": "1183.2567",
+    "elevation_bing": "1186.4176",
+    "speed_avg": "14.99",
+    "heartrate_avg": "136.36",
+    "temperature_avg": "23.1317",
+    "trackpoints": "7515"
+}

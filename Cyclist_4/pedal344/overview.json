@@ -1,0 +1,21 @@
+{
+    "pedal": 344,
+    "path": "/datasets/dataset1/Rider4/666.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.4458430|15.1734570",
+    "coordinateFinal": "46.5586460|15.6448350",
+    "country": "Slovenia",
+    "locality": "Mislinja",
+    "centroid": "46.5313995|15.333903499999998",
+    "bbox": "[[46.445843,15.022942],[46.616956,15.022942],[46.616956,15.644865],[46.445843,15.644865],[46.445843,15.022942]]",
+    "datetime": "2014-03-21 10:27:35",
+    "duration": "6:0:5",
+    "distance": "91.50",
+    "elevation_gps": "359.5544",
+    "elevation_google": "345.1111",
+    "elevation_bing": "348.1082",
+    "speed_avg": "15.25",
+    "heartrate_avg": "111.99",
+    "temperature_avg": "23.6169",
+    "trackpoints": "4795"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 366,
+    "path": "/datasets/dataset1/Rider4/712.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.0763790|13.6391540",
+    "coordinateFinal": "45.0763170|13.6377450",
+    "country": "Croatia",
+    "locality": "Rovinj",
+    "centroid": "45.053274|13.727693499999999",
+    "bbox": "[[45.000523,13.637745],[45.106025,13.637745],[45.106025,13.817642],[45.000523,13.817642],[45.000523,13.637745]]",
+    "datetime": "2013-03-15 13:08:03",
+    "duration": "1:50:51",
+    "distance": "54.61",
+    "elevation_gps": "115.8862",
+    "elevation_google": "98.2335",
+    "elevation_bing": "98.3157",
+    "speed_avg": "29.56",
+    "heartrate_avg": "113.45",
+    "temperature_avg": "9.3853",
+    "trackpoints": "2157"
+}

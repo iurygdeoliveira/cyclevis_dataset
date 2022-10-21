@@ -1,0 +1,21 @@
+{
+    "pedal": 250,
+    "path": "/datasets/dataset1/Rider4/479.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.6175230|14.8792400",
+    "coordinateFinal": "45.6178420|14.8788300",
+    "country": "Slovenia",
+    "locality": "Ko\u010devje",
+    "centroid": "45.616937500000006|14.878294",
+    "bbox": "[[45.615079,14.875244],[45.618796,14.875244],[45.618796,14.881344],[45.615079,14.881344],[45.615079,14.875244]]",
+    "datetime": "2013-07-02 15:16:49",
+    "duration": "1:45:34",
+    "distance": "9.47",
+    "elevation_gps": "447.4853",
+    "elevation_google": "478.6840",
+    "elevation_bing": "481.4301",
+    "speed_avg": "5.38",
+    "heartrate_avg": "136.09",
+    "temperature_avg": "24.8288",
+    "trackpoints": "1904"
+}
