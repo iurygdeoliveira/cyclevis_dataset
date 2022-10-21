@@ -1,0 +1,21 @@
+{
+    "pedal": 34,
+    "path": "/datasets/dataset2/Rider2/110.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5731120|16.3474350",
+    "coordinateFinal": "46.5731590|16.3486330",
+    "country": "Slovenia",
+    "locality": "Velika Polana",
+    "centroid": "46.6565955|16.320323000000002",
+    "bbox": "[[46.573112,16.222711],[46.740079,16.222711],[46.740079,16.417935],[46.573112,16.417935],[46.573112,16.222711]]",
+    "datetime": "2014-03-15 08:42:01",
+    "duration": "2:49:39",
+    "distance": "83.92",
+    "elevation_gps": "216.4285",
+    "elevation_google": "214.3673",
+    "elevation_bing": "216.1699",
+    "speed_avg": "29.68",
+    "heartrate_avg": "134.71",
+    "temperature_avg": "16.8040",
+    "trackpoints": "3974"
+}
