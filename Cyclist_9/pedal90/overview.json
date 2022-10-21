@@ -1,0 +1,21 @@
+{
+    "pedal": 90,
+    "path": "/datasets/dataset2/Rider5/93.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.6044970|14.9870780",
+    "coordinateFinal": "46.6032460|14.9866600",
+    "country": "Slovenia",
+    "locality": "Dravograd",
+    "centroid": "46.6530235|14.825496000000001",
+    "bbox": "[[46.603245,14.663914],[46.702802,14.663914],[46.702802,14.987078],[46.603245,14.987078],[46.603245,14.663914]]",
+    "datetime": "2015-02-20 11:18:04",
+    "duration": "2:34:48",
+    "distance": "69.71",
+    "elevation_gps": "365.2611",
+    "elevation_google": "434.5564",
+    "elevation_bing": "434.1693",
+    "speed_avg": "27.02",
+    "heartrate_avg": "119.55",
+    "temperature_avg": "10.1886",
+    "trackpoints": "3675"
+}

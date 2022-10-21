@@ -1,0 +1,21 @@
+{
+    "pedal": 334,
+    "path": "/datasets/dataset2/Rider5/344.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5756300|14.7756950",
+    "coordinateFinal": "46.5757830|14.7759140",
+    "country": "Austria",
+    "locality": "Feistritz ob Bleiburg",
+    "centroid": "46.5685585|14.6916885",
+    "bbox": "[[46.546455,14.607463],[46.590662,14.607463],[46.590662,14.775914],[46.546455,14.775914],[46.546455,14.607463]]",
+    "datetime": "2015-03-15 09:34:52",
+    "duration": "1:57:7",
+    "distance": "51.88",
+    "elevation_gps": "387.8815",
+    "elevation_google": "504.1988",
+    "elevation_bing": "506.0091",
+    "speed_avg": "26.58",
+    "heartrate_avg": "111.55",
+    "temperature_avg": "8.5031",
+    "trackpoints": "2407"
+}

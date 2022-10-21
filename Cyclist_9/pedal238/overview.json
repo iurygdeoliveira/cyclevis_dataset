@@ -1,0 +1,21 @@
+{
+    "pedal": 238,
+    "path": "/datasets/dataset2/Rider5/244.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5435720|14.9487070",
+    "coordinateFinal": "46.5415930|14.9455060",
+    "country": "Slovenia",
+    "locality": "Ravne na Koro\u0161kem",
+    "centroid": "46.575762000000005|14.9120825",
+    "bbox": "[[46.541592,14.874551],[46.609932,14.874551],[46.609932,14.949614],[46.541592,14.949614],[46.541592,14.874551]]",
+    "datetime": "2013-04-28 08:02:56",
+    "duration": "3:33:28",
+    "distance": "52.01",
+    "elevation_gps": "795.6508",
+    "elevation_google": "781.4054",
+    "elevation_bing": "788.2150",
+    "speed_avg": "14.62",
+    "heartrate_avg": "117.56",
+    "temperature_avg": "19.5098",
+    "trackpoints": "7930"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 183,
+    "path": "/datasets/dataset2/Rider5/189.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5675340|14.8349860",
+    "coordinateFinal": "46.5666860|14.8408090",
+    "country": "Austria",
+    "locality": "Grablach",
+    "centroid": "46.606055999999995|14.842972499999998",
+    "bbox": "[[46.566686,14.795077],[46.645426,14.795077],[46.645426,14.890868],[46.566686,14.890868],[46.566686,14.795077]]",
+    "datetime": "2015-05-31 13:07:49",
+    "duration": "2:17:24",
+    "distance": "43.02",
+    "elevation_gps": "662.7116",
+    "elevation_google": "715.5942",
+    "elevation_bing": "720.1167",
+    "speed_avg": "18.79",
+    "heartrate_avg": "125.45",
+    "temperature_avg": "18.5602",
+    "trackpoints": "5193"
+}

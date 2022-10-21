@@ -1,0 +1,21 @@
+{
+    "pedal": 11,
+    "path": "/datasets/dataset2/Rider5/11.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5061240|14.9685920",
+    "coordinateFinal": "46.4846870|14.9649800",
+    "country": "Slovenia",
+    "locality": "Kotlje",
+    "centroid": "46.49518499999999|14.969828",
+    "bbox": "[[46.484246,14.964974],[46.506124,14.964974],[46.506124,14.974682],[46.484246,14.974682],[46.484246,14.964974]]",
+    "datetime": "2015-12-12 06:59:34",
+    "duration": "1:23:52",
+    "distance": "5.26",
+    "elevation_gps": "1067.3841",
+    "elevation_google": "1176.3543",
+    "elevation_bing": "1191.8363",
+    "speed_avg": "3.76",
+    "heartrate_avg": "133.66",
+    "temperature_avg": "13.3847",
+    "trackpoints": "2792"
+}

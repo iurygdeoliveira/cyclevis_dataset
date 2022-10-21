@@ -1,0 +1,21 @@
+{
+    "pedal": 246,
+    "path": "/datasets/dataset2/Rider5/252.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5288180|15.5749310",
+    "coordinateFinal": "46.5158680|15.5790040",
+    "country": "Slovenia",
+    "locality": "Limbu\u0161",
+    "centroid": "46.521497499999995|15.5673565",
+    "bbox": "[[46.514177,15.551844],[46.528818,15.551844],[46.528818,15.582869],[46.514177,15.582869],[46.514177,15.551844]]",
+    "datetime": "2015-09-27 09:10:50",
+    "duration": "0:47:16",
+    "distance": "8.23",
+    "elevation_gps": "632.3550",
+    "elevation_google": "740.0725",
+    "elevation_bing": "756.5209",
+    "speed_avg": "10.45",
+    "heartrate_avg": "162.95",
+    "temperature_avg": "13.5376",
+    "trackpoints": "1793"
+}

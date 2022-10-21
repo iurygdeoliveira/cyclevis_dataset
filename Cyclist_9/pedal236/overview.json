@@ -1,0 +1,21 @@
+{
+    "pedal": 236,
+    "path": "/datasets/dataset2/Rider5/242.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.8913410|10.8644010",
+    "coordinateFinal": "45.8927420|10.8648610",
+    "country": "Italy",
+    "locality": "Riva del Garda",
+    "centroid": "45.864699|10.835071500000002",
+    "bbox": "[[45.836644,10.805203],[45.892754,10.805203],[45.892754,10.86494],[45.836644,10.86494],[45.836644,10.805203]]",
+    "datetime": "2013-05-03 10:43:56",
+    "duration": "3:16:31",
+    "distance": "31.53",
+    "elevation_gps": "552.4094",
+    "elevation_google": "514.9304",
+    "elevation_bing": "521.5595",
+    "speed_avg": "9.63",
+    "heartrate_avg": "109.45",
+    "temperature_avg": "23.7387",
+    "trackpoints": "6032"
+}

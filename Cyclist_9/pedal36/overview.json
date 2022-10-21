@@ -1,0 +1,21 @@
+{
+    "pedal": 36,
+    "path": "/datasets/dataset2/Rider5/39.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "44.8146270|13.8795010",
+    "coordinateFinal": "44.7990380|13.9135510",
+    "country": "Croatia",
+    "locality": "Banjole",
+    "centroid": "44.791385500000004|13.9010065",
+    "bbox": "[[44.767618,13.877785],[44.815153,13.877785],[44.815153,13.924228],[44.767618,13.924228],[44.767618,13.877785]]",
+    "datetime": "2014-04-05 10:34:15",
+    "duration": "2:46:25",
+    "distance": "29.17",
+    "elevation_gps": "60.9546",
+    "elevation_google": "31.0831",
+    "elevation_bing": "31.5366",
+    "speed_avg": "10.52",
+    "heartrate_avg": "114.32",
+    "temperature_avg": "17.0746",
+    "trackpoints": "3433"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 77,
+    "path": "/datasets/dataset2/Rider5/80.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "44.8294150|13.9285220",
+    "coordinateFinal": "44.8268340|13.9638020",
+    "country": "Croatia",
+    "locality": "Medulin",
+    "centroid": "44.8100245|13.920774999999999",
+    "bbox": "[[44.783698,13.877742],[44.836351,13.877742],[44.836351,13.963808],[44.783698,13.963808],[44.783698,13.877742]]",
+    "datetime": "2015-04-19 07:30:18",
+    "duration": "2:56:26",
+    "distance": "42.21",
+    "elevation_gps": "31.7603",
+    "elevation_google": "36.9810",
+    "elevation_bing": "37.5098",
+    "speed_avg": "14.35",
+    "heartrate_avg": "106.27",
+    "temperature_avg": "16.1081",
+    "trackpoints": "5383"
+}

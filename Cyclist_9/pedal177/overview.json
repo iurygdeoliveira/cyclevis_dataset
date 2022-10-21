@@ -1,0 +1,21 @@
+{
+    "pedal": 177,
+    "path": "/datasets/dataset2/Rider5/183.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "38.0277230|-4.5274530",
+    "coordinateFinal": "38.0282230|-4.5266330",
+    "country": "Spain",
+    "locality": "Adamuz",
+    "centroid": "37.995526|-4.5598755",
+    "bbox": "[[37.962829,-4.593829],[38.028223,-4.593829],[38.028223,-4.525922],[37.962829,-4.525922],[37.962829,-4.593829]]",
+    "datetime": "2013-03-01 10:31:20",
+    "duration": "4:2:56",
+    "distance": "57.86",
+    "elevation_gps": "277.3072",
+    "elevation_google": "268.1464",
+    "elevation_bing": "269.9860",
+    "speed_avg": "14.29",
+    "heartrate_avg": "108.02",
+    "temperature_avg": "16.0365",
+    "trackpoints": "8694"
+}
