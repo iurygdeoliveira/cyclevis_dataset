@@ -1,0 +1,21 @@
+{
+    "pedal": 263,
+    "path": "/datasets/dataset2/Rider1/269.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.40701526775956|14.150432785972953",
+    "coordinateFinal": "46.40700152143836|14.15058215148747",
+    "country": "Slovenia",
+    "locality": "\u017dirovnica",
+    "centroid": "46.4068972|14.15052795",
+    "bbox": "[[46.4066471,14.1504246],[46.4071473,14.1504246],[46.4071473,14.1506313],[46.4066471,14.1506313],[46.4066471,14.1504246]]",
+    "datetime": "2014-06-21 07:38:36",
+    "duration": "1:6:20",
+    "distance": "0.49",
+    "elevation_gps": "600.3445",
+    "elevation_google": "635.2145",
+    "elevation_bing": "641.6336",
+    "speed_avg": "0.44",
+    "heartrate_avg": "112.17",
+    "temperature_avg": "26.1807",
+    "trackpoints": "393"
+}

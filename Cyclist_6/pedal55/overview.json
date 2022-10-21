@@ -1,0 +1,21 @@
+{
+    "pedal": 55,
+    "path": "/datasets/dataset2/Rider1/55.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "-29.57061242312193|30.352436201646924",
+    "coordinateFinal": "-29.591665416955948|30.370400547981262",
+    "country": "South Africa",
+    "locality": "Pietermaritzburg",
+    "centroid": "-29.579266500000003|30.36121025",
+    "bbox": "[[-29.591665,30.3481362],[-29.566868,30.3481362],[-29.566868,30.3742843],[-29.591665,30.3742843],[-29.591665,30.3481362]]",
+    "datetime": "2014-04-11 08:27:30",
+    "duration": "1:20:11",
+    "distance": "9.49",
+    "elevation_gps": "618.5247",
+    "elevation_google": "723.3841",
+    "elevation_bing": "730.7489",
+    "speed_avg": "7.10",
+    "heartrate_avg": "130.54",
+    "temperature_avg": "29.9763",
+    "trackpoints": "2612"
+}

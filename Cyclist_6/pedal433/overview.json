@@ -1,0 +1,21 @@
+{
+    "pedal": 433,
+    "path": "/datasets/dataset2/Rider1/440.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.797384111210704|13.972578858956695",
+    "coordinateFinal": "45.79728562384844|13.972257245332003",
+    "country": "Slovenia",
+    "locality": "Podnanos",
+    "centroid": "45.79818505|13.99096075",
+    "bbox": "[[45.7920738,13.9713793],[45.8042963,13.9713793],[45.8042963,14.0105422],[45.7920738,14.0105422],[45.7920738,13.9713793]]",
+    "datetime": "2014-11-25 08:39:28",
+    "duration": "1:52:57",
+    "distance": "17.31",
+    "elevation_gps": "371.0400",
+    "elevation_google": "440.8758",
+    "elevation_bing": "442.4653",
+    "speed_avg": "9.20",
+    "heartrate_avg": "146.01",
+    "temperature_avg": "10.6062",
+    "trackpoints": "3215"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 411,
+    "path": "/datasets/dataset2/Rider1/418.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.682552959769964|13.967919358983636",
+    "coordinateFinal": "45.68248682655394|13.96820685826242",
+    "country": "Slovenia",
+    "locality": "Diva\u010da",
+    "centroid": "45.710032850000005|13.956204750000001",
+    "bbox": "[[45.6533776,13.864114],[45.7666881,13.864114],[45.7666881,14.0482955],[45.6533776,14.0482955],[45.6533776,13.864114]]",
+    "datetime": "2015-11-12 11:50:31",
+    "duration": "2:9:11",
+    "distance": "60.15",
+    "elevation_gps": "293.3022",
+    "elevation_google": "383.3529",
+    "elevation_bing": "387.0334",
+    "speed_avg": "27.94",
+    "heartrate_avg": "131.71",
+    "temperature_avg": "22.8558",
+    "trackpoints": "3710"
+}

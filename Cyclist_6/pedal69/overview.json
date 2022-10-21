@@ -1,0 +1,21 @@
+{
+    "pedal": 69,
+    "path": "/datasets/dataset2/Rider1/69.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "49.56561570055783|16.036645397543907",
+    "coordinateFinal": "49.56534521654248|16.03673298843205",
+    "country": "Czechia",
+    "locality": "Rad\u0148ovice",
+    "centroid": "49.56502235|16.0367276",
+    "bbox": "[[49.5643708,16.0364978],[49.5656739,16.0364978],[49.5656739,16.0369574],[49.5643708,16.0369574],[49.5643708,16.0364978]]",
+    "datetime": "2015-05-20 15:17:46",
+    "duration": "0:23:8",
+    "distance": "0.81",
+    "elevation_gps": "646.3591",
+    "elevation_google": "632.9541",
+    "elevation_bing": "632.1398",
+    "speed_avg": "2.10",
+    "heartrate_avg": "113.69",
+    "temperature_avg": "16.6989",
+    "trackpoints": "93"
+}

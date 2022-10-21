@@ -1,0 +1,21 @@
+{
+    "pedal": 636,
+    "path": "/datasets/dataset2/Rider1/645.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.226176880300045|14.608146976679564",
+    "coordinateFinal": "46.22617604210973|14.608315033838153",
+    "country": "Slovenia",
+    "locality": "Kamnik",
+    "centroid": "46.227252|14.603207949999998",
+    "bbox": "[[46.2243982,14.5959419],[46.2301058,14.5959419],[46.2301058,14.610474],[46.2243982,14.610474],[46.2243982,14.5959419]]",
+    "datetime": "2014-06-14 06:38:10",
+    "duration": "1:5:30",
+    "distance": "3.98",
+    "elevation_gps": "437.9288",
+    "elevation_google": "418.8056",
+    "elevation_bing": "427.6997",
+    "speed_avg": "3.65",
+    "heartrate_avg": "130.03",
+    "temperature_avg": "21.0114",
+    "trackpoints": "2108"
+}

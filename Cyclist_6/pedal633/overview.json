@@ -1,0 +1,21 @@
+{
+    "pedal": 633,
+    "path": "/datasets/dataset2/Rider1/642.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "61.229999559000134|10.45461849309504",
+    "coordinateFinal": "61.23383897356689|10.448289485648274",
+    "country": "Norway",
+    "locality": "\u00d8yer",
+    "centroid": "61.23642895|10.446273999999999",
+    "bbox": "[[61.2299727,10.4350787],[61.2428852,10.4350787],[61.2428852,10.4574693],[61.2299727,10.4574693],[61.2299727,10.4350787]]",
+    "datetime": "2014-09-03 07:23:46",
+    "duration": "2:22:55",
+    "distance": "29.78",
+    "elevation_gps": "123.7938",
+    "elevation_google": "245.5075",
+    "elevation_bing": "357.6707",
+    "speed_avg": "12.50",
+    "heartrate_avg": "147.14",
+    "temperature_avg": "16.0823",
+    "trackpoints": "7264"
+}

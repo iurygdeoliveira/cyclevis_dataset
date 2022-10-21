@@ -1,0 +1,21 @@
+{
+    "pedal": 589,
+    "path": "/datasets/dataset2/Rider1/597.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "47.14241445064545|15.419013714417815",
+    "coordinateFinal": "47.142439261078835|15.42003178037703",
+    "country": "Austria",
+    "locality": "Hub",
+    "centroid": "47.14247985|15.419594499999999",
+    "bbox": "[[47.1424144,15.4190137],[47.1425453,15.4190137],[47.1425453,15.4201753],[47.1424144,15.4201753],[47.1424144,15.4190137]]",
+    "datetime": "2014-05-11 08:02:33",
+    "duration": "0:34:9",
+    "distance": "0.11",
+    "elevation_gps": "461.9985",
+    "elevation_google": "429.2142",
+    "elevation_bing": "428.9773",
+    "speed_avg": "0.19",
+    "heartrate_avg": "134.49",
+    "temperature_avg": "19.8131",
+    "trackpoints": "396"
+}

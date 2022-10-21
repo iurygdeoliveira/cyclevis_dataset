@@ -1,0 +1,21 @@
+{
+    "pedal": 284,
+    "path": "/datasets/dataset2/Rider1/290.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "47.22950837574899|10.857578320428729",
+    "coordinateFinal": "47.22947996109724|10.857540434226394",
+    "country": "Austria",
+    "locality": "\u00d6tztal Bahnhof",
+    "centroid": "47.229490299999995|10.85754575",
+    "bbox": "[[47.2294723,10.8575132],[47.2295083,10.8575132],[47.2295083,10.8575783],[47.2294723,10.8575783],[47.2294723,10.8575132]]",
+    "datetime": "2015-04-26 10:41:45",
+    "duration": "0:41:29",
+    "distance": "0.01",
+    "elevation_gps": "773.8712",
+    "elevation_google": "735.0964",
+    "elevation_bing": "736.0064",
+    "speed_avg": "0.01",
+    "heartrate_avg": "117.87",
+    "temperature_avg": "26.1419",
+    "trackpoints": "472"
+}

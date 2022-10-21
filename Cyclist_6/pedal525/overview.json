@@ -1,0 +1,21 @@
+{
+    "pedal": 525,
+    "path": "/datasets/dataset2/Rider1/532.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.33774478919804|15.232209339737892",
+    "coordinateFinal": "46.36123800650239|15.208701454102993",
+    "country": "Slovenia",
+    "locality": "Dobrna",
+    "centroid": "46.34949135|15.221832299999999",
+    "bbox": "[[46.3377447,15.2087014],[46.361238,15.2087014],[46.361238,15.2349632],[46.3377447,15.2349632],[46.3377447,15.2087014]]",
+    "datetime": "2015-05-02 08:01:44",
+    "duration": "0:17:19",
+    "distance": "4.14",
+    "elevation_gps": "522.2814",
+    "elevation_google": "529.9281",
+    "elevation_bing": "538.0647",
+    "speed_avg": "14.34",
+    "heartrate_avg": "173.34",
+    "temperature_avg": "21.7527",
+    "trackpoints": "1035"
+}

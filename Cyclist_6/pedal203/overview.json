@@ -1,0 +1,21 @@
+{
+    "pedal": 203,
+    "path": "/datasets/dataset2/Rider1/206.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.7968111243099|11.942491298541427",
+    "coordinateFinal": "45.79696174710989|11.942488867789507",
+    "country": "Italy",
+    "locality": "Crespignaga",
+    "centroid": "45.8017189|11.938415599999999",
+    "bbox": "[[45.7962782,11.932918],[45.8071596,11.932918],[45.8071596,11.9439132],[45.7962782,11.9439132],[45.7962782,11.932918]]",
+    "datetime": "2014-03-16 10:14:02",
+    "duration": "1:19:27",
+    "distance": "21.68",
+    "elevation_gps": "169.3464",
+    "elevation_google": "180.7591",
+    "elevation_bing": "176.8418",
+    "speed_avg": "16.37",
+    "heartrate_avg": "173.61",
+    "temperature_avg": "18.9086",
+    "trackpoints": "4746"
+}

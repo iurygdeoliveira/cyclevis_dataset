@@ -1,0 +1,21 @@
+{
+    "pedal": 408,
+    "path": "/datasets/dataset2/Rider1/414.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "44.934224523603916|13.807928944006562",
+    "coordinateFinal": "44.934288477525115|13.80784286186099",
+    "country": "Croatia",
+    "locality": "Fa\u017eana",
+    "centroid": "44.93422595|13.80789935",
+    "bbox": "[[44.9341628,13.8078141],[44.9342891,13.8078141],[44.9342891,13.8079846],[44.9341628,13.8079846],[44.9341628,13.8078141]]",
+    "datetime": "2014-02-08 16:30:50",
+    "duration": "0:20:14",
+    "distance": "0.08",
+    "elevation_gps": "77.5760",
+    "elevation_google": "26.4632",
+    "elevation_bing": "26.0000",
+    "speed_avg": "0.24",
+    "heartrate_avg": "115.30",
+    "temperature_avg": "15.1800",
+    "trackpoints": "50"
+}

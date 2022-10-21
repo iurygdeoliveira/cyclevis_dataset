@@ -1,0 +1,21 @@
+{
+    "pedal": 252,
+    "path": "/datasets/dataset2/Rider1/258.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.734484657645226|9.548683539032936",
+    "coordinateFinal": "46.73448180779815|9.548276094719768",
+    "country": "Switzerland",
+    "locality": "Vaz/Obervaz",
+    "centroid": "46.73006345|9.549605965",
+    "bbox": "[[46.7163601,9.53933981],[46.7437668,9.53933981],[46.7437668,9.55987212],[46.7163601,9.55987212],[46.7163601,9.53933981]]",
+    "datetime": "2015-07-01 08:58:36",
+    "duration": "2:43:4",
+    "distance": "28.18",
+    "elevation_gps": "1418.6395",
+    "elevation_google": "1521.0915",
+    "elevation_bing": "1518.4347",
+    "speed_avg": "10.37",
+    "heartrate_avg": "139.38",
+    "temperature_avg": "30.5312",
+    "trackpoints": "4228"
+}

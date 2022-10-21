@@ -1,0 +1,21 @@
+{
+    "pedal": 56,
+    "path": "/datasets/dataset2/Rider1/56.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "42.299156254157424|-74.25706730224192",
+    "coordinateFinal": "42.29916078038514|-74.2571029253304",
+    "country": "United States",
+    "locality": "Windham",
+    "centroid": "42.29915965|-74.2570845",
+    "bbox": "[[42.2991561,-74.257102],[42.2991632,-74.257102],[42.2991632,-74.257067],[42.2991561,-74.257067],[42.2991561,-74.257102]]",
+    "datetime": "2014-08-10 16:08:22",
+    "duration": "0:31:59",
+    "distance": "0.01",
+    "elevation_gps": "512.3190",
+    "elevation_google": "510.5880",
+    "elevation_bing": "505.0000",
+    "speed_avg": "0.02",
+    "heartrate_avg": "118.75",
+    "temperature_avg": "34.5584",
+    "trackpoints": "1619"
+}

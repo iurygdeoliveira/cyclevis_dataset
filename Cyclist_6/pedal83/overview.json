@@ -1,0 +1,21 @@
+{
+    "pedal": 83,
+    "path": "/datasets/dataset2/Rider1/83.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "-16.74872998148203|145.66703737713397",
+    "coordinateFinal": "-16.747251246124506|145.6696911714971",
+    "country": "Australia",
+    "locality": "Palm Cove",
+    "centroid": "-16.793942|145.677799",
+    "bbox": "[[-16.840792,145.66194],[-16.747092,145.66194],[-16.747092,145.693658],[-16.840792,145.693658],[-16.840792,145.66194]]",
+    "datetime": "2014-04-19 00:48:45",
+    "duration": "4:11:49",
+    "distance": "51.63",
+    "elevation_gps": "50.4054",
+    "elevation_google": "47.9568",
+    "elevation_bing": "58.0383",
+    "speed_avg": "12.30",
+    "heartrate_avg": "129.69",
+    "temperature_avg": "31.2861",
+    "trackpoints": "5687"
+}

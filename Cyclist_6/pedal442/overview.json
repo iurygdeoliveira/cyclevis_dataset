@@ -1,0 +1,21 @@
+{
+    "pedal": 442,
+    "path": "/datasets/dataset2/Rider1/449.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "47.07677224650979|-70.9045769367367",
+    "coordinateFinal": "47.08212962374091|-70.89526665396988",
+    "country": "Canada",
+    "locality": "Beaupr\u00e9",
+    "centroid": "47.1048411|-70.87151800000001",
+    "bbox": "[[47.0752091,-70.904576],[47.1344731,-70.904576],[47.1344731,-70.83846],[47.0752091,-70.83846],[47.0752091,-70.904576]]",
+    "datetime": "2015-08-02 17:20:52",
+    "duration": "0:47:36",
+    "distance": "16.44",
+    "elevation_gps": "319.7765",
+    "elevation_google": "268.4586",
+    "elevation_bing": "267.4398",
+    "speed_avg": "20.72",
+    "heartrate_avg": "124.92",
+    "temperature_avg": "29.0837",
+    "trackpoints": "2842"
+}

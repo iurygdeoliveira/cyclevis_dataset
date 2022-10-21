@@ -1,0 +1,21 @@
+{
+    "pedal": 267,
+    "path": "/datasets/dataset2/Rider1/273.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.49712206795812|14.823054196313024",
+    "coordinateFinal": "46.497157691046596|14.823059476912022",
+    "country": "Slovenia",
+    "locality": "\u010crna na Koro\u0161kem",
+    "centroid": "46.4943808|14.834293449999999",
+    "bbox": "[[46.4741761,14.8070658],[46.5145855,14.8070658],[46.5145855,14.8615211],[46.4741761,14.8615211],[46.4741761,14.8070658]]",
+    "datetime": "2014-07-26 08:01:09",
+    "duration": "2:45:26",
+    "distance": "45.88",
+    "elevation_gps": "929.3462",
+    "elevation_google": "922.9552",
+    "elevation_bing": "931.1097",
+    "speed_avg": "16.64",
+    "heartrate_avg": "156.33",
+    "temperature_avg": "22.7094",
+    "trackpoints": "9133"
+}

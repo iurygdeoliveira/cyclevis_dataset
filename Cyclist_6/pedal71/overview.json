@@ -1,0 +1,21 @@
+{
+    "pedal": 71,
+    "path": "/datasets/dataset2/Rider1/71.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "36.45092228427529|30.124984961003065",
+    "coordinateFinal": "36.45074433647096|30.124907176941633",
+    "country": "Turkey",
+    "locality": "",
+    "centroid": "36.458620100000005|30.12113325",
+    "bbox": "[[36.4507357,30.1167142],[36.4665045,30.1167142],[36.4665045,30.1255523],[36.4507357,30.1255523],[36.4507357,30.1167142]]",
+    "datetime": "2012-01-28 12:09:52",
+    "duration": "1:12:25",
+    "distance": "14.49",
+    "elevation_gps": "249.3466",
+    "elevation_google": "279.0022",
+    "elevation_bing": "277.8483",
+    "speed_avg": "12.01",
+    "heartrate_avg": "121.52",
+    "temperature_avg": "16.1655",
+    "trackpoints": "2030"
+}

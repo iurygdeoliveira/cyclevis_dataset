@@ -1,0 +1,21 @@
+{
+    "pedal": 156,
+    "path": "/datasets/dataset2/Rider1/157.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.91514431871474|13.642326844856143",
+    "coordinateFinal": "45.91544975526631|13.64466774277389",
+    "country": "Slovenia",
+    "locality": "\u0160empeter pri Gorici",
+    "centroid": "45.9133671|13.6489606",
+    "bbox": "[[45.9070179,13.64012],[45.9197163,13.64012],[45.9197163,13.6578012],[45.9070179,13.6578012],[45.9070179,13.64012]]",
+    "datetime": "2015-04-06 09:02:09",
+    "duration": "0:38:53",
+    "distance": "9.57",
+    "elevation_gps": "71.4498",
+    "elevation_google": "83.6372",
+    "elevation_bing": "84.5624",
+    "speed_avg": "14.77",
+    "heartrate_avg": "132.55",
+    "temperature_avg": "18.0785",
+    "trackpoints": "2267"
+}

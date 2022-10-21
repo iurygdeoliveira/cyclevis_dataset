@@ -1,0 +1,21 @@
+{
+    "pedal": 2,
+    "path": "/datasets/dataset2/Rider1/2.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "49.45928681641817|7.1790852304548025",
+    "coordinateFinal": "49.45945914834738|7.1792922634631395",
+    "country": "Germany",
+    "locality": "Sankt Wendel",
+    "centroid": "49.45748945|7.19553681",
+    "bbox": "[[49.4500497,7.17643789],[49.4649292,7.17643789],[49.4649292,7.21463573],[49.4500497,7.21463573],[49.4500497,7.17643789]]",
+    "datetime": "2014-06-07 07:52:20",
+    "duration": "0:43:14",
+    "distance": "14.26",
+    "elevation_gps": "375.1362",
+    "elevation_google": "369.7070",
+    "elevation_bing": "0.0000",
+    "speed_avg": "19.79",
+    "heartrate_avg": "148.88",
+    "temperature_avg": "24.8395",
+    "trackpoints": "1551"
+}

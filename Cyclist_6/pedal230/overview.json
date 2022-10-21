@@ -1,0 +1,21 @@
+{
+    "pedal": 230,
+    "path": "/datasets/dataset2/Rider1/235.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.0403717122972|13.587698210030794",
+    "coordinateFinal": "46.04039954021573|13.58766870573163",
+    "country": "Slovenia",
+    "locality": "Deskle",
+    "centroid": "46.05302985|13.58683385",
+    "bbox": "[[46.0373113,13.5576507],[46.0687484,13.5576507],[46.0687484,13.616017],[46.0373113,13.616017],[46.0373113,13.5576507]]",
+    "datetime": "2016-01-02 09:29:00",
+    "duration": "2:53:29",
+    "distance": "29.02",
+    "elevation_gps": "356.6733",
+    "elevation_google": "351.5734",
+    "elevation_bing": "353.5852",
+    "speed_avg": "10.04",
+    "heartrate_avg": "139.45",
+    "temperature_avg": "3.8482",
+    "trackpoints": "5494"
+}

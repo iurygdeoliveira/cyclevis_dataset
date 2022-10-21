@@ -1,0 +1,21 @@
+{
+    "pedal": 511,
+    "path": "/datasets/dataset2/Rider1/518.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.99991352297366|14.031375981867313",
+    "coordinateFinal": "45.998823372647166|14.032863434404135",
+    "country": "Slovenia",
+    "locality": "Idrija",
+    "centroid": "45.99871095|14.032635899999999",
+    "bbox": "[[45.9975084,14.0313758],[45.9999135,14.0313758],[45.9999135,14.033896],[45.9975084,14.033896],[45.9975084,14.0313758]]",
+    "datetime": "2011-12-18 11:26:47",
+    "duration": "0:42:58",
+    "distance": "11.93",
+    "elevation_gps": "343.3505",
+    "elevation_google": "326.9128",
+    "elevation_bing": "332.0748",
+    "speed_avg": "16.66",
+    "heartrate_avg": "179.29",
+    "temperature_avg": "5.0000",
+    "trackpoints": "1203"
+}

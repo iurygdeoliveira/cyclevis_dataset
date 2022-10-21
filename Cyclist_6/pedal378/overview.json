@@ -1,0 +1,21 @@
+{
+    "pedal": 378,
+    "path": "/datasets/dataset2/Rider1/384.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.14583633840084|14.280981598421931",
+    "coordinateFinal": "46.14415258169174|14.282713048160076",
+    "country": "Slovenia",
+    "locality": "\u0160kofja Loka",
+    "centroid": "46.1266586|14.2753554",
+    "bbox": "[[46.1024936,14.2455009],[46.1508236,14.2455009],[46.1508236,14.3052099],[46.1024936,14.3052099],[46.1024936,14.2455009]]",
+    "datetime": "2015-09-12 08:00:14",
+    "duration": "1:43:7",
+    "distance": "26.56",
+    "elevation_gps": "643.0436",
+    "elevation_google": "638.5178",
+    "elevation_bing": "645.6736",
+    "speed_avg": "15.45",
+    "heartrate_avg": "158.02",
+    "temperature_avg": "17.8061",
+    "trackpoints": "4347"
+}

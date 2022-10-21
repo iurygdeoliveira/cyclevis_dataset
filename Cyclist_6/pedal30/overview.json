@@ -1,0 +1,21 @@
+{
+    "pedal": 30,
+    "path": "/datasets/dataset2/Rider1/30.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.17541892454028|13.73506455682218",
+    "coordinateFinal": "46.17512262426317|13.738427376374602",
+    "country": "Slovenia",
+    "locality": "Tolmin",
+    "centroid": "46.183808850000005|13.686774",
+    "bbox": "[[46.1751226,13.6351207],[46.1924951,13.6351207],[46.1924951,13.7384273],[46.1751226,13.7384273],[46.1751226,13.6351207]]",
+    "datetime": "2014-07-06 08:00:31",
+    "duration": "4:12:51",
+    "distance": "30.93",
+    "elevation_gps": "638.6874",
+    "elevation_google": "643.4914",
+    "elevation_bing": "650.3505",
+    "speed_avg": "7.34",
+    "heartrate_avg": "132.36",
+    "temperature_avg": "30.1739",
+    "trackpoints": "5418"
+}

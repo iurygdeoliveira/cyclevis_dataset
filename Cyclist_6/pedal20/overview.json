@@ -1,0 +1,21 @@
+{
+    "pedal": 20,
+    "path": "/datasets/dataset2/Rider1/20.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.58592487126589|13.929330836981535",
+    "coordinateFinal": "45.58582931756973|13.929216591641307",
+    "country": "Slovenia",
+    "locality": "Kozina",
+    "centroid": "45.5719484|13.95197305",
+    "bbox": "[[45.5331545,13.9279786],[45.6107423,13.9279786],[45.6107423,13.9759675],[45.5331545,13.9759675],[45.5331545,13.9279786]]",
+    "datetime": "2014-11-25 12:15:28",
+    "duration": "2:15:51",
+    "distance": "21.82",
+    "elevation_gps": "695.1359",
+    "elevation_google": "701.8100",
+    "elevation_bing": "706.2185",
+    "speed_avg": "9.64",
+    "heartrate_avg": "137.79",
+    "temperature_avg": "6.6779",
+    "trackpoints": "3213"
+}

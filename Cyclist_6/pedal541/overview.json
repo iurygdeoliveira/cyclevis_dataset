@@ -1,0 +1,21 @@
+{
+    "pedal": 541,
+    "path": "/datasets/dataset2/Rider1/549.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "6.317270686849952|99.84954801388085",
+    "coordinateFinal": "6.316949240863323|99.84966217540205",
+    "country": "Malaysia",
+    "locality": "Langkawi",
+    "centroid": "6.34584593|99.85909455",
+    "bbox": "[[6.2998328,99.847484],[6.39185906,99.847484],[6.39185906,99.8707051],[6.2998328,99.8707051],[6.2998328,99.847484]]",
+    "datetime": "2014-10-10 04:35:48",
+    "duration": "1:4:22",
+    "distance": "26.60",
+    "elevation_gps": "40.2158",
+    "elevation_google": "12.6817",
+    "elevation_bing": "12.6842",
+    "speed_avg": "24.80",
+    "heartrate_avg": "135.43",
+    "temperature_avg": "35.6247",
+    "trackpoints": "3746"
+}

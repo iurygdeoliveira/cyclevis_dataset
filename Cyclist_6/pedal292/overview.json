@@ -1,0 +1,21 @@
+{
+    "pedal": 292,
+    "path": "/datasets/dataset2/Rider1/298.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "50.893779220059514|15.746259056031704",
+    "coordinateFinal": "50.895663388073444|15.754401572048664",
+    "country": "Poland",
+    "locality": "Jelenia G\u00f3ra",
+    "centroid": "50.8937512|15.753921300000002",
+    "bbox": "[[50.8912437,15.7452744],[50.8962587,15.7452744],[50.8962587,15.7625682],[50.8912437,15.7625682],[50.8912437,15.7452744]]",
+    "datetime": "2015-06-20 10:37:07",
+    "duration": "0:33:43",
+    "distance": "6.23",
+    "elevation_gps": "381.9805",
+    "elevation_google": "391.9478",
+    "elevation_bing": "393.0643",
+    "speed_avg": "11.09",
+    "heartrate_avg": "126.56",
+    "temperature_avg": "16.4469",
+    "trackpoints": "1027"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 210,
+    "path": "/datasets/dataset2/Rider1/214.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "43.79643665626645|7.3716625571250916",
+    "coordinateFinal": "43.79863631911576|7.37025280483067",
+    "country": "France",
+    "locality": "Blausasc",
+    "centroid": "43.79817215|7.3666603550000005",
+    "bbox": "[[43.7901938,7.35778346],[43.8061505,7.35778346],[43.8061505,7.37553725],[43.7901938,7.37553725],[43.7901938,7.35778346]]",
+    "datetime": "2014-02-20 10:45:43",
+    "duration": "3:51:54",
+    "distance": "35.67",
+    "elevation_gps": "367.6399",
+    "elevation_google": "346.6610",
+    "elevation_bing": "345.2951",
+    "speed_avg": "9.23",
+    "heartrate_avg": "136.10",
+    "temperature_avg": "17.6545",
+    "trackpoints": "10705"
+}
