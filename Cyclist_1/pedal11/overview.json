@@ -1,0 +1,21 @@
+{
+    "pedal": 11,
+    "path": "/datasets/dataset1/Rider1/24.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.0897480|15.0722640",
+    "coordinateFinal": "46.0774200|14.8255610",
+    "country": "Slovenia",
+    "locality": "Dobovec",
+    "centroid": "46.0966855|14.944404500000001",
+    "bbox": "[[46.042847,14.816545],[46.150524,14.816545],[46.150524,15.072264],[46.042847,15.072264],[46.042847,14.816545]]",
+    "datetime": "2014-09-14 10:35:26",
+    "duration": "3:18:34",
+    "distance": "55.99",
+    "elevation_gps": "357.5715",
+    "elevation_google": "377.5008",
+    "elevation_bing": "383.1633",
+    "speed_avg": "16.92",
+    "heartrate_avg": "122.97",
+    "temperature_avg": "18.2666",
+    "trackpoints": "6779"
+}

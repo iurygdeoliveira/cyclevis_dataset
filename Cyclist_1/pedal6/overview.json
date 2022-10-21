@@ -1,0 +1,21 @@
+{
+    "pedal": 6,
+    "path": "/datasets/dataset1/Rider1/15.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1514580|14.6552240",
+    "coordinateFinal": "46.1516090|14.6555870",
+    "country": "Slovenia",
+    "locality": "Dob",
+    "centroid": "46.1601045|14.7421475",
+    "bbox": "[[46.142264,14.644547],[46.177945,14.644547],[46.177945,14.839748],[46.142264,14.839748],[46.142264,14.644547]]",
+    "datetime": "2014-04-11 08:50:07",
+    "duration": "0:57:49",
+    "distance": "38.05",
+    "elevation_gps": "328.8132",
+    "elevation_google": "367.7307",
+    "elevation_bing": "370.4027",
+    "speed_avg": "39.49",
+    "heartrate_avg": "126.96",
+    "temperature_avg": "13.9269",
+    "trackpoints": "1423"
+}

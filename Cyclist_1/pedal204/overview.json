@@ -1,0 +1,21 @@
+{
+    "pedal": 204,
+    "path": "/datasets/dataset1/Rider1/442.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5074910|13.3097270",
+    "coordinateFinal": "46.5063410|13.3038190",
+    "country": "Italy",
+    "locality": "Pontebba",
+    "centroid": "46.5049285|13.3098215",
+    "bbox": "[[46.502308,13.303819],[46.507549,13.303819],[46.507549,13.315824],[46.502308,13.315824],[46.502308,13.303819]]",
+    "datetime": "2014-08-10 07:40:05",
+    "duration": "0:9:36",
+    "distance": "2.46",
+    "elevation_gps": "559.3291",
+    "elevation_google": "557.5823",
+    "elevation_bing": "563.7864",
+    "speed_avg": "15.38",
+    "heartrate_avg": "82.52",
+    "temperature_avg": "25.5777",
+    "trackpoints": "206"
+}

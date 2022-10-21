@@ -1,0 +1,21 @@
+{
+    "pedal": 114,
+    "path": "/datasets/dataset1/Rider1/273.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.0619230|14.5835880",
+    "coordinateFinal": "46.0618120|14.5835430",
+    "country": "Slovenia",
+    "locality": "Ljubljana - Polje",
+    "centroid": "46.076657|14.6094975",
+    "bbox": "[[46.061657,14.553423],[46.091657,14.553423],[46.091657,14.665572],[46.061657,14.665572],[46.061657,14.553423]]",
+    "datetime": "2014-08-27 11:04:04",
+    "duration": "1:21:59",
+    "distance": "45.48",
+    "elevation_gps": "311.8217",
+    "elevation_google": "277.3842",
+    "elevation_bing": "277.7722",
+    "speed_avg": "33.28",
+    "heartrate_avg": "125.96",
+    "temperature_avg": "28.6972",
+    "trackpoints": "4399"
+}

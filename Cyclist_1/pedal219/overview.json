@@ -1,0 +1,21 @@
+{
+    "pedal": 219,
+    "path": "/datasets/dataset1/Rider1/669.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.4022340|13.6000830",
+    "coordinateFinal": "46.4046150|13.6007550",
+    "country": "Slovenia",
+    "locality": "Log pod Mangartom",
+    "centroid": "46.4018565|13.601068999999999",
+    "bbox": "[[46.390275,13.587902],[46.413438,13.587902],[46.413438,13.614236],[46.390275,13.614236],[46.390275,13.587902]]",
+    "datetime": "2014-08-17 06:52:44",
+    "duration": "0:54:9",
+    "distance": "21.54",
+    "elevation_gps": "592.9282",
+    "elevation_google": "641.7821",
+    "elevation_bing": "641.5628",
+    "speed_avg": "23.87",
+    "heartrate_avg": "116.41",
+    "temperature_avg": "13.9000",
+    "trackpoints": "3129"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 209,
+    "path": "/datasets/dataset1/Rider1/644.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.8477510|14.6948250",
+    "coordinateFinal": "45.8503780|14.6934700",
+    "country": "Slovenia",
+    "locality": "Videm - Dobrepolje",
+    "centroid": "45.8478465|14.6906665",
+    "bbox": "[[45.83688,14.67686],[45.858813,14.67686],[45.858813,14.704473],[45.83688,14.704473],[45.83688,14.67686]]",
+    "datetime": "2013-03-23 10:40:15",
+    "duration": "3:20:54",
+    "distance": "71.78",
+    "elevation_gps": "446.9334",
+    "elevation_google": "442.5984",
+    "elevation_bing": "442.8542",
+    "speed_avg": "21.44",
+    "heartrate_avg": "151.27",
+    "temperature_avg": "5.3506",
+    "trackpoints": "8893"
+}

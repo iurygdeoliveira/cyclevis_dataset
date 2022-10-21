@@ -1,0 +1,21 @@
+{
+    "pedal": 180,
+    "path": "/datasets/dataset1/Rider1/397.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "47.2454070|16.0524590",
+    "coordinateFinal": "47.2459220|16.0523370",
+    "country": "Austria",
+    "locality": "Rohr bei Hartberg",
+    "centroid": "47.2454545|16.05255",
+    "bbox": "[[47.244987,16.052337],[47.245922,16.052337],[47.245922,16.052763],[47.244987,16.052763],[47.244987,16.052337]]",
+    "datetime": "2014-08-22 07:57:20",
+    "duration": "0:51:43",
+    "distance": "0.17",
+    "elevation_gps": "344.4350",
+    "elevation_google": "335.9041",
+    "elevation_bing": "334.9790",
+    "speed_avg": "0.20",
+    "heartrate_avg": "121.35",
+    "temperature_avg": "23.6713",
+    "trackpoints": "286"
+}

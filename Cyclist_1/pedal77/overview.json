@@ -1,0 +1,21 @@
+{
+    "pedal": 77,
+    "path": "/datasets/dataset1/Rider1/186.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1384060|14.6122030",
+    "coordinateFinal": "46.1366120|14.6003040",
+    "country": "Slovenia",
+    "locality": "Dom\u017eale",
+    "centroid": "46.1398905|14.7057775",
+    "bbox": "[[46.127137,14.600304],[46.152644,14.600304],[46.152644,14.811251],[46.127137,14.811251],[46.127137,14.600304]]",
+    "datetime": "2014-05-28 10:46:36",
+    "duration": "1:20:40",
+    "distance": "44.55",
+    "elevation_gps": "373.2700",
+    "elevation_google": "344.0987",
+    "elevation_bing": "346.6106",
+    "speed_avg": "33.14",
+    "heartrate_avg": "123.75",
+    "temperature_avg": "25.4304",
+    "trackpoints": "2026"
+}

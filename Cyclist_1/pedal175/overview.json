@@ -1,0 +1,21 @@
+{
+    "pedal": 175,
+    "path": "/datasets/dataset1/Rider1/392.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.0911990|14.6278460",
+    "coordinateFinal": "46.0886500|14.6403970",
+    "country": "Slovenia",
+    "locality": "Dol pri Ljubljani",
+    "centroid": "46.1308945|14.721354",
+    "bbox": "[[46.088588,14.603415],[46.173201,14.603415],[46.173201,14.839293],[46.088588,14.839293],[46.088588,14.603415]]",
+    "datetime": "2013-01-31 11:15:56",
+    "duration": "4:17:53",
+    "distance": "115.97",
+    "elevation_gps": "332.0737",
+    "elevation_google": "354.5906",
+    "elevation_bing": "357.3474",
+    "speed_avg": "26.98",
+    "heartrate_avg": "133.99",
+    "temperature_avg": "10.0078",
+    "trackpoints": "14575"
+}

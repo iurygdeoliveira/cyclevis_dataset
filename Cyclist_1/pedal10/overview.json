@@ -1,0 +1,21 @@
+{
+    "pedal": 10,
+    "path": "/datasets/dataset1/Rider1/23.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.5510650|13.8733180",
+    "coordinateFinal": "45.5508440|13.8733570",
+    "country": "Slovenia",
+    "locality": "\u010crni Kal",
+    "centroid": "45.515014|13.728390500000001",
+    "bbox": "[[45.471752,13.582964],[45.558276,13.582964],[45.558276,13.873817],[45.471752,13.873817],[45.471752,13.582964]]",
+    "datetime": "2013-02-16 09:03:59",
+    "duration": "4:27:37",
+    "distance": "102.94",
+    "elevation_gps": "122.5210",
+    "elevation_google": "115.1825",
+    "elevation_bing": "115.6855",
+    "speed_avg": "23.08",
+    "heartrate_avg": "132.16",
+    "temperature_avg": "12.8823",
+    "trackpoints": "13204"
+}

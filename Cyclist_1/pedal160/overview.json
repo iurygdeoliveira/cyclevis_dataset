@@ -1,0 +1,21 @@
+{
+    "pedal": 160,
+    "path": "/datasets/dataset1/Rider1/359.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.9936490|10.9746270",
+    "coordinateFinal": "45.9946680|10.9748970",
+    "country": "Italy",
+    "locality": "Cavedine",
+    "centroid": "46.00613849999999|10.9594725",
+    "bbox": "[[45.965897,10.936401],[46.04638,10.936401],[46.04638,10.982544],[45.965897,10.982544],[45.965897,10.936401]]",
+    "datetime": "2013-09-20 08:38:33",
+    "duration": "0:42:47",
+    "distance": "24.43",
+    "elevation_gps": "378.6119",
+    "elevation_google": "390.4579",
+    "elevation_bing": "381.7690",
+    "speed_avg": "34.26",
+    "heartrate_avg": "186.53",
+    "temperature_avg": "17.1439",
+    "trackpoints": "1619"
+}

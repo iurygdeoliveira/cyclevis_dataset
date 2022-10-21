@@ -1,0 +1,21 @@
+{
+    "pedal": 106,
+    "path": "/datasets/dataset1/Rider1/251.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.2671490|14.6037210",
+    "coordinateFinal": "46.2676180|14.6045010",
+    "country": "Slovenia",
+    "locality": "Stahovica",
+    "centroid": "46.2785585|14.631353999999998",
+    "bbox": "[[46.267041,14.603721],[46.290076,14.603721],[46.290076,14.658987],[46.267041,14.658987],[46.267041,14.603721]]",
+    "datetime": "2014-11-21 09:01:23",
+    "duration": "3:32:5",
+    "distance": "14.39",
+    "elevation_gps": "1041.8151",
+    "elevation_google": "1029.1876",
+    "elevation_bing": "1034.2489",
+    "speed_avg": "4.07",
+    "heartrate_avg": "145.70",
+    "temperature_avg": "14.9878",
+    "trackpoints": "4167"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 27,
+    "path": "/datasets/dataset1/Rider1/58.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.2443340|15.2788070",
+    "coordinateFinal": "46.2422600|15.2792870",
+    "country": "Slovenia",
+    "locality": "Celje",
+    "centroid": "46.248495500000004|15.2943635",
+    "bbox": "[[46.239415,15.277643],[46.257576,15.277643],[46.257576,15.311084],[46.239415,15.311084],[46.239415,15.277643]]",
+    "datetime": "2014-06-21 07:15:30",
+    "duration": "0:33:58",
+    "distance": "15.94",
+    "elevation_gps": "252.5607",
+    "elevation_google": "242.5095",
+    "elevation_bing": "242.8218",
+    "speed_avg": "28.16",
+    "heartrate_avg": "122.61",
+    "temperature_avg": "16.7374",
+    "trackpoints": "2037"
+}

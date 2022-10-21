@@ -1,0 +1,21 @@
+{
+    "pedal": 122,
+    "path": "/datasets/dataset1/Rider1/294.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.2575620|15.0969930",
+    "coordinateFinal": "46.2577670|15.0979810",
+    "country": "Slovenia",
+    "locality": "Polzela",
+    "centroid": "46.28477|15.048992499999999",
+    "bbox": "[[46.224032,14.979508],[46.345508,14.979508],[46.345508,15.118477],[46.224032,15.118477],[46.224032,14.979508]]",
+    "datetime": "2014-04-01 10:08:58",
+    "duration": "1:52:28",
+    "distance": "53.08",
+    "elevation_gps": "327.5770",
+    "elevation_google": "322.1833",
+    "elevation_bing": "324.9095",
+    "speed_avg": "28.32",
+    "heartrate_avg": "106.68",
+    "temperature_avg": "22.5810",
+    "trackpoints": "3205"
+}

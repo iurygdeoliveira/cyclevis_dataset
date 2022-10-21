@@ -1,0 +1,21 @@
+{
+    "pedal": 238,
+    "path": "/datasets/dataset1/Rider1/714.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "44.2862920|11.8841090",
+    "coordinateFinal": "44.3213270|11.9026730",
+    "country": "Italy",
+    "locality": "Faenza",
+    "centroid": "44.3038095|11.893978",
+    "bbox": "[[44.286292,11.884109],[44.321327,11.884109],[44.321327,11.903847],[44.286292,11.903847],[44.286292,11.884109]]",
+    "datetime": "2014-03-16 12:41:42",
+    "duration": "0:12:46",
+    "distance": "4.54",
+    "elevation_gps": "20.3392",
+    "elevation_google": "28.6157",
+    "elevation_bing": "30.2073",
+    "speed_avg": "21.34",
+    "heartrate_avg": "103.57",
+    "temperature_avg": "19.1760",
+    "trackpoints": "767"
+}

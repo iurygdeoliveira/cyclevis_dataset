@@ -1,0 +1,21 @@
+{
+    "pedal": 178,
+    "path": "/datasets/dataset1/Rider1/395.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.7827650|12.2178550",
+    "coordinateFinal": "45.7597090|12.2043420",
+    "country": "Italy",
+    "locality": "Arcade",
+    "centroid": "45.771237|12.210900500000001",
+    "bbox": "[[45.759709,12.203733],[45.782765,12.203733],[45.782765,12.218068],[45.759709,12.218068],[45.759709,12.203733]]",
+    "datetime": "2014-05-11 06:38:50",
+    "duration": "0:7:38",
+    "distance": "2.91",
+    "elevation_gps": "53.1941",
+    "elevation_google": "56.6178",
+    "elevation_bing": "55.4950",
+    "speed_avg": "22.87",
+    "heartrate_avg": "102.58",
+    "temperature_avg": "21.0000",
+    "trackpoints": "101"
+}

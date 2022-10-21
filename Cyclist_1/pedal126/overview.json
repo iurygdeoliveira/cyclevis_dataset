@@ -1,0 +1,21 @@
+{
+    "pedal": 126,
+    "path": "/datasets/dataset1/Rider1/301.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.3922360|13.2180420",
+    "coordinateFinal": "46.2750600|13.1283000",
+    "country": "Italy",
+    "locality": "Resiutta",
+    "centroid": "46.395745000000005|13.089046",
+    "bbox": "[[46.271838,12.95987],[46.519652,12.95987],[46.519652,13.218222],[46.271838,13.218222],[46.271838,12.95987]]",
+    "datetime": "2013-08-09 09:16:00",
+    "duration": "2:14:28",
+    "distance": "94.44",
+    "elevation_gps": "344.1393",
+    "elevation_google": "330.3132",
+    "elevation_bing": "328.0210",
+    "speed_avg": "42.14",
+    "heartrate_avg": "171.97",
+    "temperature_avg": "20.3225",
+    "trackpoints": "7950"
+}

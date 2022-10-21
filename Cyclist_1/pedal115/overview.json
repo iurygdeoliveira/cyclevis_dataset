@@ -1,0 +1,21 @@
+{
+    "pedal": 115,
+    "path": "/datasets/dataset1/Rider1/277.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.0231710|14.9373620",
+    "coordinateFinal": "46.0446390|14.9610350",
+    "country": "Slovenia",
+    "locality": "Gabrovka",
+    "centroid": "46.034153|14.946970999999998",
+    "bbox": "[[46.023171,14.931196],[46.045135,14.931196],[46.045135,14.962746],[46.023171,14.962746],[46.023171,14.931196]]",
+    "datetime": "2014-09-27 09:35:34",
+    "duration": "0:24:41",
+    "distance": "6.25",
+    "elevation_gps": "578.6242",
+    "elevation_google": "613.4754",
+    "elevation_bing": "627.2858",
+    "speed_avg": "15.19",
+    "heartrate_avg": "179.68",
+    "temperature_avg": "16.3990",
+    "trackpoints": "1431"
+}

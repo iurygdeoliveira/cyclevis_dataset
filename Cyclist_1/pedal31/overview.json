@@ -1,0 +1,21 @@
+{
+    "pedal": 31,
+    "path": "/datasets/dataset1/Rider1/67.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "44.2580060|12.3610880",
+    "coordinateFinal": "44.2520120|12.3644750",
+    "country": "Italy",
+    "locality": "Cervia",
+    "centroid": "44.108157500000004|12.2150425",
+    "bbox": "[[43.958309,12.062153],[44.258006,12.062153],[44.258006,12.367932],[43.958309,12.367932],[43.958309,12.062153]]",
+    "datetime": "2014-04-06 06:02:17",
+    "duration": "4:13:35",
+    "distance": "149.44",
+    "elevation_gps": "202.1597",
+    "elevation_google": "195.8054",
+    "elevation_bing": "189.8537",
+    "speed_avg": "35.36",
+    "heartrate_avg": "147.97",
+    "temperature_avg": "14.7926",
+    "trackpoints": "9092"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 34,
+    "path": "/datasets/dataset1/Rider1/77.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "47.1865760|15.9901180",
+    "coordinateFinal": "47.1833460|15.9960220",
+    "country": "Austria",
+    "locality": "Bad Waltersdorf",
+    "centroid": "47.1845125|15.992768000000002",
+    "bbox": "[[47.182189,15.988981],[47.186836,15.988981],[47.186836,15.996555],[47.182189,15.996555],[47.182189,15.988981]]",
+    "datetime": "2014-08-16 10:56:55",
+    "duration": "0:32:19",
+    "distance": "7.69",
+    "elevation_gps": "293.3886",
+    "elevation_google": "295.5733",
+    "elevation_bing": "293.5297",
+    "speed_avg": "14.28",
+    "heartrate_avg": "98.53",
+    "temperature_avg": "26.8110",
+    "trackpoints": "455"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 195,
+    "path": "/datasets/dataset1/Rider1/424.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.2271190|14.7044140",
+    "coordinateFinal": "46.3004220|14.6404590",
+    "country": "Slovenia",
+    "locality": "Laze v Tuhinju",
+    "centroid": "46.269211|14.682217999999999",
+    "bbox": "[[46.226492,14.640459],[46.31193,14.640459],[46.31193,14.723977],[46.226492,14.723977],[46.226492,14.640459]]",
+    "datetime": "2014-06-15 07:59:39",
+    "duration": "1:33:51",
+    "distance": "26.60",
+    "elevation_gps": "1049.1570",
+    "elevation_google": "1065.1733",
+    "elevation_bing": "1076.0305",
+    "speed_avg": "17.01",
+    "heartrate_avg": "147.45",
+    "temperature_avg": "17.8348",
+    "trackpoints": "4293"
+}

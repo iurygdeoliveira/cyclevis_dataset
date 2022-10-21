@@ -1,0 +1,21 @@
+{
+    "pedal": 183,
+    "path": "/datasets/dataset1/Rider1/401.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.8041210|12.7490550",
+    "coordinateFinal": "46.8040240|12.7488210",
+    "country": "Austria",
+    "locality": "Leisach",
+    "centroid": "46.816767|12.718612499999999",
+    "bbox": "[[46.804024,12.682321],[46.82951,12.682321],[46.82951,12.754904],[46.804024,12.754904],[46.804024,12.682321]]",
+    "datetime": "2014-09-06 10:08:44",
+    "duration": "1:48:59",
+    "distance": "25.77",
+    "elevation_gps": "1335.4562",
+    "elevation_google": "1349.0152",
+    "elevation_bing": "1344.7690",
+    "speed_avg": "14.19",
+    "heartrate_avg": "167.34",
+    "temperature_avg": "18.2243",
+    "trackpoints": "5212"
+}

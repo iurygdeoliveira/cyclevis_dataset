@@ -1,0 +1,21 @@
+{
+    "pedal": 150,
+    "path": "/datasets/dataset1/Rider1/346.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.8077920|12.0992910",
+    "coordinateFinal": "45.7598910|12.2064840",
+    "country": "Italy",
+    "locality": "Santa Maria della Vittoria",
+    "centroid": "45.76859|12.153355",
+    "bbox": "[[45.728314,12.097636],[45.808866,12.097636],[45.808866,12.209074],[45.728314,12.209074],[45.728314,12.097636]]",
+    "datetime": "2014-05-11 10:22:32",
+    "duration": "0:43:41",
+    "distance": "20.11",
+    "elevation_gps": "143.0266",
+    "elevation_google": "140.5914",
+    "elevation_bing": "140.4461",
+    "speed_avg": "27.62",
+    "heartrate_avg": "107.38",
+    "temperature_avg": "24.1328",
+    "trackpoints": "919"
+}
