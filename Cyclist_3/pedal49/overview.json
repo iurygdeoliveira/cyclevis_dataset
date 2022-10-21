@@ -1,0 +1,21 @@
+{
+    "pedal": 49,
+    "path": "/datasets/dataset1/Rider3/202.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "44.2916570|15.4424340",
+    "coordinateFinal": "44.2885500|15.4470880",
+    "country": "Croatia",
+    "locality": "Starigrad",
+    "centroid": "44.3096685|15.4371715",
+    "bbox": "[[44.288482,15.419554],[44.330855,15.419554],[44.330855,15.454789],[44.288482,15.454789],[44.288482,15.419554]]",
+    "datetime": "2013-08-12 07:42:19",
+    "duration": "1:14:26",
+    "distance": "22.10",
+    "elevation_gps": "306.5002",
+    "elevation_google": "316.0442",
+    "elevation_bing": "315.5573",
+    "speed_avg": "17.81",
+    "heartrate_avg": "140.20",
+    "temperature_avg": "33.3802",
+    "trackpoints": "2914"
+}
