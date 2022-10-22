@@ -1,0 +1,21 @@
+{
+    "pedal": 79,
+    "path": "/datasets/dataset3/Rider8/86.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "50.42582527734339|14.251372274011374",
+    "coordinateFinal": "50.42597992345691|14.250806579366326",
+    "country": "Czechia",
+    "locality": "Roudnice nad Labem",
+    "centroid": "50.42501955|14.251406600000001",
+    "bbox": "[[50.4238247,14.245988],[50.4262144,14.245988],[50.4262144,14.2568252],[50.4238247,14.2568252],[50.4238247,14.245988]]",
+    "datetime": "2016-05-06 15:41:03",
+    "duration": "0:7:11",
+    "distance": "1.74",
+    "elevation_gps": "184.9333",
+    "elevation_google": "190.2936",
+    "elevation_bing": "190.8727",
+    "speed_avg": "14.53",
+    "heartrate_avg": "108.40",
+    "temperature_avg": "22.9282",
+    "trackpoints": "432"
+}

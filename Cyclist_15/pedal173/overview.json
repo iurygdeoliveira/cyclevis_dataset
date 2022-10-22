@@ -1,0 +1,21 @@
+{
+    "pedal": 173,
+    "path": "/datasets/dataset3/Rider8/188.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "50.82312639802694|2.7664561104029417",
+    "coordinateFinal": "50.82557818852365|2.7681998815387487",
+    "country": "Kriekstraat 12, 8970 Poperinge, Belgium",
+    "locality": "Poperinge",
+    "centroid": "50.8526382|2.69436168",
+    "bbox": "[[50.8170906,2.62031276],[50.8881858,2.62031276],[50.8881858,2.7684106],[50.8170906,2.7684106],[50.8170906,2.62031276]]",
+    "datetime": "2016-03-26 08:46:52",
+    "duration": "1:7:43",
+    "distance": "33.28",
+    "elevation_gps": "28.7654",
+    "elevation_google": "27.6031",
+    "elevation_bing": "0.0000",
+    "speed_avg": "29.49",
+    "heartrate_avg": "122.28",
+    "temperature_avg": "7.4333",
+    "trackpoints": "1140"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 52,
+    "path": "/datasets/dataset3/Rider8/58.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.26839811913669|14.317151606082916",
+    "coordinateFinal": "46.242095958441496|14.35552328824997",
+    "country": "Slovenia",
+    "locality": "Naklo",
+    "centroid": "46.250230249999994|14.34033685",
+    "bbox": "[[46.2320624,14.3171516],[46.2683981,14.3171516],[46.2683981,14.3635221],[46.2320624,14.3635221],[46.2320624,14.3171516]]",
+    "datetime": "2016-07-31 06:48:45",
+    "duration": "1:16:48",
+    "distance": "11.32",
+    "elevation_gps": "396.4542",
+    "elevation_google": "386.7758",
+    "elevation_bing": "390.3299",
+    "speed_avg": "8.84",
+    "heartrate_avg": "104.40",
+    "temperature_avg": "26.4971",
+    "trackpoints": "2404"
+}

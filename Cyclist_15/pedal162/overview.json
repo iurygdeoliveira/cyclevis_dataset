@@ -1,0 +1,21 @@
+{
+    "pedal": 162,
+    "path": "/datasets/dataset3/Rider8/176.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "49.304470382630825|7.327151466161013",
+    "coordinateFinal": "49.17443529702723|7.207470126450062",
+    "country": "Kardinal-Wendel-Stra\u00dfe 3, 66424 Homburg, Germany",
+    "locality": "Homburg",
+    "centroid": "49.20107589999999|7.2555055500000005",
+    "bbox": "[[49.0961425,7.1802146],[49.3060093,7.1802146],[49.3060093,7.3307965],[49.0961425,7.3307965],[49.0961425,7.1802146]]",
+    "datetime": "2016-06-16 09:05:57",
+    "duration": "1:59:52",
+    "distance": "51.40",
+    "elevation_gps": "229.2263",
+    "elevation_google": "257.7257",
+    "elevation_bing": "0.0000",
+    "speed_avg": "25.73",
+    "heartrate_avg": "124.11",
+    "temperature_avg": "12.2749",
+    "trackpoints": "5089"
+}

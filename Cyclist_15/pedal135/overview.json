@@ -1,0 +1,21 @@
+{
+    "pedal": 135,
+    "path": "/datasets/dataset3/Rider8/144.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.1668215226382|14.568057172000408",
+    "coordinateFinal": "46.16540623828769|14.571477742865682",
+    "country": "\u0160olska ulica 11, 1234 Menge\u0161, Slovenia",
+    "locality": "Menge\u0161",
+    "centroid": "46.1664604|14.5667842",
+    "bbox": "[[46.1650065,14.5612959],[46.1679143,14.5612959],[46.1679143,14.5722725],[46.1650065,14.5722725],[46.1650065,14.5612959]]",
+    "datetime": "2015-10-04 09:13:18",
+    "duration": "1:16:43",
+    "distance": "3.05",
+    "elevation_gps": "311.7501",
+    "elevation_google": "323.6825",
+    "elevation_bing": "326.5923",
+    "speed_avg": "2.39",
+    "heartrate_avg": "106.26",
+    "temperature_avg": "16.4291",
+    "trackpoints": "4363"
+}

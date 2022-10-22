@@ -1,0 +1,21 @@
+{
+    "pedal": 10,
+    "path": "/datasets/dataset3/Rider8/11.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.9505261760205|13.64461979828775",
+    "coordinateFinal": "45.95051326788962|13.645074432715774",
+    "country": "Slovenia",
+    "locality": "Nova Gorica",
+    "centroid": "45.88022795|13.797225950000001",
+    "bbox": "[[45.8031004,13.6333701],[45.9573555,13.6333701],[45.9573555,13.9610818],[45.8031004,13.9610818],[45.8031004,13.6333701]]",
+    "datetime": "2014-02-25 13:46:07",
+    "duration": "2:56:53",
+    "distance": "73.81",
+    "elevation_gps": "80.7167",
+    "elevation_google": "132.4861",
+    "elevation_bing": "134.6521",
+    "speed_avg": "25.04",
+    "heartrate_avg": "122.67",
+    "temperature_avg": "13.9536",
+    "trackpoints": "3751"
+}

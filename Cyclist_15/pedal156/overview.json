@@ -1,0 +1,21 @@
+{
+    "pedal": 156,
+    "path": "/datasets/dataset3/Rider8/170.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.49813359603286|15.64664893783629",
+    "coordinateFinal": "46.498201908543706|15.646677436307073",
+    "country": "Poljska cesta 14, 2311 Ho\u010de, Slovenia",
+    "locality": "Spodnje Ho\u010de",
+    "centroid": "46.49786520000001|15.57744535",
+    "bbox": "[[46.4837691,15.5059102],[46.5119613,15.5059102],[46.5119613,15.6489805],[46.4837691,15.6489805],[46.4837691,15.5059102]]",
+    "datetime": "2015-06-21 07:35:15",
+    "duration": "2:56:57",
+    "distance": "71.04",
+    "elevation_gps": "601.5018",
+    "elevation_google": "600.6191",
+    "elevation_bing": "601.9312",
+    "speed_avg": "24.09",
+    "heartrate_avg": "136.39",
+    "temperature_avg": "19.4251",
+    "trackpoints": "9767"
+}

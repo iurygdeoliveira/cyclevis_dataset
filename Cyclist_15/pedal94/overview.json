@@ -1,0 +1,21 @@
+{
+    "pedal": 94,
+    "path": "/datasets/dataset3/Rider8/102.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.620396142825484|16.092062601819634",
+    "coordinateFinal": "46.648309556767344|16.09648103825748",
+    "country": "Slovenia",
+    "locality": "Radenci",
+    "centroid": "46.6329202|16.088695350000002",
+    "bbox": "[[46.6174286,16.0808383],[46.6484118,16.0808383],[46.6484118,16.0965524],[46.6174286,16.0965524],[46.6174286,16.0808383]]",
+    "datetime": "2013-11-09 09:26:07",
+    "duration": "1:18:19",
+    "distance": "18.99",
+    "elevation_gps": "221.9662",
+    "elevation_google": "191.0834",
+    "elevation_bing": "195.1419",
+    "speed_avg": "14.55",
+    "heartrate_avg": "159.64",
+    "temperature_avg": "18.2049",
+    "trackpoints": "1191"
+}

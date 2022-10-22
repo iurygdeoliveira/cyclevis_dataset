@@ -1,0 +1,21 @@
+{
+    "pedal": 58,
+    "path": "/datasets/dataset3/Rider8/64.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "49.85146558843553|6.110643446445465",
+    "coordinateFinal": "50.125187281519175|6.001411741599441",
+    "country": "Luxembourg",
+    "locality": "Ierpeldeng op der Sauer",
+    "centroid": "49.99498695|5.977576995",
+    "bbox": "[[49.8514655,5.83816478],[50.1385084,5.83816478],[50.1385084,6.11698921],[49.8514655,6.11698921],[49.8514655,5.83816478]]",
+    "datetime": "2016-07-09 12:05:23",
+    "duration": "2:35:29",
+    "distance": "103.38",
+    "elevation_gps": "400.9438",
+    "elevation_google": "409.0322",
+    "elevation_bing": "410.8184",
+    "speed_avg": "39.89",
+    "heartrate_avg": "162.14",
+    "temperature_avg": "24.0892",
+    "trackpoints": "9330"
+}

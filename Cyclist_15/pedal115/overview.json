@@ -1,0 +1,21 @@
+{
+    "pedal": 115,
+    "path": "/datasets/dataset3/Rider8/124.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.67127546854317|16.337786223739386",
+    "coordinateFinal": "46.76445348188281|16.171939875930548",
+    "country": "Slovenia",
+    "locality": "Dobrovnik",
+    "centroid": "46.69853865|16.28544235",
+    "bbox": "[[46.6317124,16.1657193],[46.7653649,16.1657193],[46.7653649,16.4051654],[46.6317124,16.4051654],[46.6317124,16.1657193]]",
+    "datetime": "2015-06-20 07:01:40",
+    "duration": "4:52:31",
+    "distance": "84.19",
+    "elevation_gps": "235.4400",
+    "elevation_google": "218.7376",
+    "elevation_bing": "219.7064",
+    "speed_avg": "17.27",
+    "heartrate_avg": "151.30",
+    "temperature_avg": "23.0930",
+    "trackpoints": "7302"
+}

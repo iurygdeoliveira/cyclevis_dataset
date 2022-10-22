@@ -1,0 +1,21 @@
+{
+    "pedal": 2,
+    "path": "/datasets/dataset3/Rider8/2.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "49.10175581462681|7.2266332525759935",
+    "coordinateFinal": "49.137685261666775|7.179963486269116",
+    "country": "France",
+    "locality": "Rimling",
+    "centroid": "49.1297693|7.252760475",
+    "bbox": "[[49.0961064,7.17996348],[49.1634322,7.17996348],[49.1634322,7.32555747],[49.0961064,7.32555747],[49.0961064,7.17996348]]",
+    "datetime": "2016-06-19 08:47:09",
+    "duration": "2:24:13",
+    "distance": "99.07",
+    "elevation_gps": "297.1856",
+    "elevation_google": "298.9247",
+    "elevation_bing": "0.0000",
+    "speed_avg": "41.22",
+    "heartrate_avg": "149.06",
+    "temperature_avg": "14.7042",
+    "trackpoints": "8611"
+}

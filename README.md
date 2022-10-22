@@ -1,8 +1,4 @@
-<p align="center">
-![GitHub repo size](https://img.shields.io/github/repo-size/iurygdeoliveira/cyclevis_dataset?style=flat-square) [![HitCount](https://hits.dwyl.com/iurygdeoliveira/cyclevis_dataset.svg?style=flat-square)](http://hits.dwyl.com/iurygdeoliveira/cyclevis_dataset)
-</p>
-
-# Cyclevis Master Project Dataset
+# Cyclevis Master Project Dataset ![GitHub repo size](https://img.shields.io/github/repo-size/iurygdeoliveira/cyclevis_dataset?style=flat-square) [![HitCount](https://hits.dwyl.com/iurygdeoliveira/cyclevis_dataset.svg?style=flat-square)](http://hits.dwyl.com/iurygdeoliveira/cyclevis_dataset)
 
 <p align="justify"> 
 Technological evolution and the growing massive production of data demand the creation of new mechanisms for
@@ -40,7 +36,26 @@ Link do youtube
 Master's student - [Prof. Esp. Iury Gomes de Oliveira](https://github.com/iurygdeoliveira)\
 Mentor - [Prof. Dr. Danilo Coimbra](http://lattes.cnpq.br/9590398895954821)
 
-## Documentação da API
+## Directory and File Structure
+
+Each pedal has several trackpoints
+.
+├── Cyclist (Contains the cyclist's data)
+│   ├── pedal (Contains the pedal data)
+│   │   ├── distance_history.json (Distance recorded at each trackpoint)
+│   │   ├── elevation_bing.json (Elevation provided by bing for the coordinate latitude,longitude)
+│   │   ├── elevation_google.json (Elevation provided by google for the coordinate latitude,longitude)
+│   │   ├── elevation_gps.json (Elevation recorded at each trackpoint)
+│   │   ├── heartrate_history.json (heartrate recorded at each trackpoint)
+│   │   ├── latitudes.json (latitude recorded at each trackpoint)
+│   │   ├── longitudes.json (longitude recorded at each trackpoint)
+│   │   ├── overview.json (Contains general data, e.g., average speed, average heart rate, total distance, etc.)
+│   │   ├── speed_history.json (speed recorded at each trackpoint)
+│   │   └── time_history.json (time recorded at each trackpoint)
+
+.
+.
+.
 
 #### Retorna todos os itens
 

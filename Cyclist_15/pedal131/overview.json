@@ -1,0 +1,21 @@
+{
+    "pedal": 131,
+    "path": "/datasets/dataset3/Rider8/140.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.23731064610183|14.411245342344046",
+    "coordinateFinal": "46.23689121566713|14.412359800189734",
+    "country": "Poslovna Cona A 3, 4208 \u0160en\u010dur, Slovenia",
+    "locality": "\u0160en\u010dur",
+    "centroid": "46.2365432|14.413124600000002",
+    "bbox": "[[46.2354286,14.4112082],[46.2376578,14.4112082],[46.2376578,14.415041],[46.2354286,14.415041],[46.2354286,14.4112082]]",
+    "datetime": "2015-12-05 10:28:36",
+    "duration": "0:30:23",
+    "distance": "4.11",
+    "elevation_gps": "394.1673",
+    "elevation_google": "392.4701",
+    "elevation_bing": "396.2194",
+    "speed_avg": "8.12",
+    "heartrate_avg": "133.06",
+    "temperature_avg": "8.2177",
+    "trackpoints": "588"
+}

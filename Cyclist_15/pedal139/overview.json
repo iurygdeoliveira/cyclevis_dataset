@@ -1,0 +1,21 @@
+{
+    "pedal": 139,
+    "path": "/datasets/dataset3/Rider8/148.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.65148118510842|16.052371272817254",
+    "coordinateFinal": "46.651341961696744|16.051023295149207",
+    "country": "Petanjci 116c, 9251 Ti\u0161ina, Slovenia",
+    "locality": "Ti\u0161ina",
+    "centroid": "46.653278750000005|16.0512154",
+    "bbox": "[[46.6504361,16.0434967],[46.6561214,16.0434967],[46.6561214,16.0589341],[46.6504361,16.0589341],[46.6504361,16.0434967]]",
+    "datetime": "2016-01-10 09:43:42",
+    "duration": "1:33:25",
+    "distance": "18.43",
+    "elevation_gps": "214.3559",
+    "elevation_google": "197.9513",
+    "elevation_bing": "198.8083",
+    "speed_avg": "11.84",
+    "heartrate_avg": "149.24",
+    "temperature_avg": "2.9416",
+    "trackpoints": "1659"
+}

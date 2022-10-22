@@ -1,0 +1,21 @@
+{
+    "pedal": 140,
+    "path": "/datasets/dataset3/Rider8/149.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "50.851344242691994|2.886397121474147",
+    "coordinateFinal": "50.850957334041595|2.8864822816103697",
+    "country": "Grote Markt 34, 8900 Ieper, Belgium",
+    "locality": "Ypres",
+    "centroid": "50.891175849999996|2.75940944",
+    "bbox": "[[50.7452514,2.61669723],[51.0371003,2.61669723],[51.0371003,2.90212165],[50.7452514,2.90212165],[50.7452514,2.61669723]]",
+    "datetime": "2016-03-27 07:29:31",
+    "duration": "3:12:51",
+    "distance": "123.05",
+    "elevation_gps": "43.0992",
+    "elevation_google": "42.0004",
+    "elevation_bing": "0.0000",
+    "speed_avg": "38.28",
+    "heartrate_avg": "164.76",
+    "temperature_avg": "6.6364",
+    "trackpoints": "4073"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 204,
+    "path": "/datasets/dataset3/Rider8/220.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.764300763607025|16.17173971608281",
+    "coordinateFinal": "46.76416916772723|16.17187206633389",
+    "country": "Dankovci 17a, 9202 Ma\u010dkovci, Slovenia",
+    "locality": "Puconci",
+    "centroid": "46.7722154|16.221998900000003",
+    "bbox": "[[46.7592932,16.1716929],[46.7851376,16.1716929],[46.7851376,16.2723049],[46.7592932,16.2723049],[46.7592932,16.1716929]]",
+    "datetime": "2016-01-01 11:10:31",
+    "duration": "1:2:51",
+    "distance": "23.73",
+    "elevation_gps": "357.8538",
+    "elevation_google": "349.0860",
+    "elevation_bing": "349.8294",
+    "speed_avg": "22.65",
+    "heartrate_avg": "128.52",
+    "temperature_avg": "3.5688",
+    "trackpoints": "1471"
+}

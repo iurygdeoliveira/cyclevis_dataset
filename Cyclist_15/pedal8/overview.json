@@ -1,0 +1,21 @@
+{
+    "pedal": 8,
+    "path": "/datasets/dataset3/Rider8/9.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "50.82503638230264|2.768104914575815",
+    "coordinateFinal": "50.82565639168024|2.7683666814118624",
+    "country": "Belgium",
+    "locality": "Poperinge",
+    "centroid": "50.7883693|2.81041227",
+    "bbox": "[[50.7452434,2.75333985],[50.8314952,2.75333985],[50.8314952,2.86748469],[50.7452434,2.86748469],[50.7452434,2.75333985]]",
+    "datetime": "2016-03-24 10:41:29",
+    "duration": "2:15:5",
+    "distance": "60.28",
+    "elevation_gps": "68.9723",
+    "elevation_google": "67.8249",
+    "elevation_bing": "0.0000",
+    "speed_avg": "26.77",
+    "heartrate_avg": "128.84",
+    "temperature_avg": "7.1181",
+    "trackpoints": "2769"
+}

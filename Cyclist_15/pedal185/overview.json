@@ -1,0 +1,21 @@
+{
+    "pedal": 185,
+    "path": "/datasets/dataset3/Rider8/200.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.648471830412745|16.096326475962996",
+    "coordinateFinal": "46.64839974604547|16.0962088778615",
+    "country": "Kolesarska ulica 64, 9251 Ti\u0161ina, Slovenia",
+    "locality": "Ti\u0161ina",
+    "centroid": "46.64839495|16.096184649999998",
+    "bbox": "[[46.6482601,16.0959963],[46.6485298,16.0959963],[46.6485298,16.096373],[46.6482601,16.096373],[46.6482601,16.0959963]]",
+    "datetime": "2015-12-31 09:20:32",
+    "duration": "1:46:58",
+    "distance": "1.25",
+    "elevation_gps": "190.2849",
+    "elevation_google": "194.0000",
+    "elevation_bing": "193.0000",
+    "speed_avg": "0.70",
+    "heartrate_avg": "140.77",
+    "temperature_avg": "13.4608",
+    "trackpoints": "6419"
+}

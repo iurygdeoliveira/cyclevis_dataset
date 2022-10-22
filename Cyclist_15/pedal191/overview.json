@@ -1,0 +1,21 @@
+{
+    "pedal": 191,
+    "path": "/datasets/dataset3/Rider8/206.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "50.6411306373775|13.823531186208129",
+    "coordinateFinal": "50.73527458123863|13.75083938241005",
+    "country": "n\u00e1m. Svobody 1, 415 01 Teplice, Czechia",
+    "locality": "Teplice",
+    "centroid": "50.66279065|13.802749799999999",
+    "bbox": "[[50.586896,13.7459782],[50.7386853,13.7459782],[50.7386853,13.8595214],[50.586896,13.8595214],[50.586896,13.7459782]]",
+    "datetime": "2016-05-07 11:30:13",
+    "duration": "2:55:13",
+    "distance": "101.07",
+    "elevation_gps": "442.4620",
+    "elevation_google": "447.7139",
+    "elevation_bing": "448.5338",
+    "speed_avg": "34.61",
+    "heartrate_avg": "152.21",
+    "temperature_avg": "23.1580",
+    "trackpoints": "10511"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 6,
+    "path": "/datasets/dataset3/Rider8/6.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.24829225614667|11.816027574241161",
+    "coordinateFinal": "45.24608940817416|11.819793060421944",
+    "country": "Italy",
+    "locality": "San Pietro Viminario",
+    "centroid": "45.250040850000005|11.81796555",
+    "bbox": "[[45.241892,11.7933417],[45.2581897,11.7933417],[45.2581897,11.8425894],[45.241892,11.8425894],[45.241892,11.7933417]]",
+    "datetime": "2015-07-19 13:07:05",
+    "duration": "2:48:48",
+    "distance": "119.25",
+    "elevation_gps": "11.7882",
+    "elevation_google": "6.2945",
+    "elevation_bing": "5.0537",
+    "speed_avg": "42.39",
+    "heartrate_avg": "165.87",
+    "temperature_avg": "41.6622",
+    "trackpoints": "10095"
+}

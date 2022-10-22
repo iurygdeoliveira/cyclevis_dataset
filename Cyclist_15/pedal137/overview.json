@@ -1,0 +1,21 @@
+{
+    "pedal": 137,
+    "path": "/datasets/dataset3/Rider8/146.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.52173854410648|15.595086235553026",
+    "coordinateFinal": "46.49368506856263|15.552787883207202",
+    "country": "Na slemenu 10a, 2000 Maribor, Slovenia",
+    "locality": "Maribor",
+    "centroid": "46.50771175|15.573498999999998",
+    "bbox": "[[46.493685,15.5519118],[46.5217385,15.5519118],[46.5217385,15.5950862],[46.493685,15.5950862],[46.493685,15.5519118]]",
+    "datetime": "2013-11-02 09:06:45",
+    "duration": "0:59:0",
+    "distance": "9.29",
+    "elevation_gps": "993.1771",
+    "elevation_google": "945.9653",
+    "elevation_bing": "953.2232",
+    "speed_avg": "9.45",
+    "heartrate_avg": "160.34",
+    "temperature_avg": "24.8150",
+    "trackpoints": "654"
+}

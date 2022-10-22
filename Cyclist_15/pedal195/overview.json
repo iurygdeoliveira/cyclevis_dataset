@@ -1,0 +1,21 @@
+{
+    "pedal": 195,
+    "path": "/datasets/dataset3/Rider8/211.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "44.96063623577356|14.397890120744705",
+    "coordinateFinal": "44.522620774805546|14.459301559254527",
+    "country": "I/20, Melin I, 51557, Cres, Croatia",
+    "locality": "Cres",
+    "centroid": "44.7210393|14.461081799999999",
+    "bbox": "[[44.4778751,14.3893713],[44.9642035,14.3893713],[44.9642035,14.5327923],[44.4778751,14.5327923],[44.4778751,14.3893713]]",
+    "datetime": "2016-08-06 08:39:30",
+    "duration": "3:7:30",
+    "distance": "81.47",
+    "elevation_gps": "126.6675",
+    "elevation_google": "120.5366",
+    "elevation_bing": "120.8292",
+    "speed_avg": "26.07",
+    "heartrate_avg": "135.20",
+    "temperature_avg": "26.4056",
+    "trackpoints": "9793"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 127,
+    "path": "/datasets/dataset3/Rider8/136.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.899700578302145|12.172112111002207",
+    "coordinateFinal": "45.89879985898733|12.17080662958324",
+    "country": "Italy",
+    "locality": "Pieve di Soligo",
+    "centroid": "45.91793775|12.20555115",
+    "bbox": "[[45.8946498,12.1557105],[45.9412257,12.1557105],[45.9412257,12.2553918],[45.8946498,12.2553918],[45.8946498,12.1557105]]",
+    "datetime": "2015-05-24 11:58:56",
+    "duration": "3:35:31",
+    "distance": "138.25",
+    "elevation_gps": "175.5147",
+    "elevation_google": "170.1302",
+    "elevation_bing": "167.5473",
+    "speed_avg": "38.49",
+    "heartrate_avg": "163.91",
+    "temperature_avg": "27.3986",
+    "trackpoints": "12878"
+}

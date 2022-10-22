@@ -1,0 +1,21 @@
+{
+    "pedal": 180,
+    "path": "/datasets/dataset3/Rider8/195.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "44.52313265763223|14.459520326927304",
+    "coordinateFinal": "44.52259101904929|14.459294015541673",
+    "country": "Ul. Sun\u010dana uvala 4, 51550, Mali Lo\u0161inj, Croatia",
+    "locality": "Mali Losinj",
+    "centroid": "44.753064300000005|14.433508300000002",
+    "bbox": "[[44.5225342,14.3894113],[44.9835944,14.3894113],[44.9835944,14.4776053],[44.5225342,14.4776053],[44.5225342,14.3894113]]",
+    "datetime": "2016-08-07 07:10:42",
+    "duration": "4:24:20",
+    "distance": "126.10",
+    "elevation_gps": "122.7721",
+    "elevation_google": "126.4770",
+    "elevation_bing": "126.6839",
+    "speed_avg": "28.62",
+    "heartrate_avg": "135.63",
+    "temperature_avg": "26.4857",
+    "trackpoints": "14683"
+}

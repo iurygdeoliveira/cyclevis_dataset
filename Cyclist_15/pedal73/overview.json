@@ -1,0 +1,21 @@
+{
+    "pedal": 73,
+    "path": "/datasets/dataset3/Rider8/79.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.37770785950124|14.070995142683387",
+    "coordinateFinal": "46.37538674287498|14.069502241909504",
+    "country": "Slovenia",
+    "locality": "Zgornje Gorje",
+    "centroid": "46.3768297|14.07021345",
+    "bbox": "[[46.3745708,14.0673615],[46.3790886,14.0673615],[46.3790886,14.0730654],[46.3745708,14.0730654],[46.3745708,14.0673615]]",
+    "datetime": "2014-05-11 09:27:10",
+    "duration": "0:11:36",
+    "distance": "1.72",
+    "elevation_gps": "636.8422",
+    "elevation_google": "594.5978",
+    "elevation_bing": "593.8000",
+    "speed_avg": "8.90",
+    "heartrate_avg": "110.00",
+    "temperature_avg": "16.0000",
+    "trackpoints": "90"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 64,
+    "path": "/datasets/dataset3/Rider8/70.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "44.805804546922445|8.025821316987276",
+    "coordinateFinal": "44.79767049662769|7.991308411583304",
+    "country": "Italy",
+    "locality": "Valpone",
+    "centroid": "44.7829514|8.004830680000001",
+    "bbox": "[[44.7274322,7.90787536],[44.8384706,7.90787536],[44.8384706,8.101786],[44.7274322,8.101786],[44.7274322,7.90787536]]",
+    "datetime": "2015-05-17 11:11:03",
+    "duration": "3:7:1",
+    "distance": "120.37",
+    "elevation_gps": "252.5136",
+    "elevation_google": "236.9578",
+    "elevation_bing": "237.3090",
+    "speed_avg": "38.62",
+    "heartrate_avg": "170.12",
+    "temperature_avg": "34.5119",
+    "trackpoints": "11184"
+}

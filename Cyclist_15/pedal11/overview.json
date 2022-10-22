@@ -1,0 +1,21 @@
+{
+    "pedal": 11,
+    "path": "/datasets/dataset3/Rider8/12.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.75746666267514|16.165690328925848",
+    "coordinateFinal": "46.7641516495496|16.171890506520867",
+    "country": "Slovenia",
+    "locality": "Ma\u010dkovci",
+    "centroid": "46.75504960000001|16.25166225",
+    "bbox": "[[46.685492,16.1617106],[46.8246072,16.1617106],[46.8246072,16.3416139],[46.685492,16.3416139],[46.685492,16.1617106]]",
+    "datetime": "2015-06-26 07:43:51",
+    "duration": "2:33:42",
+    "distance": "74.15",
+    "elevation_gps": "257.4561",
+    "elevation_google": "246.4120",
+    "elevation_bing": "246.3353",
+    "speed_avg": "28.95",
+    "heartrate_avg": "137.91",
+    "temperature_avg": "28.9154",
+    "trackpoints": "7776"
+}

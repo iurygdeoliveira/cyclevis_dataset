@@ -1,0 +1,21 @@
+{
+    "pedal": 101,
+    "path": "/datasets/dataset3/Rider8/110.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "50.51140459254384|14.148472426459193",
+    "coordinateFinal": "50.54553234949708|14.124078154563904",
+    "country": "Czechia",
+    "locality": "Terez\u00edn",
+    "centroid": "50.5284946|14.1362746",
+    "bbox": "[[50.5114045,14.1240768],[50.5455847,14.1240768],[50.5455847,14.1484724],[50.5114045,14.1484724],[50.5114045,14.1240768]]",
+    "datetime": "2016-05-08 09:50:53",
+    "duration": "0:15:21",
+    "distance": "5.33",
+    "elevation_gps": "141.7074",
+    "elevation_google": "163.1700",
+    "elevation_bing": "163.3221",
+    "speed_avg": "20.83",
+    "heartrate_avg": "111.07",
+    "temperature_avg": "21.9002",
+    "trackpoints": "922"
+}

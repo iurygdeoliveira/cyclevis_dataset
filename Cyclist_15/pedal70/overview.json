@@ -1,0 +1,21 @@
+{
+    "pedal": 70,
+    "path": "/datasets/dataset3/Rider8/76.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.864056618884206|12.404879573732615",
+    "coordinateFinal": "45.846597868949175|12.483064457774162",
+    "country": "Italy",
+    "locality": "Codogn\u00e9",
+    "centroid": "45.85088195|12.444017800000001",
+    "bbox": "[[45.8313057,12.4048795],[45.8704582,12.4048795],[45.8704582,12.4831561],[45.8313057,12.4831561],[45.8313057,12.4048795]]",
+    "datetime": "2015-07-17 18:30:03",
+    "duration": "2:6:3",
+    "distance": "39.12",
+    "elevation_gps": "5.7744",
+    "elevation_google": "15.7220",
+    "elevation_bing": "13.8655",
+    "speed_avg": "18.62",
+    "heartrate_avg": "124.04",
+    "temperature_avg": "30.2435",
+    "trackpoints": "7198"
+}
