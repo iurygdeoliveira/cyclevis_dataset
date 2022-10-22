@@ -1,0 +1,21 @@
+{
+    "pedal": 135,
+    "path": "/datasets/dataset3/Rider14/437.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1559150|16.7985500",
+    "coordinateFinal": "46.1547940|16.7892470",
+    "country": "Croatia",
+    "locality": "Koprivnica",
+    "centroid": "46.159505499999995|16.7373995",
+    "bbox": "[[46.134336,16.676249],[46.184675,16.676249],[46.184675,16.79855],[46.134336,16.79855],[46.134336,16.676249]]",
+    "datetime": "2015-05-10 08:10:51",
+    "duration": "2:56:39",
+    "distance": "56.13",
+    "elevation_gps": "229.6841",
+    "elevation_google": "238.4387",
+    "elevation_bing": "238.6552",
+    "speed_avg": "19.06",
+    "heartrate_avg": "154.32",
+    "temperature_avg": "23.3073",
+    "trackpoints": "10435"
+}

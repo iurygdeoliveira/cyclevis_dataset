@@ -1,0 +1,21 @@
+{
+    "pedal": 41,
+    "path": "/datasets/dataset3/Rider14/165.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.5140440|16.0526170",
+    "coordinateFinal": "46.5208030|16.1514440",
+    "country": "Slovenia",
+    "locality": "Mala Nedelja",
+    "centroid": "46.5157295|16.118077",
+    "bbox": "[[46.487321,16.014527],[46.544138,16.014527],[46.544138,16.221627],[46.487321,16.221627],[46.487321,16.014527]]",
+    "datetime": "2014-08-10 08:00:41",
+    "duration": "2:56:3",
+    "distance": "62.82",
+    "elevation_gps": "235.5237",
+    "elevation_google": "228.6138",
+    "elevation_bing": "230.1963",
+    "speed_avg": "21.41",
+    "heartrate_avg": "160.48",
+    "temperature_avg": "30.2315",
+    "trackpoints": "3179"
+}

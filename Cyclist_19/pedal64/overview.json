@@ -1,0 +1,21 @@
+{
+    "pedal": 64,
+    "path": "/datasets/dataset3/Rider14/221.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.1471120|13.6017680",
+    "coordinateFinal": "45.1475400|13.6018150",
+    "country": "Croatia",
+    "locality": "Vrsar",
+    "centroid": "45.067889|13.743074",
+    "bbox": "[[44.962381,13.601697],[45.173397,13.601697],[45.173397,13.884451],[44.962381,13.884451],[44.962381,13.601697]]",
+    "datetime": "2014-03-30 07:25:19",
+    "duration": "4:38:7",
+    "distance": "120.82",
+    "elevation_gps": "132.0954",
+    "elevation_google": "141.1547",
+    "elevation_bing": "140.8992",
+    "speed_avg": "26.07",
+    "heartrate_avg": "126.34",
+    "temperature_avg": "23.4586",
+    "trackpoints": "8038"
+}

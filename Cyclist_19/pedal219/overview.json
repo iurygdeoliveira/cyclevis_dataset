@@ -1,0 +1,21 @@
+{
+    "pedal": 219,
+    "path": "/datasets/dataset3/Rider14/700.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.9576530|14.0935530",
+    "coordinateFinal": "45.9573420|14.0918830",
+    "country": "Slovenia",
+    "locality": "Godovi\u010d",
+    "centroid": "45.95639250000001|14.0881145",
+    "bbox": "[[45.949788,14.075344],[45.962997,14.075344],[45.962997,14.100885],[45.949788,14.100885],[45.949788,14.075344]]",
+    "datetime": "2016-07-21 13:55:34",
+    "duration": "2:20:12",
+    "distance": "13.63",
+    "elevation_gps": "670.2912",
+    "elevation_google": "659.7871",
+    "elevation_bing": "665.7497",
+    "speed_avg": "5.83",
+    "heartrate_avg": "144.19",
+    "temperature_avg": "27.6126",
+    "trackpoints": "7011"
+}

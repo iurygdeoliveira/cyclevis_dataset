@@ -1,0 +1,21 @@
+{
+    "pedal": 60,
+    "path": "/datasets/dataset3/Rider14/212.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.4516630|15.3334500",
+    "coordinateFinal": "46.4538560|15.3344020",
+    "country": "Slovenia",
+    "locality": "Zre\u010de",
+    "centroid": "46.467168|15.327264",
+    "bbox": "[[46.451663,15.309412],[46.482673,15.309412],[46.482673,15.345116],[46.451663,15.345116],[46.451663,15.309412]]",
+    "datetime": "2016-06-03 11:50:57",
+    "duration": "2:21:50",
+    "distance": "21.95",
+    "elevation_gps": "1452.0817",
+    "elevation_google": "1453.1130",
+    "elevation_bing": "1459.4477",
+    "speed_avg": "9.29",
+    "heartrate_avg": "119.99",
+    "temperature_avg": "12.6044",
+    "trackpoints": "8507"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 33,
+    "path": "/datasets/dataset3/Rider14/136.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.7067470|13.8631990",
+    "coordinateFinal": "45.7067730|13.8626980",
+    "country": "Slovenia",
+    "locality": "Se\u017eana",
+    "centroid": "45.718875|13.8836835",
+    "bbox": "[[45.624726,13.791112],[45.813024,13.791112],[45.813024,13.976255],[45.624726,13.976255],[45.624726,13.791112]]",
+    "datetime": "2013-03-17 09:38:28",
+    "duration": "4:57:25",
+    "distance": "101.40",
+    "elevation_gps": "376.0356",
+    "elevation_google": "370.9121",
+    "elevation_bing": "373.9675",
+    "speed_avg": "20.46",
+    "heartrate_avg": "124.90",
+    "temperature_avg": "6.1995",
+    "trackpoints": "6547"
+}

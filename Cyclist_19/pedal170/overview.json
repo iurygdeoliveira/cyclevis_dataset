@@ -1,0 +1,21 @@
+{
+    "pedal": 170,
+    "path": "/datasets/dataset3/Rider14/549.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.2135020|13.6031380",
+    "coordinateFinal": "45.2143360|13.5986020",
+    "country": "Croatia",
+    "locality": "Pore\u010d",
+    "centroid": "45.067769999999996|13.879328500000002",
+    "bbox": "[[44.881153,13.598043],[45.254387,13.598043],[45.254387,14.160614],[44.881153,14.160614],[44.881153,13.598043]]",
+    "datetime": "2013-02-09 09:47:04",
+    "duration": "5:45:57",
+    "distance": "158.58",
+    "elevation_gps": "157.9563",
+    "elevation_google": "162.0299",
+    "elevation_bing": "162.0052",
+    "speed_avg": "27.50",
+    "heartrate_avg": "121.81",
+    "temperature_avg": "5.4700",
+    "trackpoints": "10335"
+}
