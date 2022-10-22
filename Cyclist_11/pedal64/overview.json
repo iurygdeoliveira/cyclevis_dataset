@@ -1,0 +1,21 @@
+{
+    "pedal": 64,
+    "path": "/datasets/dataset3/Rider1/81.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.96250743605196475982666015625|12.416507788002490997314453125",
+    "coordinateFinal": "45.97080920822918415069580078125|12.40769044496119022369384765625",
+    "country": "Italy",
+    "locality": "Villa di Villa",
+    "centroid": "45.963845000000006|12.406367600000001",
+    "bbox": "[[45.9506622,12.3921089],[45.9770278,12.3921089],[45.9770278,12.4206263],[45.9506622,12.4206263],[45.9506622,12.3921089]]",
+    "datetime": "2014-03-30 12:47:14",
+    "duration": "1:11:21",
+    "distance": "25.78",
+    "elevation_gps": "97.6202",
+    "elevation_google": "97.0720",
+    "elevation_bing": "95.4989",
+    "speed_avg": "21.68",
+    "heartrate_avg": "158.41",
+    "temperature_avg": "27.4586",
+    "trackpoints": "1786"
+}

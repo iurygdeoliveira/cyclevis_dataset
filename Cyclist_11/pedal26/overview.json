@@ -1,0 +1,21 @@
+{
+    "pedal": 26,
+    "path": "/datasets/dataset3/Rider1/33.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.5092027373611927032470703125|15.9888918511569499969482421875",
+    "coordinateFinal": "46.42927098087966442108154296875|15.88814380578696727752685546875",
+    "country": "Slovenia",
+    "locality": "Jur\u0161inci",
+    "centroid": "46.4580608|15.9298194",
+    "bbox": "[[46.4069189,15.870747],[46.5092027,15.870747],[46.5092027,15.9888918],[46.4069189,15.9888918],[46.4069189,15.870747]]",
+    "datetime": "2014-04-06 07:12:48",
+    "duration": "0:54:48",
+    "distance": "22.56",
+    "elevation_gps": "226.2707",
+    "elevation_google": "225.7310",
+    "elevation_bing": "225.6356",
+    "speed_avg": "24.70",
+    "heartrate_avg": "129.92",
+    "temperature_avg": "17.6366",
+    "trackpoints": "1010"
+}

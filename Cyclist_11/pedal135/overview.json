@@ -1,0 +1,21 @@
+{
+    "pedal": 135,
+    "path": "/datasets/dataset3/Rider1/173.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.42204745672643184661865234375|15.87965545244514942169189453125",
+    "coordinateFinal": "46.42441953532397747039794921875|15.8849733509123325347900390625",
+    "country": "Slovenia",
+    "locality": "Ptuj",
+    "centroid": "46.456254799999996|15.74039865",
+    "bbox": "[[46.4128212,15.5957735],[46.4996884,15.5957735],[46.4996884,15.8850238],[46.4128212,15.8850238],[46.4128212,15.5957735]]",
+    "datetime": "2015-05-19 14:03:58",
+    "duration": "3:3:17",
+    "distance": "77.49",
+    "elevation_gps": "422.4414",
+    "elevation_google": "363.9216",
+    "elevation_bing": "364.0855",
+    "speed_avg": "25.37",
+    "heartrate_avg": "145.20",
+    "temperature_avg": "28.1514",
+    "trackpoints": "4690"
+}

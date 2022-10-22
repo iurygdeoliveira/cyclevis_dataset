@@ -1,0 +1,21 @@
+{
+    "pedal": 152,
+    "path": "/datasets/dataset3/Rider1/193.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.3732690550386905670166015625|14.08690801821649074554443359375",
+    "coordinateFinal": "46.36875313706696033477783203125|14.1131821833550930023193359375",
+    "country": "Slovenia",
+    "locality": "Bled",
+    "centroid": "46.36903905|14.097376",
+    "bbox": "[[46.3626094,14.0815598],[46.3754687,14.0815598],[46.3754687,14.1131922],[46.3626094,14.1131922],[46.3626094,14.0815598]]",
+    "datetime": "2014-05-10 10:28:31",
+    "duration": "3:24:29",
+    "distance": "32.49",
+    "elevation_gps": "516.2579",
+    "elevation_google": "503.6972",
+    "elevation_bing": "508.9625",
+    "speed_avg": "9.53",
+    "heartrate_avg": "170.02",
+    "temperature_avg": "26.0595",
+    "trackpoints": "2136"
+}

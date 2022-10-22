@@ -1,0 +1,21 @@
+{
+    "pedal": 229,
+    "path": "/datasets/dataset3/Rider1/278.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "47.5839739479124546051025390625|16.54565633274614810943603515625",
+    "coordinateFinal": "47.58507859893143177032470703125|16.543054841458797454833984375",
+    "country": "Austria",
+    "locality": "Horitschon",
+    "centroid": "47.5857144|16.54541365",
+    "bbox": "[[47.582713,16.5416421],[47.5887158,16.5416421],[47.5887158,16.5491852],[47.582713,16.5491852],[47.582713,16.5416421]]",
+    "datetime": "2016-04-23 15:51:09",
+    "duration": "0:30:8",
+    "distance": "11.27",
+    "elevation_gps": "248.3857",
+    "elevation_google": "248.6425",
+    "elevation_bing": "245.8264",
+    "speed_avg": "22.44",
+    "heartrate_avg": "163.39",
+    "temperature_avg": "18.4651",
+    "trackpoints": "1290"
+}

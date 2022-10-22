@@ -1,0 +1,21 @@
+{
+    "pedal": 12,
+    "path": "/datasets/dataset3/Rider1/15.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "48.18175074644386768341064453125|14.0144594572484493255615234375",
+    "coordinateFinal": "48.18185434676706790924072265625|14.0133362822234630584716796875",
+    "country": "Austria",
+    "locality": "Wels",
+    "centroid": "48.2202963|14.028090299999999",
+    "bbox": "[[48.1798012,13.9767189],[48.2607914,13.9767189],[48.2607914,14.0794617],[48.1798012,14.0794617],[48.1798012,13.9767189]]",
+    "datetime": "2016-04-17 06:57:01",
+    "duration": "1:58:48",
+    "distance": "69.15",
+    "elevation_gps": "341.7367",
+    "elevation_google": "355.2040",
+    "elevation_bing": "352.5903",
+    "speed_avg": "34.92",
+    "heartrate_avg": "159.06",
+    "temperature_avg": "17.9719",
+    "trackpoints": "6903"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 38,
+    "path": "/datasets/dataset3/Rider1/45.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.51407589204609394073486328125|16.055994518101215362548828125",
+    "coordinateFinal": "46.51414277963340282440185546875|16.0913941450417041778564453125",
+    "country": "Slovenia",
+    "locality": "Mala Nedelja",
+    "centroid": "46.43661795|15.886223300000001",
+    "bbox": "[[46.3567106,15.6810525],[46.5165253,15.6810525],[46.5165253,16.0913941],[46.3567106,16.0913941],[46.3567106,15.6810525]]",
+    "datetime": "2014-08-01 06:10:02",
+    "duration": "4:20:23",
+    "distance": "96.14",
+    "elevation_gps": "250.1521",
+    "elevation_google": "240.1420",
+    "elevation_bing": "240.8181",
+    "speed_avg": "22.15",
+    "heartrate_avg": "131.36",
+    "temperature_avg": "24.2601",
+    "trackpoints": "4310"
+}

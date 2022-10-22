@@ -1,0 +1,21 @@
+{
+    "pedal": 19,
+    "path": "/datasets/dataset3/Rider1/22.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.882188268005847930908203125|12.25002969615161418914794921875",
+    "coordinateFinal": "45.88180395774543285369873046875|12.25030713714659214019775390625",
+    "country": "Italy",
+    "locality": "San Michele",
+    "centroid": "45.90554765|12.24434105",
+    "bbox": "[[45.8698614,12.22141],[45.9412339,12.22141],[45.9412339,12.2672721],[45.8698614,12.2672721],[45.8698614,12.22141]]",
+    "datetime": "2015-04-19 12:28:54",
+    "duration": "1:50:45",
+    "distance": "47.51",
+    "elevation_gps": "155.6304",
+    "elevation_google": "152.7852",
+    "elevation_bing": "150.4652",
+    "speed_avg": "25.74",
+    "heartrate_avg": "149.33",
+    "temperature_avg": "20.9631",
+    "trackpoints": "3581"
+}

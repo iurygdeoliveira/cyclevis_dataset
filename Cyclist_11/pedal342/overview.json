@@ -1,0 +1,21 @@
+{
+    "pedal": 342,
+    "path": "/datasets/dataset3/Rider1/407.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.66568909771740436553955078125|14.64903180487453937530517578125",
+    "coordinateFinal": "46.66190248914062976837158203125|14.6335827000439167022705078125",
+    "country": "Austria",
+    "locality": "V\u00f6lkermarkt",
+    "centroid": "46.6381709|14.66791745",
+    "bbox": "[[46.6063437,14.6262766],[46.6699981,14.6262766],[46.6699981,14.7095583],[46.6063437,14.7095583],[46.6063437,14.6262766]]",
+    "datetime": "2015-05-31 07:02:47",
+    "duration": "2:3:40",
+    "distance": "71.03",
+    "elevation_gps": "447.0656",
+    "elevation_google": "450.9754",
+    "elevation_bing": "454.6590",
+    "speed_avg": "34.46",
+    "heartrate_avg": "155.83",
+    "temperature_avg": "17.9997",
+    "trackpoints": "3786"
+}

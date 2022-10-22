@@ -1,0 +1,21 @@
+{
+    "pedal": 34,
+    "path": "/datasets/dataset3/Rider1/41.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.79775744117796421051025390625|15.1751384697854518890380859375",
+    "coordinateFinal": "45.79874600283801555633544921875|15.17415418289601802825927734375",
+    "country": "Slovenia",
+    "locality": "Novo mesto",
+    "centroid": "45.798035|15.17306365",
+    "bbox": "[[45.796234,15.1707118],[45.799836,15.1707118],[45.799836,15.1754155],[45.796234,15.1754155],[45.796234,15.1707118]]",
+    "datetime": "2013-08-31 12:37:14",
+    "duration": "0:32:20",
+    "distance": "20.56",
+    "elevation_gps": "172.6251",
+    "elevation_google": "190.9879",
+    "elevation_bing": "194.4271",
+    "speed_avg": "38.15",
+    "heartrate_avg": "183.41",
+    "temperature_avg": "28.2403",
+    "trackpoints": "1365"
+}

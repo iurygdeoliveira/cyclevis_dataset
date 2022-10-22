@@ -1,0 +1,21 @@
+{
+    "pedal": 3,
+    "path": "/datasets/dataset3/Rider1/4.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.60607985220849514007568359375|16.23144275508821010589599609375",
+    "coordinateFinal": "46.60297921858727931976318359375|16.2335217185318470001220703125",
+    "country": "Slovenia",
+    "locality": "Beltinci",
+    "centroid": "46.60489915|16.23159635",
+    "bbox": "[[46.602632,16.229671],[46.6071663,16.229671],[46.6071663,16.2335217],[46.602632,16.2335217],[46.602632,16.229671]]",
+    "datetime": "2013-12-26 08:24:52",
+    "duration": "0:51:27",
+    "distance": "1.92",
+    "elevation_gps": "178.5907",
+    "elevation_google": "176.9538",
+    "elevation_bing": "182.5394",
+    "speed_avg": "2.24",
+    "heartrate_avg": "161.82",
+    "temperature_avg": "16.3529",
+    "trackpoints": "799"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 284,
+    "path": "/datasets/dataset3/Rider1/337.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.66528366506099700927734375|14.6718524582684040069580078125",
+    "coordinateFinal": "46.66109179146587848663330078125|14.633453786373138427734375",
+    "country": "Austria",
+    "locality": "Obersielach",
+    "centroid": "46.63818685|14.667941799999998",
+    "bbox": "[[46.6063759,14.6263011],[46.6699978,14.6263011],[46.6699978,14.7095825],[46.6063759,14.7095825],[46.6063759,14.6263011]]",
+    "datetime": "2014-06-01 07:06:27",
+    "duration": "1:47:43",
+    "distance": "68.39",
+    "elevation_gps": "472.7909",
+    "elevation_google": "448.9688",
+    "elevation_bing": "452.7313",
+    "speed_avg": "38.09",
+    "heartrate_avg": "158.30",
+    "temperature_avg": "15.8160",
+    "trackpoints": "3576"
+}

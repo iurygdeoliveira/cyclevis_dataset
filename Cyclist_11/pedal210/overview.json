@@ -1,0 +1,21 @@
+{
+    "pedal": 210,
+    "path": "/datasets/dataset3/Rider1/257.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.388300992548465728759765625|16.43782331608235836029052734375",
+    "coordinateFinal": "46.38840501196682453155517578125|16.43925377167761325836181640625",
+    "country": "Croatia",
+    "locality": "\u010cakovec",
+    "centroid": "46.3871155|16.43196585",
+    "bbox": "[[46.3844092,16.4197328],[46.3898218,16.4197328],[46.3898218,16.4441989],[46.3844092,16.4441989],[46.3844092,16.4197328]]",
+    "datetime": "2016-05-29 10:16:49",
+    "duration": "2:57:59",
+    "distance": "92.63",
+    "elevation_gps": "166.5800",
+    "elevation_google": "163.4497",
+    "elevation_bing": "163.4406",
+    "speed_avg": "31.23",
+    "heartrate_avg": "157.20",
+    "temperature_avg": "35.3129",
+    "trackpoints": "10057"
+}

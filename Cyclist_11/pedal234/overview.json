@@ -1,0 +1,21 @@
+{
+    "pedal": 234,
+    "path": "/datasets/dataset3/Rider1/283.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.69760503806173801422119140625|16.2312750332057476043701171875",
+    "coordinateFinal": "46.62975051440298557281494140625|16.25081316567957401275634765625",
+    "country": "Slovenia",
+    "locality": "Moravske Toplice",
+    "centroid": "46.67298805|16.247197999999997",
+    "bbox": "[[46.6297505,16.2226902],[46.7162256,16.2226902],[46.7162256,16.2717058],[46.6297505,16.2717058],[46.6297505,16.2226902]]",
+    "datetime": "2015-03-10 15:55:26",
+    "duration": "1:40:45",
+    "distance": "44.70",
+    "elevation_gps": "165.0343",
+    "elevation_google": "239.4958",
+    "elevation_bing": "242.9895",
+    "speed_avg": "26.62",
+    "heartrate_avg": "149.75",
+    "temperature_avg": "11.8629",
+    "trackpoints": "3231"
+}

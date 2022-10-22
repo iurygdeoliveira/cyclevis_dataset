@@ -1,0 +1,21 @@
+{
+    "pedal": 216,
+    "path": "/datasets/dataset3/Rider1/264.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.53358678333461284637451171875|15.597783029079437255859375",
+    "coordinateFinal": "46.5325560607016086578369140625|15.597263015806674957275390625",
+    "country": "Slovenia",
+    "locality": "Maribor",
+    "centroid": "46.53034065|15.594408249999999",
+    "bbox": "[[46.5270946,15.5910335],[46.5335867,15.5910335],[46.5335867,15.597783],[46.5270946,15.597783],[46.5270946,15.5910335]]",
+    "datetime": "2014-01-05 08:11:55",
+    "duration": "0:20:2",
+    "distance": "1.97",
+    "elevation_gps": "405.4692",
+    "elevation_google": "393.2202",
+    "elevation_bing": "409.5478",
+    "speed_avg": "5.90",
+    "heartrate_avg": "146.45",
+    "temperature_avg": "21.6237",
+    "trackpoints": "659"
+}

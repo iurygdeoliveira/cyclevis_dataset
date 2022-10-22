@@ -1,0 +1,21 @@
+{
+    "pedal": 189,
+    "path": "/datasets/dataset3/Rider1/233.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.0150342248380184173583984375|13.332478143274784088134765625",
+    "coordinateFinal": "46.31907493807375431060791015625|13.088854439556598663330078125",
+    "country": "Italy",
+    "locality": "Buttrio",
+    "centroid": "46.16705455|13.256701600000001",
+    "bbox": "[[46.0150342,13.0887586],[46.3190749,13.0887586],[46.3190749,13.4246446],[46.0150342,13.4246446],[46.0150342,13.0887586]]",
+    "datetime": "2015-08-09 12:02:14",
+    "duration": "2:15:56",
+    "distance": "81.44",
+    "elevation_gps": "190.1471",
+    "elevation_google": "184.3785",
+    "elevation_bing": "183.6201",
+    "speed_avg": "35.95",
+    "heartrate_avg": "162.37",
+    "temperature_avg": "40.6373",
+    "trackpoints": "3598"
+}

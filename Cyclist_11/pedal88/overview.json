@@ -1,0 +1,21 @@
+{
+    "pedal": 88,
+    "path": "/datasets/dataset3/Rider1/110.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "48.31556648947298526763916015625|15.18468034453690052032470703125",
+    "coordinateFinal": "48.31221858970820903778076171875|15.23393240757286548614501953125",
+    "country": "Austria",
+    "locality": "Dietsam",
+    "centroid": "48.301869749999994|15.20783865",
+    "bbox": "[[48.2857176,15.1752824],[48.3180219,15.1752824],[48.3180219,15.2403949],[48.2857176,15.2403949],[48.2857176,15.1752824]]",
+    "datetime": "2016-05-08 08:40:04",
+    "duration": "3:8:29",
+    "distance": "56.55",
+    "elevation_gps": "483.2794",
+    "elevation_google": "489.8189",
+    "elevation_bing": "488.9820",
+    "speed_avg": "18.00",
+    "heartrate_avg": "133.61",
+    "temperature_avg": "24.9434",
+    "trackpoints": "8658"
+}

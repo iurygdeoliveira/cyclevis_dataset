@@ -1,0 +1,21 @@
+{
+    "pedal": 99,
+    "path": "/datasets/dataset3/Rider1/123.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "47.21370697952806949615478515625|14.828194566071033477783203125",
+    "coordinateFinal": "47.21507356502115726470947265625|14.82698095031082630157470703125",
+    "country": "Austria",
+    "locality": "Knittelfeld",
+    "centroid": "47.23898465|14.8498321",
+    "bbox": "[[47.2126054,14.826761],[47.2653639,14.826761],[47.2653639,14.8729032],[47.2126054,14.8729032],[47.2126054,14.826761]]",
+    "datetime": "2014-05-25 08:06:36",
+    "duration": "2:18:46",
+    "distance": "92.25",
+    "elevation_gps": "632.1782",
+    "elevation_google": "643.2696",
+    "elevation_bing": "642.8939",
+    "speed_avg": "39.89",
+    "heartrate_avg": "165.22",
+    "temperature_avg": "25.3366",
+    "trackpoints": "4863"
+}
