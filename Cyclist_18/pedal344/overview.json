@@ -1,0 +1,21 @@
+{
+    "pedal": 344,
+    "path": "/datasets/dataset3/Rider13/351.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.12584589421749114990234375|14.5319598354399204254150390625",
+    "coordinateFinal": "45.12566342018544673919677734375|14.53117109835147857666015625",
+    "country": "Croatia",
+    "locality": "Malinska",
+    "centroid": "45.0788173|14.60123935",
+    "bbox": "[[45.0299083,14.531171],[45.1277263,14.531171],[45.1277263,14.6713077],[45.0299083,14.6713077],[45.0299083,14.531171]]",
+    "datetime": "2015-07-16 07:13:42",
+    "duration": "2:46:10",
+    "distance": "68.44",
+    "elevation_gps": "143.7994",
+    "elevation_google": "167.8114",
+    "elevation_bing": "168.7455",
+    "speed_avg": "24.71",
+    "heartrate_avg": "142.34",
+    "temperature_avg": "36.6736",
+    "trackpoints": "9550"
+}

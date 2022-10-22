@@ -1,0 +1,21 @@
+{
+    "pedal": 711,
+    "path": "/datasets/dataset3/Rider13/724.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "28.0505735613405704498291015625|-16.5324374847114086151123046875",
+    "coordinateFinal": "28.0506335757672786712646484375|-16.53244511224329471588134765625",
+    "country": "Spain",
+    "locality": "Granadilla",
+    "centroid": "28.06213685|-16.528450499999998",
+    "bbox": "[[28.0504894,-16.533855],[28.0737843,-16.533855],[28.0737843,-16.523046],[28.0504894,-16.523046],[28.0504894,-16.533855]]",
+    "datetime": "2017-02-15 10:00:40",
+    "duration": "2:31:6",
+    "distance": "39.20",
+    "elevation_gps": "72.8705",
+    "elevation_google": "94.0480",
+    "elevation_bing": "91.6344",
+    "speed_avg": "15.57",
+    "heartrate_avg": "135.65",
+    "temperature_avg": "16.3085",
+    "trackpoints": "8729"
+}

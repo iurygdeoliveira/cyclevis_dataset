@@ -1,0 +1,21 @@
+{
+    "pedal": 169,
+    "path": "/datasets/dataset3/Rider13/173.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "28.05046769790351390838623046875|-16.5322084911167621612548828125",
+    "coordinateFinal": "28.05066634900867938995361328125|-16.5324777178466320037841796875",
+    "country": "Spain",
+    "locality": "Granadilla de Abona",
+    "centroid": "28.0967998|-16.5790065",
+    "bbox": "[[28.0404562,-16.636537],[28.1531434,-16.636537],[28.1531434,-16.521476],[28.0404562,-16.521476],[28.0404562,-16.636537]]",
+    "datetime": "2017-01-30 11:02:43",
+    "duration": "3:35:57",
+    "distance": "57.69",
+    "elevation_gps": "533.7330",
+    "elevation_google": "524.0980",
+    "elevation_bing": "523.0557",
+    "speed_avg": "16.03",
+    "heartrate_avg": "128.81",
+    "temperature_avg": "18.1182",
+    "trackpoints": "12684"
+}

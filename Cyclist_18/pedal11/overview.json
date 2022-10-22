@@ -1,0 +1,21 @@
+{
+    "pedal": 11,
+    "path": "/datasets/dataset3/Rider13/11.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "-22.41688462905585765838623046875|-42.97488617710769176483154296875",
+    "coordinateFinal": "-22.41707070730626583099365234375|-42.97478173859417438507080078125",
+    "country": "Brazil",
+    "locality": "Teres\u00f3polis",
+    "centroid": "-22.4062815|-43.0004815",
+    "bbox": "[[-22.419799,-43.036932],[-22.392764,-43.036932],[-22.392764,-42.964031],[-22.419799,-42.964031],[-22.419799,-43.036932]]",
+    "datetime": "2016-08-14 12:31:11",
+    "duration": "2:11:48",
+    "distance": "50.60",
+    "elevation_gps": "1181.9583",
+    "elevation_google": "1151.3691",
+    "elevation_bing": "1161.2090",
+    "speed_avg": "23.03",
+    "heartrate_avg": "143.85",
+    "temperature_avg": "18.6673",
+    "trackpoints": "7909"
+}

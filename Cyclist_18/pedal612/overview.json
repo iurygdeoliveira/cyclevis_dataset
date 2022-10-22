@@ -1,0 +1,21 @@
+{
+    "pedal": 612,
+    "path": "/datasets/dataset3/Rider13/624.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.31963116116821765899658203125|10.84454186260700225830078125",
+    "coordinateFinal": "46.3196775130927562713623046875|10.83804848603904247283935546875",
+    "country": "Italy",
+    "locality": "Almazzago",
+    "centroid": "46.32085585|10.8443838",
+    "bbox": "[[46.3162925,10.8276856],[46.3254192,10.8276856],[46.3254192,10.861082],[46.3162925,10.861082],[46.3162925,10.8276856]]",
+    "datetime": "2015-08-22 07:54:57",
+    "duration": "1:35:16",
+    "distance": "19.04",
+    "elevation_gps": "769.5898",
+    "elevation_google": "824.5880",
+    "elevation_bing": "827.7880",
+    "speed_avg": "11.99",
+    "heartrate_avg": "136.65",
+    "temperature_avg": "24.6748",
+    "trackpoints": "2137"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 272,
+    "path": "/datasets/dataset3/Rider13/278.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.48554495908319950103759765625|12.288832962512969970703125",
+    "coordinateFinal": "45.4856050573289394378662109375|12.28883857838809490203857421875",
+    "country": "Italy",
+    "locality": "Venezia",
+    "centroid": "45.48556125|12.288796450000001",
+    "bbox": "[[45.4854494,12.2887321],[45.4856731,12.2887321],[45.4856731,12.2888608],[45.4854494,12.2888608],[45.4854494,12.2887321]]",
+    "datetime": "2015-07-27 05:50:29",
+    "duration": "0:38:37",
+    "distance": "0.22",
+    "elevation_gps": "72.3551",
+    "elevation_google": "2.2780",
+    "elevation_bing": "0.0562",
+    "speed_avg": "0.34",
+    "heartrate_avg": "118.06",
+    "temperature_avg": "26.1124",
+    "trackpoints": "89"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 394,
+    "path": "/datasets/dataset3/Rider13/402.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "44.90587919019162654876708984375|13.95766879431903362274169921875",
+    "coordinateFinal": "44.905866868793964385986328125|13.95770081318914890289306640625",
+    "country": "Croatia",
+    "locality": "Valtura",
+    "centroid": "44.906218800000005|13.9914667",
+    "bbox": "[[44.8922158,13.9566427],[44.9202218,13.9566427],[44.9202218,14.0262907],[44.8922158,14.0262907],[44.8922158,13.9566427]]",
+    "datetime": "2014-02-08 10:24:01",
+    "duration": "2:50:50",
+    "distance": "29.22",
+    "elevation_gps": "76.9361",
+    "elevation_google": "77.8292",
+    "elevation_bing": "77.7130",
+    "speed_avg": "10.26",
+    "heartrate_avg": "136.68",
+    "temperature_avg": "15.0998",
+    "trackpoints": "3809"
+}

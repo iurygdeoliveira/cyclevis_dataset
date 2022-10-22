@@ -1,0 +1,21 @@
+{
+    "pedal": 347,
+    "path": "/datasets/dataset3/Rider13/354.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.31924978457391262054443359375|10.83683176897466182708740234375",
+    "coordinateFinal": "46.31961456499993801116943359375|10.83799735642969608306884765625",
+    "country": "Italy",
+    "locality": "Commezzadura",
+    "centroid": "46.320861750000006|10.8443124",
+    "bbox": "[[46.316299,10.8275747],[46.3254245,10.8275747],[46.3254245,10.8610501],[46.316299,10.8610501],[46.316299,10.8275747]]",
+    "datetime": "2015-08-20 08:46:07",
+    "duration": "2:39:19",
+    "distance": "30.14",
+    "elevation_gps": "840.3713",
+    "elevation_google": "834.8328",
+    "elevation_bing": "839.1434",
+    "speed_avg": "11.35",
+    "heartrate_avg": "144.37",
+    "temperature_avg": "26.1072",
+    "trackpoints": "7669"
+}

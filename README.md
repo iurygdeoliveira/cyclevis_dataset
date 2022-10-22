@@ -53,10 +53,6 @@ Each pedal has several trackpoints\
 │   │   ├── speed_history.json (speed recorded at each trackpoint)\
 │   │   └── time_history.json (time recorded at each trackpoint)\
 
-.\
-.\
-.
-
 ## Reference
 
 The original data was obtained from:

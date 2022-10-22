@@ -1,0 +1,21 @@
+{
+    "pedal": 295,
+    "path": "/datasets/dataset3/Rider13/301.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "34.86733376048505306243896484375|33.305398039519786834716796875",
+    "coordinateFinal": "34.86749469302594661712646484375|33.30526225268840789794921875",
+    "country": "Cyprus",
+    "locality": "Pano Lefkara",
+    "centroid": "34.900298899999996|33.2510045",
+    "bbox": "[[34.8666529,33.18961],[34.9339449,33.18961],[34.9339449,33.312399],[34.8666529,33.312399],[34.8666529,33.18961]]",
+    "datetime": "2016-02-26 09:03:32",
+    "duration": "2:20:48",
+    "distance": "50.68",
+    "elevation_gps": "709.0571",
+    "elevation_google": "703.9815",
+    "elevation_bing": "703.0062",
+    "speed_avg": "21.60",
+    "heartrate_avg": "168.30",
+    "temperature_avg": "18.9095",
+    "trackpoints": "8449"
+}

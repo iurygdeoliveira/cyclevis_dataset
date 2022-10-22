@@ -1,0 +1,21 @@
+{
+    "pedal": 838,
+    "path": "/datasets/dataset3/Rider13/855.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "-16.81379056535661220550537109375|145.68579540587961673736572265625",
+    "coordinateFinal": "-16.8137884698808193206787109375|145.68582457490265369415283203125",
+    "country": "Australia",
+    "locality": "Smithfield",
+    "centroid": "-16.8137975|145.68581",
+    "bbox": "[[-16.81381,145.685795],[-16.813785,145.685795],[-16.813785,145.685825],[-16.81381,145.685825],[-16.81381,145.685795]]",
+    "datetime": "2016-04-24 01:06:41",
+    "duration": "0:8:33",
+    "distance": "0.01",
+    "elevation_gps": "40.1763",
+    "elevation_google": "29.3061",
+    "elevation_bing": "33.0000",
+    "speed_avg": "0.07",
+    "heartrate_avg": "137.95",
+    "temperature_avg": "27.4728",
+    "trackpoints": "514"
+}

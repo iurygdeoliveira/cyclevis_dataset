@@ -1,0 +1,21 @@
+{
+    "pedal": 297,
+    "path": "/datasets/dataset3/Rider13/303.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "44.819745831191539764404296875|13.93045996315777301788330078125",
+    "coordinateFinal": "44.82033935375511646270751953125|13.93068082630634307861328125",
+    "country": "Croatia",
+    "locality": "Medulin",
+    "centroid": "44.956718699999996|14.00059045",
+    "bbox": "[[44.8197445,13.8875956],[45.0936929,13.8875956],[45.0936929,14.1135853],[44.8197445,14.1135853],[44.8197445,13.8875956]]",
+    "datetime": "2015-01-10 09:06:55",
+    "duration": "3:55:1",
+    "distance": "121.04",
+    "elevation_gps": "141.4510",
+    "elevation_google": "139.8043",
+    "elevation_bing": "139.9542",
+    "speed_avg": "30.90",
+    "heartrate_avg": "141.43",
+    "temperature_avg": "14.0040",
+    "trackpoints": "14042"
+}

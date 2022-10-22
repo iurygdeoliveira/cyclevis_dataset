@@ -1,0 +1,21 @@
+{
+    "pedal": 15,
+    "path": "/datasets/dataset3/Rider13/15.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.79321964643895626068115234375|14.3672933243215084075927734375",
+    "coordinateFinal": "45.90930883772671222686767578125|14.2551320604979991912841796875",
+    "country": "Slovenia",
+    "locality": "Cerknica",
+    "centroid": "45.87971465|14.333984849999998",
+    "bbox": "[[45.7928382,14.2282932],[45.9665911,14.2282932],[45.9665911,14.4396765],[45.7928382,14.4396765],[45.7928382,14.2282932]]",
+    "datetime": "2015-11-06 11:25:20",
+    "duration": "2:19:56",
+    "distance": "58.62",
+    "elevation_gps": "479.5087",
+    "elevation_google": "570.1050",
+    "elevation_bing": "573.8740",
+    "speed_avg": "25.13",
+    "heartrate_avg": "123.63",
+    "temperature_avg": "17.6180",
+    "trackpoints": "4008"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 669,
+    "path": "/datasets/dataset3/Rider13/681.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "42.37900611944496631622314453125|1.4558603055775165557861328125",
+    "coordinateFinal": "42.3790216259658336639404296875|1.4562016166746616363525390625",
+    "country": "Spain",
+    "locality": "Anserall",
+    "centroid": "42.36067055|1.418090355",
+    "bbox": "[[42.3403945,1.37843331],[42.3809466,1.37843331],[42.3809466,1.4577474],[42.3403945,1.4577474],[42.3403945,1.37843331]]",
+    "datetime": "2015-09-01 09:33:08",
+    "duration": "2:0:57",
+    "distance": "43.19",
+    "elevation_gps": "739.4944",
+    "elevation_google": "746.4861",
+    "elevation_bing": "748.1622",
+    "speed_avg": "21.43",
+    "heartrate_avg": "133.21",
+    "temperature_avg": "31.4017",
+    "trackpoints": "3687"
+}

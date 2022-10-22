@@ -1,0 +1,21 @@
+{
+    "pedal": 333,
+    "path": "/datasets/dataset3/Rider13/340.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.1740335635840892791748046875|12.38612095825374126434326171875",
+    "coordinateFinal": "46.17323770187795162200927734375|12.38402791321277618408203125",
+    "country": "Italy",
+    "locality": "Lamosano",
+    "centroid": "46.17582495|12.3893483",
+    "bbox": "[[46.1731619,12.3839728],[46.178488,12.3839728],[46.178488,12.3947238],[46.1731619,12.3947238],[46.1731619,12.3839728]]",
+    "datetime": "2015-07-26 09:01:10",
+    "duration": "0:37:32",
+    "distance": "4.39",
+    "elevation_gps": "689.8392",
+    "elevation_google": "700.8526",
+    "elevation_bing": "697.9081",
+    "speed_avg": "7.02",
+    "heartrate_avg": "126.69",
+    "temperature_avg": "29.7568",
+    "trackpoints": "740"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 85,
+    "path": "/datasets/dataset3/Rider13/86.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "-16.78964381106197834014892578125|145.70148817263543605804443359375",
+    "coordinateFinal": "-16.789614893496036529541015625|145.70141625590622425079345703125",
+    "country": "Australia",
+    "locality": "Trinity Beach",
+    "centroid": "-16.8034595|145.682824",
+    "bbox": "[[-16.821623,145.663302],[-16.785296,145.663302],[-16.785296,145.702346],[-16.821623,145.702346],[-16.821623,145.663302]]",
+    "datetime": "2016-04-18 00:37:52",
+    "duration": "1:30:0",
+    "distance": "28.65",
+    "elevation_gps": "31.6304",
+    "elevation_google": "35.0590",
+    "elevation_bing": "43.4616",
+    "speed_avg": "19.10",
+    "heartrate_avg": "138.22",
+    "temperature_avg": "29.2692",
+    "trackpoints": "5371"
+}

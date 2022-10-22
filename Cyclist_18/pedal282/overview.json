@@ -1,0 +1,21 @@
+{
+    "pedal": 282,
+    "path": "/datasets/dataset3/Rider13/288.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.53513190336525440216064453125|15.5833820812404155731201171875",
+    "coordinateFinal": "46.5160859562456607818603515625|15.577680207788944244384765625",
+    "country": "Slovenia",
+    "locality": "Limbu\u0161",
+    "centroid": "46.52439015|15.56759135",
+    "bbox": "[[46.5136464,15.5518007],[46.5351339,15.5518007],[46.5351339,15.583382],[46.5136464,15.583382],[46.5136464,15.5518007]]",
+    "datetime": "2014-09-28 09:18:55",
+    "duration": "0:38:36",
+    "distance": "9.47",
+    "elevation_gps": "727.9000",
+    "elevation_google": "739.6252",
+    "elevation_bing": "755.8766",
+    "speed_avg": "14.72",
+    "heartrate_avg": "174.92",
+    "temperature_avg": "17.8810",
+    "trackpoints": "2302"
+}

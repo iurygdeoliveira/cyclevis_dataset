@@ -1,0 +1,21 @@
+{
+    "pedal": 801,
+    "path": "/datasets/dataset3/Rider13/815.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.3947200812399387359619140625|6.56625763513147830963134765625",
+    "coordinateFinal": "45.3946295566856861114501953125|6.56624556519091129302978515625",
+    "country": "France",
+    "locality": "Les Allues",
+    "centroid": "45.39467315|6.5662668900000005",
+    "bbox": "[[45.3945942,6.56624187],[45.3947521,6.56624187],[45.3947521,6.56629191],[45.3945942,6.56629191],[45.3945942,6.56624187]]",
+    "datetime": "2014-08-22 08:34:16",
+    "duration": "1:0:1",
+    "distance": "0.09",
+    "elevation_gps": "1386.6794",
+    "elevation_google": "1433.2739",
+    "elevation_bing": "1440.0000",
+    "speed_avg": "0.09",
+    "heartrate_avg": "127.48",
+    "temperature_avg": "23.6618",
+    "trackpoints": "3167"
+}

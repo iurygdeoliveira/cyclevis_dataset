@@ -1,0 +1,21 @@
+{
+    "pedal": 722,
+    "path": "/datasets/dataset3/Rider13/736.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "47.08410096354782581329345703125|-70.89208312332630157470703125",
+    "coordinateFinal": "47.07696251571178436279296875|-70.89878101833164691925048828125",
+    "country": "Canada",
+    "locality": "Saint-Ferr\u00e9ol-les-Neiges",
+    "centroid": "47.103363300000005|-70.8707055",
+    "bbox": "[[47.0769625,-70.898996],[47.1297641,-70.898996],[47.1297641,-70.842415],[47.0769625,-70.842415],[47.0769625,-70.898996]]",
+    "datetime": "2016-08-05 14:30:32",
+    "duration": "0:39:26",
+    "distance": "14.28",
+    "elevation_gps": "293.3890",
+    "elevation_google": "275.1213",
+    "elevation_bing": "274.1957",
+    "speed_avg": "21.73",
+    "heartrate_avg": "114.69",
+    "temperature_avg": "24.4548",
+    "trackpoints": "2335"
+}

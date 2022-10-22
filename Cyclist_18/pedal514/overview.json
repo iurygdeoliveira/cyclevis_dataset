@@ -1,0 +1,21 @@
+{
+    "pedal": 514,
+    "path": "/datasets/dataset3/Rider13/524.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "42.55076522938907146453857421875|1.51067334227263927459716796875",
+    "coordinateFinal": "42.5507195480167865753173828125|1.51102848351001739501953125",
+    "country": "Andorra",
+    "locality": "La Massana",
+    "centroid": "42.55268555|1.4907924300000002",
+    "bbox": "[[42.5435846,1.47055638],[42.5617865,1.47055638],[42.5617865,1.51102848],[42.5435846,1.51102848],[42.5435846,1.47055638]]",
+    "datetime": "2016-08-30 15:36:52",
+    "duration": "0:42:11",
+    "distance": "12.35",
+    "elevation_gps": "1423.7625",
+    "elevation_google": "1428.1426",
+    "elevation_bing": "1520.8661",
+    "speed_avg": "17.57",
+    "heartrate_avg": "130.41",
+    "temperature_avg": "18.1726",
+    "trackpoints": "2323"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 487,
+    "path": "/datasets/dataset3/Rider13/496.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "42.30533656664192676544189453125|-74.4154759682714939117431640625",
+    "coordinateFinal": "42.3078166879713535308837890625|-74.41343195736408233642578125",
+    "country": "United States",
+    "locality": "Prattsville",
+    "centroid": "42.3435421|-74.4699785",
+    "bbox": "[[42.3047945,-74.527066],[42.3822897,-74.527066],[42.3822897,-74.412891],[42.3047945,-74.412891],[42.3047945,-74.527066]]",
+    "datetime": "2014-08-08 13:59:49",
+    "duration": "1:3:6",
+    "distance": "27.60",
+    "elevation_gps": "355.9736",
+    "elevation_google": "409.4444",
+    "elevation_bing": "407.1220",
+    "speed_avg": "26.24",
+    "heartrate_avg": "126.95",
+    "temperature_avg": "23.9542",
+    "trackpoints": "3713"
+}

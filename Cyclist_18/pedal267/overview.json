@@ -1,0 +1,21 @@
+{
+    "pedal": 267,
+    "path": "/datasets/dataset3/Rider13/273.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "-22.36573926173150539398193359375|-43.06754979304969310760498046875",
+    "coordinateFinal": "-22.365850992500782012939453125|-43.06747100315988063812255859375",
+    "country": "Brazil",
+    "locality": "",
+    "centroid": "-22.372700000000002|-43.073118",
+    "bbox": "[[-22.384078,-43.079635],[-22.361322,-43.079635],[-22.361322,-43.066601],[-22.384078,-43.066601],[-22.384078,-43.079635]]",
+    "datetime": "2016-08-11 13:25:05",
+    "duration": "2:30:23",
+    "distance": "31.36",
+    "elevation_gps": "813.0851",
+    "elevation_google": "815.5992",
+    "elevation_bing": "818.2800",
+    "speed_avg": "12.51",
+    "heartrate_avg": "141.98",
+    "temperature_avg": "15.0397",
+    "trackpoints": "4004"
+}

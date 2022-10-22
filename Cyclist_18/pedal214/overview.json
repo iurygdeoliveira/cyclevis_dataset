@@ -1,0 +1,21 @@
+{
+    "pedal": 214,
+    "path": "/datasets/dataset3/Rider13/220.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "28.2988468743860721588134765625|-16.81586944498121738433837890625",
+    "coordinateFinal": "28.29870077781379222869873046875|-16.81590666063129901885986328125",
+    "country": "Spain",
+    "locality": "Santiago del Teide",
+    "centroid": "28.3150829|-16.7820115",
+    "bbox": "[[28.2945223,-16.816191],[28.3356435,-16.816191],[28.3356435,-16.747832],[28.2945223,-16.747832],[28.2945223,-16.816191]]",
+    "datetime": "2017-02-14 13:55:46",
+    "duration": "3:35:9",
+    "distance": "37.35",
+    "elevation_gps": "1176.5433",
+    "elevation_google": "1203.8863",
+    "elevation_bing": "1208.5522",
+    "speed_avg": "10.42",
+    "heartrate_avg": "106.84",
+    "temperature_avg": "12.0838",
+    "trackpoints": "11952"
+}

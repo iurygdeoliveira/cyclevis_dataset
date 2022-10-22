@@ -1,0 +1,21 @@
+{
+    "pedal": 803,
+    "path": "/datasets/dataset3/Rider13/817.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.24851708300411701202392578125|12.299234233796596527099609375",
+    "coordinateFinal": "46.2482465989887714385986328125|12.298298813402652740478515625",
+    "country": "Italy",
+    "locality": "Longarone",
+    "centroid": "46.2435361|12.306060400000002",
+    "bbox": "[[46.2128565,12.2980107],[46.2742157,12.2980107],[46.2742157,12.3141101],[46.2128565,12.3141101],[46.2128565,12.2980107]]",
+    "datetime": "2015-07-25 08:40:48",
+    "duration": "0:58:48",
+    "distance": "22.36",
+    "elevation_gps": "464.2538",
+    "elevation_google": "439.7155",
+    "elevation_bing": "435.5264",
+    "speed_avg": "22.82",
+    "heartrate_avg": "136.05",
+    "temperature_avg": "26.3483",
+    "trackpoints": "1668"
+}

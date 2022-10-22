@@ -1,0 +1,21 @@
+{
+    "pedal": 461,
+    "path": "/datasets/dataset3/Rider13/469.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "44.81224964372813701629638671875|13.90608094632625579833984375",
+    "coordinateFinal": "44.81217454187572002410888671875|13.90627808868885040283203125",
+    "country": "Croatia",
+    "locality": "Premantura",
+    "centroid": "44.81223265|13.9061673",
+    "bbox": "[[44.8121188,13.9059986],[44.8123465,13.9059986],[44.8123465,13.906336],[44.8121188,13.906336],[44.8121188,13.9059986]]",
+    "datetime": "2014-04-05 11:58:01",
+    "duration": "0:42:59",
+    "distance": "0.27",
+    "elevation_gps": "91.5711",
+    "elevation_google": "65.7727",
+    "elevation_bing": "66.3660",
+    "speed_avg": "0.38",
+    "heartrate_avg": "121.95",
+    "temperature_avg": "18.2809",
+    "trackpoints": "235"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 846,
+    "path": "/datasets/dataset3/Rider13/863.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "36.54830382205545902252197265625|31.98228302411735057830810546875",
+    "coordinateFinal": "36.54857891611754894256591796875|31.98229609988629817962646484375",
+    "country": "Turkey",
+    "locality": "Alanya",
+    "centroid": "36.54837435|31.9821234",
+    "bbox": "[[36.5478382,31.9816418],[36.5489105,31.9816418],[36.5489105,31.982605],[36.5478382,31.982605],[36.5478382,31.9816418]]",
+    "datetime": "2012-01-11 08:13:08",
+    "duration": "1:32:18",
+    "distance": "3.05",
+    "elevation_gps": "48.9341",
+    "elevation_google": "8.5913",
+    "elevation_bing": "9.1190",
+    "speed_avg": "1.98",
+    "heartrate_avg": "131.01",
+    "temperature_avg": "18.0000",
+    "trackpoints": "546"
+}

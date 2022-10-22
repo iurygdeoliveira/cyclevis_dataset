@@ -1,0 +1,21 @@
+{
+    "pedal": 137,
+    "path": "/datasets/dataset3/Rider13/139.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "6.307092793285846710205078125|99.8536183498799800872802734375",
+    "coordinateFinal": "6.31684086285531520843505859375|99.849835596978664398193359375",
+    "country": "Malaysia",
+    "locality": "Kuah",
+    "centroid": "6.308830479999999|99.85278035",
+    "bbox": "[[6.30051752,99.8498355],[6.31714344,99.8498355],[6.31714344,99.8557252],[6.30051752,99.8557252],[6.30051752,99.8498355]]",
+    "datetime": "2014-10-13 03:18:23",
+    "duration": "0:15:36",
+    "distance": "5.30",
+    "elevation_gps": "13.6101",
+    "elevation_google": "13.8924",
+    "elevation_bing": "14.1277",
+    "speed_avg": "20.38",
+    "heartrate_avg": "120.36",
+    "temperature_avg": "36.1127",
+    "trackpoints": "932"
+}

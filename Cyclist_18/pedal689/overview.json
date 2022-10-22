@@ -1,0 +1,21 @@
+{
+    "pedal": 689,
+    "path": "/datasets/dataset3/Rider13/702.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.32023650221526622772216796875|10.8382971771061420440673828125",
+    "coordinateFinal": "46.31968145258724689483642578125|10.8379431255161762237548828125",
+    "country": "Italy",
+    "locality": "Mestriago",
+    "centroid": "46.31416055|10.7979319",
+    "bbox": "[[46.3079503,10.7575667],[46.3203708,10.7575667],[46.3203708,10.8382971],[46.3079503,10.8382971],[46.3079503,10.7575667]]",
+    "datetime": "2015-08-21 08:55:13",
+    "duration": "0:46:36",
+    "distance": "16.84",
+    "elevation_gps": "799.0740",
+    "elevation_google": "885.5748",
+    "elevation_bing": "883.8189",
+    "speed_avg": "21.68",
+    "heartrate_avg": "116.69",
+    "temperature_avg": "24.9596",
+    "trackpoints": "1386"
+}

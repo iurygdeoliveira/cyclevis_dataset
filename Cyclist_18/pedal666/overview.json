@@ -1,0 +1,21 @@
+{
+    "pedal": 666,
+    "path": "/datasets/dataset3/Rider13/678.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "43.835548460483551025390625|7.73312165401875972747802734375",
+    "coordinateFinal": "43.830913603305816650390625|7.71968831308186054229736328125",
+    "country": "Italy",
+    "locality": "Sanremo",
+    "centroid": "43.82513835|7.72593102",
+    "bbox": "[[43.8139546,7.71627796],[43.8363221,7.71627796],[43.8363221,7.73558408],[43.8139546,7.73558408],[43.8139546,7.71627796]]",
+    "datetime": "2014-02-16 10:18:47",
+    "duration": "2:19:9",
+    "distance": "24.34",
+    "elevation_gps": "524.1008",
+    "elevation_google": "530.4215",
+    "elevation_bing": "539.6504",
+    "speed_avg": "10.50",
+    "heartrate_avg": "147.69",
+    "temperature_avg": "13.8135",
+    "trackpoints": "4591"
+}

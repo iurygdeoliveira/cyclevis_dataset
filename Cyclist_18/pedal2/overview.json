@@ -1,0 +1,21 @@
+{
+    "pedal": 2,
+    "path": "/datasets/dataset3/Rider13/2.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "49.56524320878088474273681640625|16.03628371842205524444580078125",
+    "coordinateFinal": "49.57886279560625553131103515625|16.05534852482378482818603515625",
+    "country": "Czechia",
+    "locality": "Rad\u0148ovice",
+    "centroid": "49.571838299999996|16.0467265",
+    "bbox": "[[49.56479,16.0356852],[49.5788866,16.0356852],[49.5788866,16.0577678],[49.56479,16.0577678],[49.56479,16.0356852]]",
+    "datetime": "2015-05-20 09:10:28",
+    "duration": "0:52:27",
+    "distance": "11.55",
+    "elevation_gps": "692.3966",
+    "elevation_google": "668.9704",
+    "elevation_bing": "668.9424",
+    "speed_avg": "13.21",
+    "heartrate_avg": "139.17",
+    "temperature_avg": "11.0928",
+    "trackpoints": "1875"
+}

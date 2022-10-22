@@ -1,0 +1,21 @@
+{
+    "pedal": 129,
+    "path": "/datasets/dataset3/Rider13/131.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "49.3726968951523303985595703125|7.07660607062280178070068359375",
+    "coordinateFinal": "49.372748024761676788330078125|7.07658980973064899444580078125",
+    "country": "Germany",
+    "locality": "Merchweiler",
+    "centroid": "49.38122800000001|7.05833117",
+    "bbox": "[[49.3726606,7.04005627],[49.3897954,7.04005627],[49.3897954,7.07660607],[49.3726606,7.07660607],[49.3726606,7.04005627]]",
+    "datetime": "2014-06-07 09:14:38",
+    "duration": "0:20:52",
+    "distance": "7.46",
+    "elevation_gps": "259.3080",
+    "elevation_google": "274.7817",
+    "elevation_bing": "0.0000",
+    "speed_avg": "21.45",
+    "heartrate_avg": "110.39",
+    "temperature_avg": "30.7716",
+    "trackpoints": "578"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 146,
+    "path": "/datasets/dataset3/Rider13/148.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "34.98652392067015171051025390625|33.6501311324536800384521484375",
+    "coordinateFinal": "34.92002718150615692138671875|33.59991087578237056732177734375",
+    "country": "Cyprus",
+    "locality": "Oroklini",
+    "centroid": "34.95527065|33.62916825",
+    "bbox": "[[34.9147051,33.5999088],[34.9958362,33.5999088],[34.9958362,33.6584277],[34.9147051,33.6584277],[34.9147051,33.5999088]]",
+    "datetime": "2016-03-03 07:59:22",
+    "duration": "3:42:4",
+    "distance": "56.22",
+    "elevation_gps": "89.7736",
+    "elevation_google": "85.2134",
+    "elevation_bing": "84.7105",
+    "speed_avg": "15.19",
+    "heartrate_avg": "135.75",
+    "temperature_avg": "23.3438",
+    "trackpoints": "12793"
+}

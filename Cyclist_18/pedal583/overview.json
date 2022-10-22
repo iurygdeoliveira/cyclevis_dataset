@@ -1,0 +1,21 @@
+{
+    "pedal": 583,
+    "path": "/datasets/dataset3/Rider13/594.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "48.250022269785404205322265625|9.01778410188853740692138671875",
+    "coordinateFinal": "48.2499077729880809783935546875|9.0175826847553253173828125",
+    "country": "Germany",
+    "locality": "Albstadt",
+    "centroid": "48.24670265|9.018230895",
+    "bbox": "[[48.2433043,9.01493467],[48.250101,9.01493467],[48.250101,9.02152712],[48.2433043,9.02152712],[48.2433043,9.01493467]]",
+    "datetime": "2014-05-28 13:50:10",
+    "duration": "2:11:55",
+    "distance": "19.11",
+    "elevation_gps": "803.1836",
+    "elevation_google": "803.2308",
+    "elevation_bing": "808.9766",
+    "speed_avg": "8.69",
+    "heartrate_avg": "133.65",
+    "temperature_avg": "17.1626",
+    "trackpoints": "4064"
+}

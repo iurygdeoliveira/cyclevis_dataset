@@ -1,0 +1,21 @@
+{
+    "pedal": 34,
+    "path": "/datasets/dataset3/Rider13/34.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.11506142653524875640869140625|14.116670899093151092529296875",
+    "coordinateFinal": "46.16649605333805084228515625|14.1053541563451290130615234375",
+    "country": "Slovenia",
+    "locality": "Gorenja vas",
+    "centroid": "46.14399900000001|14.119579100000001",
+    "bbox": "[[46.1150612,14.0992657],[46.1729368,14.0992657],[46.1729368,14.1398925],[46.1150612,14.1398925],[46.1150612,14.0992657]]",
+    "datetime": "2015-09-20 08:00:01",
+    "duration": "0:56:53",
+    "distance": "12.15",
+    "elevation_gps": "857.9464",
+    "elevation_google": "877.8298",
+    "elevation_bing": "884.3704",
+    "speed_avg": "12.82",
+    "heartrate_avg": "175.83",
+    "temperature_avg": "16.1845",
+    "trackpoints": "2168"
+}

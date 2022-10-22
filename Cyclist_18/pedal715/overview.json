@@ -1,0 +1,21 @@
+{
+    "pedal": 715,
+    "path": "/datasets/dataset3/Rider13/728.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.125767104327678680419921875|14.53170343302190303802490234375",
+    "coordinateFinal": "45.12567155063152313232421875|14.53115927986800670623779296875",
+    "country": "Croatia",
+    "locality": "Radi\u0107i",
+    "centroid": "45.0471699|14.58209815",
+    "bbox": "[[44.966049,14.4891801],[45.1282908,14.4891801],[45.1282908,14.6750162],[44.966049,14.6750162],[44.966049,14.4891801]]",
+    "datetime": "2014-06-25 07:47:06",
+    "duration": "2:46:41",
+    "distance": "72.17",
+    "elevation_gps": "159.4627",
+    "elevation_google": "104.6659",
+    "elevation_bing": "105.5122",
+    "speed_avg": "25.98",
+    "heartrate_avg": "131.93",
+    "temperature_avg": "23.3583",
+    "trackpoints": "5976"
+}

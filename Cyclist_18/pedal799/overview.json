@@ -1,0 +1,21 @@
+{
+    "pedal": 799,
+    "path": "/datasets/dataset3/Rider13/813.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.617599748075008392333984375|14.879114963114261627197265625",
+    "coordinateFinal": "45.618138201534748077392578125|14.87899149768054485321044921875",
+    "country": "Slovenia",
+    "locality": "Ko\u010devje",
+    "centroid": "45.621964750000004|14.87156835",
+    "bbox": "[[45.6152706,14.8618878],[45.6286589,14.8618878],[45.6286589,14.8812489],[45.6152706,14.8812489],[45.6152706,14.8618878]]",
+    "datetime": "2016-06-17 15:14:08",
+    "duration": "1:14:31",
+    "distance": "12.19",
+    "elevation_gps": "478.9444",
+    "elevation_google": "477.3117",
+    "elevation_bing": "481.1564",
+    "speed_avg": "9.82",
+    "heartrate_avg": "126.32",
+    "temperature_avg": "16.9906",
+    "trackpoints": "3727"
+}

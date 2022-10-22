@@ -1,0 +1,21 @@
+{
+    "pedal": 908,
+    "path": "/datasets/dataset3/Rider13/927.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "49.57701290957629680633544921875|16.0509087145328521728515625",
+    "coordinateFinal": "49.5783448778092861175537109375|16.05187925510108470916748046875",
+    "country": "Czechia",
+    "locality": "Nov\u00e9 M\u011bsto na Morav\u011b",
+    "centroid": "49.5835949|16.048413449999998",
+    "bbox": "[[49.575487,16.0370458],[49.5917028,16.0370458],[49.5917028,16.0597811],[49.575487,16.0597811],[49.575487,16.0370458]]",
+    "datetime": "2014-05-24 07:32:32",
+    "duration": "1:14:13",
+    "distance": "14.53",
+    "elevation_gps": "669.6408",
+    "elevation_google": "672.1635",
+    "elevation_bing": "671.4840",
+    "speed_avg": "11.75",
+    "heartrate_avg": "142.15",
+    "temperature_avg": "20.0325",
+    "trackpoints": "2368"
+}

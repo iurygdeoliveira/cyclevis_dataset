@@ -1,0 +1,21 @@
+{
+    "pedal": 773,
+    "path": "/datasets/dataset3/Rider13/787.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "48.24386500753462314605712890625|9.08626659773290157318115234375",
+    "coordinateFinal": "48.24395016767084598541259765625|9.0862145461142063140869140625",
+    "country": "Germany",
+    "locality": "Bitz",
+    "centroid": "48.2439174|9.0863274",
+    "bbox": "[[48.2437464,9.08618604],[48.2440884,9.08618604],[48.2440884,9.08646876],[48.2437464,9.08646876],[48.2437464,9.08618604]]",
+    "datetime": "2015-05-27 14:18:58",
+    "duration": "0:20:21",
+    "distance": "0.18",
+    "elevation_gps": "806.0000",
+    "elevation_google": "878.7000",
+    "elevation_bing": "875.6078",
+    "speed_avg": "0.53",
+    "heartrate_avg": "127.67",
+    "temperature_avg": "19.1569",
+    "trackpoints": "51"
+}

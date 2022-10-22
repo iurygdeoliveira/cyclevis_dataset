@@ -1,0 +1,21 @@
+{
+    "pedal": 505,
+    "path": "/datasets/dataset3/Rider13/515.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "47.21150957979261875152587890625|10.85562315769493579864501953125",
+    "coordinateFinal": "47.21217795275151729583740234375|10.85327169857919216156005859375",
+    "country": "Austria",
+    "locality": "Sautens",
+    "centroid": "47.221014499999995|10.8622607",
+    "bbox": "[[47.2079289,10.8532716],[47.2341001,10.8532716],[47.2341001,10.8712498],[47.2079289,10.8712498],[47.2079289,10.8532716]]",
+    "datetime": "2015-04-24 13:43:50",
+    "duration": "0:59:27",
+    "distance": "12.07",
+    "elevation_gps": "759.3152",
+    "elevation_google": "758.3054",
+    "elevation_bing": "755.2348",
+    "speed_avg": "12.18",
+    "heartrate_avg": "106.24",
+    "temperature_avg": "24.4003",
+    "trackpoints": "3390"
+}

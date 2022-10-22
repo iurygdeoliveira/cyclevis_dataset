@@ -1,0 +1,21 @@
+{
+    "pedal": 883,
+    "path": "/datasets/dataset3/Rider13/902.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.92106060124933719635009765625|14.0606662072241306304931640625",
+    "coordinateFinal": "45.9290670789778232574462890625|14.06501297838985919952392578125",
+    "country": "Slovenia",
+    "locality": "\u010crni vrh nad Idrijo",
+    "centroid": "45.91043690000001|14.0640167",
+    "bbox": "[[45.8917986,14.0472462],[45.9290752,14.0472462],[45.9290752,14.0807872],[45.8917986,14.0807872],[45.8917986,14.0472462]]",
+    "datetime": "2014-12-10 08:54:23",
+    "duration": "2:59:35",
+    "distance": "13.70",
+    "elevation_gps": "899.3178",
+    "elevation_google": "948.6209",
+    "elevation_bing": "958.0237",
+    "speed_avg": "4.58",
+    "heartrate_avg": "107.77",
+    "temperature_avg": "15.6925",
+    "trackpoints": "4894"
+}

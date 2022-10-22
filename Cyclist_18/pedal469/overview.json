@@ -1,0 +1,21 @@
+{
+    "pedal": 469,
+    "path": "/datasets/dataset3/Rider13/477.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "48.4935463964939117431640625|15.6963456608355045318603515625",
+    "coordinateFinal": "48.49365695379674434661865234375|15.69659133441746234893798828125",
+    "country": "Austria",
+    "locality": "Langenlois",
+    "centroid": "48.48351045|15.699498100000001",
+    "bbox": "[[48.473364,15.6898017],[48.4936569,15.6898017],[48.4936569,15.7091945],[48.473364,15.7091945],[48.473364,15.6898017]]",
+    "datetime": "2017-03-26 09:49:11",
+    "duration": "0:33:10",
+    "distance": "12.16",
+    "elevation_gps": "160.2170",
+    "elevation_google": "212.3438",
+    "elevation_bing": "209.0708",
+    "speed_avg": "22.00",
+    "heartrate_avg": "117.81",
+    "temperature_avg": "10.4611",
+    "trackpoints": "1991"
+}

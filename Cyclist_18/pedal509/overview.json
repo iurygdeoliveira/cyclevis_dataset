@@ -1,0 +1,21 @@
+{
+    "pedal": 509,
+    "path": "/datasets/dataset3/Rider13/519.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "57.8078737668693065643310546875|14.284858144819736480712890625",
+    "coordinateFinal": "57.8077034465968608856201171875|14.28397645242512226104736328125",
+    "country": "Sweden",
+    "locality": "Huskvarna",
+    "centroid": "57.806916550000004|14.2846598",
+    "bbox": "[[57.8042149,14.2802726],[57.8096182,14.2802726],[57.8096182,14.289047],[57.8042149,14.289047],[57.8042149,14.2802726]]",
+    "datetime": "2016-05-08 09:31:18",
+    "duration": "1:44:36",
+    "distance": "22.54",
+    "elevation_gps": "250.2207",
+    "elevation_google": "226.9613",
+    "elevation_bing": "229.2475",
+    "speed_avg": "12.93",
+    "heartrate_avg": "171.25",
+    "temperature_avg": "20.0088",
+    "trackpoints": "5928"
+}

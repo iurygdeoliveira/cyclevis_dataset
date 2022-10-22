@@ -1,0 +1,21 @@
+{
+    "pedal": 793,
+    "path": "/datasets/dataset3/Rider13/807.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "47.7962369285523891448974609375|13.3024050481617450714111328125",
+    "coordinateFinal": "47.79614581726491451263427734375|13.302354924380779266357421875",
+    "country": "Austria",
+    "locality": "Fuschl am See",
+    "centroid": "47.8220741|13.26536445",
+    "bbox": "[[47.7961458,13.2282861],[47.8480024,13.2282861],[47.8480024,13.3024428],[47.7961458,13.3024428],[47.7961458,13.2282861]]",
+    "datetime": "2011-12-28 12:58:40",
+    "duration": "1:22:16",
+    "distance": "24.59",
+    "elevation_gps": "599.1519",
+    "elevation_google": "677.1300",
+    "elevation_bing": "682.4334",
+    "speed_avg": "17.93",
+    "heartrate_avg": "128.64",
+    "temperature_avg": "4.8076",
+    "trackpoints": "1959"
+}

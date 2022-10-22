@@ -1,0 +1,21 @@
+{
+    "pedal": 180,
+    "path": "/datasets/dataset3/Rider13/184.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "48.00701983273029327392578125|6.940375082194805145263671875",
+    "coordinateFinal": "48.00700734369456768035888671875|6.94027810357511043548583984375",
+    "country": "France",
+    "locality": "La Bresse",
+    "centroid": "48.00440895|6.906119035",
+    "bbox": "[[48.0011748,6.87186048],[48.0076431,6.87186048],[48.0076431,6.94037759],[48.0011748,6.94037759],[48.0011748,6.87186048]]",
+    "datetime": "2016-05-26 11:21:16",
+    "duration": "3:22:45",
+    "distance": "32.34",
+    "elevation_gps": "695.0641",
+    "elevation_google": "700.3849",
+    "elevation_bing": "692.0890",
+    "speed_avg": "9.57",
+    "heartrate_avg": "141.36",
+    "temperature_avg": "25.4558",
+    "trackpoints": "8284"
+}

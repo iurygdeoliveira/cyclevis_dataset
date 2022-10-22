@@ -1,0 +1,21 @@
+{
+    "pedal": 334,
+    "path": "/datasets/dataset3/Rider13/341.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "34.91787848062813282012939453125|33.60036483965814113616943359375",
+    "coordinateFinal": "34.92001737467944622039794921875|33.59999771229922771453857421875",
+    "country": "Cyprus",
+    "locality": "Larnaca",
+    "centroid": "34.89991345|33.611156050000005",
+    "bbox": "[[34.8797818,33.5835413],[34.9200451,33.5835413],[34.9200451,33.6387708],[34.8797818,33.6387708],[34.8797818,33.5835413]]",
+    "datetime": "2016-02-29 09:25:17",
+    "duration": "1:6:6",
+    "distance": "20.37",
+    "elevation_gps": "9.1695",
+    "elevation_google": "8.3418",
+    "elevation_bing": "8.1173",
+    "speed_avg": "18.49",
+    "heartrate_avg": "118.55",
+    "temperature_avg": "24.0403",
+    "trackpoints": "3650"
+}

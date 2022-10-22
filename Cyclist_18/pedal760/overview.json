@@ -1,0 +1,21 @@
+{
+    "pedal": 760,
+    "path": "/datasets/dataset3/Rider13/774.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "6.31699877791106700897216796875|99.8528207279741764068603515625",
+    "coordinateFinal": "6.31685075350105762481689453125|99.8498397879302501678466796875",
+    "country": "Malaysia",
+    "locality": "Langkawi",
+    "centroid": "6.308895315|99.85281979999999",
+    "bbox": "[[6.30053797,99.8498397],[6.31725266,99.8498397],[6.31725266,99.8557999],[6.30053797,99.8557999],[6.30053797,99.8498397]]",
+    "datetime": "2014-10-18 03:37:24",
+    "duration": "0:16:10",
+    "distance": "5.05",
+    "elevation_gps": "22.5929",
+    "elevation_google": "11.7946",
+    "elevation_bing": "11.8645",
+    "speed_avg": "18.74",
+    "heartrate_avg": "117.21",
+    "temperature_avg": "35.2355",
+    "trackpoints": "310"
+}

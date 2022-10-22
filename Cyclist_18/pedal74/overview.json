@@ -1,0 +1,21 @@
+{
+    "pedal": 74,
+    "path": "/datasets/dataset3/Rider13/75.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.49280905164778232574462890625|9.13420890457928180694580078125",
+    "coordinateFinal": "45.4927984066307544708251953125|9.134285934269428253173828125",
+    "country": "Italy",
+    "locality": "Milan",
+    "centroid": "45.490564649999996|9.13337473",
+    "bbox": "[[45.4880349,9.13187085],[45.4930944,9.13187085],[45.4930944,9.13487861],[45.4880349,9.13487861],[45.4880349,9.13187085]]",
+    "datetime": "2017-03-12 10:17:46",
+    "duration": "1:10:36",
+    "distance": "18.38",
+    "elevation_gps": "95.4523",
+    "elevation_google": "154.5001",
+    "elevation_bing": "147.5405",
+    "speed_avg": "15.62",
+    "heartrate_avg": "170.15",
+    "temperature_avg": "13.1532",
+    "trackpoints": "4237"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 542,
+    "path": "/datasets/dataset3/Rider13/552.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "43.847414217889308929443359375|7.7402954734861850738525390625",
+    "coordinateFinal": "43.85534056462347507476806640625|7.85282067954540252685546875",
+    "country": "Italy",
+    "locality": "San Remo",
+    "centroid": "43.8312318|7.784771105",
+    "bbox": "[[43.8019804,7.71392072],[43.8604832,7.71392072],[43.8604832,7.85562149],[43.8019804,7.85562149],[43.8019804,7.71392072]]",
+    "datetime": "2014-02-21 09:49:33",
+    "duration": "5:2:6",
+    "distance": "59.61",
+    "elevation_gps": "618.1523",
+    "elevation_google": "628.1017",
+    "elevation_bing": "623.7703",
+    "speed_avg": "11.84",
+    "heartrate_avg": "131.02",
+    "temperature_avg": "13.7716",
+    "trackpoints": "8351"
+}

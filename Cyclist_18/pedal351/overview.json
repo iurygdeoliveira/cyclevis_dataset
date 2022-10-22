@@ -1,0 +1,21 @@
+{
+    "pedal": 351,
+    "path": "/datasets/dataset3/Rider13/358.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "57.58249000646173954010009765625|14.21472516842186450958251953125",
+    "coordinateFinal": "57.5824203528463840484619140625|14.21474075876176357269287109375",
+    "country": "Sweden",
+    "locality": "Vaggeryd",
+    "centroid": "57.545311600000005|14.17354675",
+    "bbox": "[[57.5076453,14.1322543],[57.5829779,14.1322543],[57.5829779,14.2148392],[57.5076453,14.2148392],[57.5076453,14.1322543]]",
+    "datetime": "2016-05-06 08:25:24",
+    "duration": "1:4:30",
+    "distance": "23.29",
+    "elevation_gps": "219.6618",
+    "elevation_google": "219.6477",
+    "elevation_bing": "223.3168",
+    "speed_avg": "21.67",
+    "heartrate_avg": "115.46",
+    "temperature_avg": "17.2954",
+    "trackpoints": "3680"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 52,
+    "path": "/datasets/dataset3/Rider13/52.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "44.979835487902164459228515625|14.44860826246440410614013671875",
+    "coordinateFinal": "44.69344488345086574554443359375|14.39277045428752899169921875",
+    "country": "Croatia",
+    "locality": "Merag",
+    "centroid": "44.829965900000005|14.3926748",
+    "bbox": "[[44.6800963,14.3320737],[44.9798355,14.3320737],[44.9798355,14.4532759],[44.6800963,14.4532759],[44.6800963,14.3320737]]",
+    "datetime": "2015-04-17 08:45:00",
+    "duration": "3:29:49",
+    "distance": "64.36",
+    "elevation_gps": "164.7047",
+    "elevation_google": "155.6198",
+    "elevation_bing": "155.9812",
+    "speed_avg": "18.40",
+    "heartrate_avg": "151.92",
+    "temperature_avg": "17.7944",
+    "trackpoints": "12532"
+}

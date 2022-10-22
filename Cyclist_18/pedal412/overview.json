@@ -1,0 +1,21 @@
+{
+    "pedal": 412,
+    "path": "/datasets/dataset3/Rider13/420.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "49.61598020978271961212158203125|16.054968573153018951416015625",
+    "coordinateFinal": "49.61632168851792812347412109375|16.0551546514034271240234375",
+    "country": "Czechia",
+    "locality": "Fry\u0161ava pod \u017d\u00e1kovou horou",
+    "centroid": "49.615431599999994|16.062935850000002",
+    "bbox": "[[49.5977342,16.0334165],[49.633129,16.0334165],[49.633129,16.0924552],[49.5977342,16.0924552],[49.5977342,16.0334165]]",
+    "datetime": "2016-07-03 05:07:25",
+    "duration": "0:52:23",
+    "distance": "17.54",
+    "elevation_gps": "742.4508",
+    "elevation_google": "730.9081",
+    "elevation_bing": "730.5348",
+    "speed_avg": "20.09",
+    "heartrate_avg": "118.77",
+    "temperature_avg": "8.5161",
+    "trackpoints": "3143"
+}

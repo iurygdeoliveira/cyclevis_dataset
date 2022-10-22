@@ -1,0 +1,21 @@
+{
+    "pedal": 549,
+    "path": "/datasets/dataset3/Rider13/559.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.4507386274635791778564453125|15.3319960646331310272216796875",
+    "coordinateFinal": "46.45380447618663311004638671875|15.334352552890777587890625",
+    "country": "Slovenia",
+    "locality": "Zre\u010de",
+    "centroid": "46.47208585|15.2283658",
+    "bbox": "[[46.436931,15.105223],[46.5072407,15.105223],[46.5072407,15.3515086],[46.436931,15.3515086],[46.436931,15.105223]]",
+    "datetime": "2016-06-07 07:23:52",
+    "duration": "4:38:1",
+    "distance": "62.26",
+    "elevation_gps": "1214.8073",
+    "elevation_google": "1199.3121",
+    "elevation_bing": "1204.8761",
+    "speed_avg": "13.44",
+    "heartrate_avg": "133.69",
+    "temperature_avg": "15.6588",
+    "trackpoints": "16678"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 43,
+    "path": "/datasets/dataset3/Rider13/43.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "-22.8525151871144771575927734375|-43.40074100531637668609619140625",
+    "coordinateFinal": "-22.85260789096355438232421875|-43.4007994271814823150634765625",
+    "country": "Brazil",
+    "locality": "Rio de Janeiro",
+    "centroid": "-22.8524305|-43.405550000000005",
+    "bbox": "[[-22.854776,-43.410643],[-22.850085,-43.410643],[-22.850085,-43.400457],[-22.854776,-43.400457],[-22.854776,-43.410643]]",
+    "datetime": "2015-10-11 12:41:58",
+    "duration": "0:22:17",
+    "distance": "4.99",
+    "elevation_gps": "61.0550",
+    "elevation_google": "51.2324",
+    "elevation_bing": "50.3245",
+    "speed_avg": "13.44",
+    "heartrate_avg": "138.41",
+    "temperature_avg": "38.3992",
+    "trackpoints": "789"
+}

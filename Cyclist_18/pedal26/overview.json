@@ -1,0 +1,21 @@
+{
+    "pedal": 26,
+    "path": "/datasets/dataset3/Rider13/26.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "28.05096424184739589691162109375|-16.53092564083635807037353515625",
+    "coordinateFinal": "28.050764165818691253662109375|-16.53231586329638957977294921875",
+    "country": "Spain",
+    "locality": "El M\u00e9dano",
+    "centroid": "28.07581365|-16.548773999999998",
+    "bbox": "[[28.0405858,-16.586408],[28.1110415,-16.586408],[28.1110415,-16.51114],[28.0405858,-16.51114],[28.0405858,-16.586408]]",
+    "datetime": "2017-01-28 14:02:06",
+    "duration": "2:36:39",
+    "distance": "31.16",
+    "elevation_gps": "196.9127",
+    "elevation_google": "188.0455",
+    "elevation_bing": "185.8503",
+    "speed_avg": "11.93",
+    "heartrate_avg": "125.13",
+    "temperature_avg": "17.7496",
+    "trackpoints": "8167"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 603,
+    "path": "/datasets/dataset3/Rider13/614.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.48732169531285762786865234375|13.7750709615647792816162109375",
+    "coordinateFinal": "46.4871777780354022979736328125|13.775602877140045166015625",
+    "country": "Slovenia",
+    "locality": "Kranjska Gora",
+    "centroid": "46.4881703|13.764794349999999",
+    "bbox": "[[46.4859903,13.7539722],[46.4903503,13.7539722],[46.4903503,13.7756165],[46.4859903,13.7756165],[46.4859903,13.7539722]]",
+    "datetime": "2015-04-29 15:09:53",
+    "duration": "1:47:16",
+    "distance": "23.01",
+    "elevation_gps": "829.0444",
+    "elevation_google": "857.1505",
+    "elevation_bing": "859.6972",
+    "speed_avg": "12.87",
+    "heartrate_avg": "138.44",
+    "temperature_avg": "14.6307",
+    "trackpoints": "6350"
+}

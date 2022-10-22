@@ -1,0 +1,21 @@
+{
+    "pedal": 353,
+    "path": "/datasets/dataset3/Rider13/360.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "36.29843677394092082977294921875|32.33486811630427837371826171875",
+    "coordinateFinal": "36.54837406240403652191162109375|31.9824924878776073455810546875",
+    "country": "Turkey",
+    "locality": "Beyobas\u0131",
+    "centroid": "36.4107058|32.15916335",
+    "bbox": "[[36.2730243,31.9824862],[36.5483873,31.9824862],[36.5483873,32.3358405],[36.2730243,32.3358405],[36.2730243,31.9824862]]",
+    "datetime": "2012-01-12 09:53:41",
+    "duration": "1:40:11",
+    "distance": "49.13",
+    "elevation_gps": "22.0599",
+    "elevation_google": "27.1375",
+    "elevation_bing": "26.5077",
+    "speed_avg": "29.42",
+    "heartrate_avg": "138.92",
+    "temperature_avg": "13.1241",
+    "trackpoints": "1499"
+}
