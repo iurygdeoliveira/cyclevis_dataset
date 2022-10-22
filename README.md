@@ -38,24 +38,34 @@ Mentor - [Prof. Dr. Danilo Coimbra](http://lattes.cnpq.br/9590398895954821)
 
 ## Directory and File Structure
 
-Each pedal has several trackpoints
-.
-├── Cyclist (Contains the cyclist's data)
-│   ├── pedal (Contains the pedal data)
-│   │   ├── distance_history.json (Distance recorded at each trackpoint)
-│   │   ├── elevation_bing.json (Elevation provided by bing for the coordinate latitude,longitude)
-│   │   ├── elevation_google.json (Elevation provided by google for the coordinate latitude,longitude)
-│   │   ├── elevation_gps.json (Elevation recorded at each trackpoint)
-│   │   ├── heartrate_history.json (heartrate recorded at each trackpoint)
-│   │   ├── latitudes.json (latitude recorded at each trackpoint)
-│   │   ├── longitudes.json (longitude recorded at each trackpoint)
-│   │   ├── overview.json (Contains general data, e.g., average speed, average heart rate, total distance, etc.)
-│   │   ├── speed_history.json (speed recorded at each trackpoint)
-│   │   └── time_history.json (time recorded at each trackpoint)
+Each pedal has several trackpoints\
+.\
+├── Cyclist (Contains the cyclist's data)\
+│   ├── pedal (Contains the pedal data)\
+│   │   ├── distance_history.json (Distance recorded at each trackpoint)\
+│   │   ├── elevation_bing.json (Elevation provided by bing for the coordinate latitude,longitude)\
+│   │   ├── elevation_google.json (Elevation provided by google for the coordinate latitude,longitude)\
+│   │   ├── elevation_gps.json (Elevation recorded at each trackpoint)\
+│   │   ├── heartrate_history.json (heartrate recorded at each trackpoint)\
+│   │   ├── latitudes.json (latitude recorded at each trackpoint)\
+│   │   ├── longitudes.json (longitude recorded at each trackpoint)\
+│   │   ├── overview.json (Contains general data, e.g., average speed, average heart rate, total distance, etc.)\
+│   │   ├── speed_history.json (speed recorded at each trackpoint)\
+│   │   └── time_history.json (time recorded at each trackpoint)\
 
+.\
+.\
 .
-.
-.
+
+## Reference
+
+The original data was obtained from:
+
+-   RAUTER, S.; FISTER, I. A collection of sport activity files for data analysis and data mining. University of Ljubljana, 2015
+
+Additional information on data preprocessing
+
+-   RAUTER, S.; FISTER, I.; JR, I. F. How to deal with sports activity datasets for data mining and analysis:. International Journal of Advanced Pervasive and Ubiquitous Computing, v. 7, p. 27–37, 04 2015
 
 #### Retorna todos os itens
 
