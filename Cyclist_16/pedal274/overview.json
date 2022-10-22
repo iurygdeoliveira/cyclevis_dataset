@@ -1,0 +1,21 @@
+{
+    "pedal": 274,
+    "path": "/datasets/dataset3/Rider10/297.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.2917115204036235809326171875|13.58237612061202526092529296875",
+    "coordinateFinal": "45.29166365973651409149169921875|13.58169148676097393035888671875",
+    "country": "Croatia",
+    "locality": "Vabriga",
+    "centroid": "45.24044505|13.6430389",
+    "bbox": "[[45.181939,13.5804288],[45.2989511,13.5804288],[45.2989511,13.705649],[45.181939,13.705649],[45.181939,13.5804288]]",
+    "datetime": "2012-09-27 11:34:53",
+    "duration": "2:30:51",
+    "distance": "50.33",
+    "elevation_gps": "76.8709",
+    "elevation_google": "65.0340",
+    "elevation_bing": "64.7412",
+    "speed_avg": "20.02",
+    "heartrate_avg": "112.70",
+    "temperature_avg": "23.5101",
+    "trackpoints": "4015"
+}

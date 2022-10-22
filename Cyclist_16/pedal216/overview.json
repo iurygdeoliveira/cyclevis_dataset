@@ -1,0 +1,21 @@
+{
+    "pedal": 216,
+    "path": "/datasets/dataset3/Rider10/235.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.8031682111322879791259765625|15.71316562592983245849609375",
+    "coordinateFinal": "45.80178134143352508544921875|15.70996440947055816650390625",
+    "country": "Croatia",
+    "locality": "Samobor",
+    "centroid": "45.7990844|15.70783775",
+    "bbox": "[[45.7947072,15.6985306],[45.8034616,15.6985306],[45.8034616,15.7171449],[45.7947072,15.7171449],[45.7947072,15.6985306]]",
+    "datetime": "2014-06-15 07:04:48",
+    "duration": "2:36:59",
+    "distance": "20.42",
+    "elevation_gps": "216.6884",
+    "elevation_google": "214.6442",
+    "elevation_bing": "215.4114",
+    "speed_avg": "7.80",
+    "heartrate_avg": "139.30",
+    "temperature_avg": "20.6927",
+    "trackpoints": "4616"
+}

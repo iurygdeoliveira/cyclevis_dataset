@@ -1,0 +1,21 @@
+{
+    "pedal": 50,
+    "path": "/datasets/dataset3/Rider10/53.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.4947369135916233062744140625|16.33618921972811222076416015625",
+    "coordinateFinal": "46.4936529658734798431396484375|16.335749588906764984130859375",
+    "country": "Croatia",
+    "locality": "Grkave\u0161\u010dak",
+    "centroid": "46.48995635|16.3401983",
+    "bbox": "[[46.4836349,16.3339834],[46.4962778,16.3339834],[46.4962778,16.3464132],[46.4836349,16.3464132],[46.4836349,16.3339834]]",
+    "datetime": "2014-08-02 11:50:46",
+    "duration": "3:39:28",
+    "distance": "20.86",
+    "elevation_gps": "221.2075",
+    "elevation_google": "222.1622",
+    "elevation_bing": "230.3435",
+    "speed_avg": "5.70",
+    "heartrate_avg": "148.57",
+    "temperature_avg": "26.1645",
+    "trackpoints": "4970"
+}

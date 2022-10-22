@@ -1,0 +1,21 @@
+{
+    "pedal": 363,
+    "path": "/datasets/dataset3/Rider10/392.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "47.3884992487728595733642578125|13.46648164093494415283203125",
+    "coordinateFinal": "47.3884291760623455047607421875|13.46616187132894992828369140625",
+    "country": "Austria",
+    "locality": "Radstadt",
+    "centroid": "47.3923489|13.46546",
+    "bbox": "[[47.3884248,13.4601082],[47.396273,13.4601082],[47.396273,13.4708118],[47.3884248,13.4708118],[47.3884248,13.4601082]]",
+    "datetime": "2014-02-18 12:55:09",
+    "duration": "1:11:30",
+    "distance": "7.11",
+    "elevation_gps": "950.2651",
+    "elevation_google": "995.8894",
+    "elevation_bing": "1007.9088",
+    "speed_avg": "5.97",
+    "heartrate_avg": "123.33",
+    "temperature_avg": "10.3125",
+    "trackpoints": "2051"
+}

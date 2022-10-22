@@ -1,0 +1,21 @@
+{
+    "pedal": 74,
+    "path": "/datasets/dataset3/Rider10/78.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.20763256587088108062744140625|13.5898191668093204498291015625",
+    "coordinateFinal": "45.20775795914232730865478515625|13.58964264392852783203125",
+    "country": "Croatia",
+    "locality": "Pore\u010d",
+    "centroid": "45.1856209|13.62594185",
+    "bbox": "[[45.1618218,13.5850952],[45.20942,13.5850952],[45.20942,13.6667885],[45.1618218,13.6667885],[45.1618218,13.5850952]]",
+    "datetime": "2015-04-26 09:47:05",
+    "duration": "3:32:51",
+    "distance": "55.85",
+    "elevation_gps": "43.5930",
+    "elevation_google": "36.4067",
+    "elevation_bing": "36.3335",
+    "speed_avg": "15.74",
+    "heartrate_avg": "103.62",
+    "temperature_avg": "21.8415",
+    "trackpoints": "4656"
+}

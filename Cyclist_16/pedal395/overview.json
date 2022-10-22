@@ -1,0 +1,21 @@
+{
+    "pedal": 395,
+    "path": "/datasets/dataset3/Rider10/425.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.078108213841915130615234375|14.5161565952003002166748046875",
+    "coordinateFinal": "46.07821156270802021026611328125|14.51655574142932891845703125",
+    "country": "Slovenia",
+    "locality": "Ljubljana",
+    "centroid": "46.100432600000005|14.522428699999999",
+    "bbox": "[[46.0781082,14.5074319],[46.122757,14.5074319],[46.122757,14.5374255],[46.0781082,14.5374255],[46.0781082,14.5074319]]",
+    "datetime": "2015-09-18 14:31:54",
+    "duration": "1:9:37",
+    "distance": "20.69",
+    "elevation_gps": "326.8296",
+    "elevation_google": "329.0393",
+    "elevation_bing": "335.1247",
+    "speed_avg": "17.83",
+    "heartrate_avg": "114.48",
+    "temperature_avg": "22.9760",
+    "trackpoints": "1668"
+}

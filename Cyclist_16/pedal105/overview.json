@@ -1,0 +1,21 @@
+{
+    "pedal": 105,
+    "path": "/datasets/dataset3/Rider10/114.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.91327616013586521148681640625|14.21986729837954044342041015625",
+    "coordinateFinal": "45.9134207479655742645263671875|14.2201869003474712371826171875",
+    "country": "Slovenia",
+    "locality": "Logatec",
+    "centroid": "45.907824950000006|14.2107179",
+    "bbox": "[[45.9015782,14.2012489],[45.9140717,14.2012489],[45.9140717,14.2201869],[45.9015782,14.2201869],[45.9015782,14.2012489]]",
+    "datetime": "2015-02-19 14:51:49",
+    "duration": "1:33:18",
+    "distance": "16.57",
+    "elevation_gps": "401.7193",
+    "elevation_google": "484.3860",
+    "elevation_bing": "484.1847",
+    "speed_avg": "10.66",
+    "heartrate_avg": "129.74",
+    "temperature_avg": "15.7303",
+    "trackpoints": "1651"
+}

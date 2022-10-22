@@ -1,0 +1,21 @@
+{
+    "pedal": 57,
+    "path": "/datasets/dataset3/Rider10/60.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.51722329668700695037841796875|16.2036202847957611083984375",
+    "coordinateFinal": "46.51725682429969310760498046875|16.2035597674548625946044921875",
+    "country": "Slovenia",
+    "locality": "Ljutomer",
+    "centroid": "46.5096217|16.15836415",
+    "bbox": "[[46.4945437,16.1131081],[46.5246997,16.1131081],[46.5246997,16.2036202],[46.4945437,16.2036202],[46.4945437,16.1131081]]",
+    "datetime": "2016-08-11 14:50:11",
+    "duration": "1:40:52",
+    "distance": "26.62",
+    "elevation_gps": "210.0629",
+    "elevation_google": "227.4923",
+    "elevation_bing": "231.1056",
+    "speed_avg": "15.83",
+    "heartrate_avg": "124.11",
+    "temperature_avg": "14.8531",
+    "trackpoints": "2452"
+}

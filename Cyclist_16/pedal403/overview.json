@@ -1,0 +1,21 @@
+{
+    "pedal": 403,
+    "path": "/datasets/dataset3/Rider10/433.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.8164518512785434722900390625|14.15734936483204364776611328125",
+    "coordinateFinal": "45.8166050724685192108154296875|14.15739814750850200653076171875",
+    "country": "Slovenia",
+    "locality": "Postojna",
+    "centroid": "45.8263411|14.12757755",
+    "bbox": "[[45.7952488,14.092946],[45.8574334,14.092946],[45.8574334,14.1622091],[45.7952488,14.1622091],[45.7952488,14.092946]]",
+    "datetime": "2012-09-01 11:06:13",
+    "duration": "2:46:39",
+    "distance": "31.92",
+    "elevation_gps": "641.5940",
+    "elevation_google": "635.7528",
+    "elevation_bing": "642.5724",
+    "speed_avg": "11.49",
+    "heartrate_avg": "155.91",
+    "temperature_avg": "10.4904",
+    "trackpoints": "3604"
+}

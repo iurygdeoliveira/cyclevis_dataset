@@ -1,0 +1,21 @@
+{
+    "pedal": 55,
+    "path": "/datasets/dataset3/Rider10/58.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "43.90917467884719371795654296875|15.43649082072079181671142578125",
+    "coordinateFinal": "43.909159004688262939453125|15.43640716932713985443115234375",
+    "country": "Croatia",
+    "locality": "Tkon",
+    "centroid": "43.9042847|15.4179798",
+    "bbox": "[[43.8968504,15.3989521],[43.911719,15.3989521],[43.911719,15.4370075],[43.8968504,15.4370075],[43.8968504,15.3989521]]",
+    "datetime": "2016-07-16 14:15:24",
+    "duration": "1:16:37",
+    "distance": "17.81",
+    "elevation_gps": "71.5134",
+    "elevation_google": "70.7541",
+    "elevation_bing": "70.8505",
+    "speed_avg": "13.95",
+    "heartrate_avg": "124.56",
+    "temperature_avg": "18.5831",
+    "trackpoints": "2775"
+}

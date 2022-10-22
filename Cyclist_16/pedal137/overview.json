@@ -1,0 +1,21 @@
+{
+    "pedal": 137,
+    "path": "/datasets/dataset3/Rider10/148.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.33016718924045562744140625|13.7601334042847156524658203125",
+    "coordinateFinal": "45.3306072391569614410400390625|13.76103403978049755096435546875",
+    "country": "Croatia",
+    "locality": "Vi\u017einada",
+    "centroid": "45.331306850000004|13.7564539",
+    "bbox": "[[45.3298086,13.7516844],[45.3328051,13.7516844],[45.3328051,13.7612234],[45.3298086,13.7612234],[45.3298086,13.7516844]]",
+    "datetime": "2012-09-30 08:23:06",
+    "duration": "0:25:19",
+    "distance": "3.01",
+    "elevation_gps": "228.0366",
+    "elevation_google": "262.0977",
+    "elevation_bing": "261.9756",
+    "speed_avg": "7.13",
+    "heartrate_avg": "98.08",
+    "temperature_avg": "22.0490",
+    "trackpoints": "410"
+}

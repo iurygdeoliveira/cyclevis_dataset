@@ -1,0 +1,21 @@
+{
+    "pedal": 92,
+    "path": "/datasets/dataset3/Rider10/97.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.17166112549602985382080078125|13.6070600710809230804443359375",
+    "coordinateFinal": "45.17095235176384449005126953125|13.60954220406711101531982421875",
+    "country": "Croatia",
+    "locality": "Funtana",
+    "centroid": "45.15337960000001|13.65237555",
+    "bbox": "[[45.1346022,13.60706],[45.172157,13.60706],[45.172157,13.6976911],[45.1346022,13.6976911],[45.1346022,13.60706]]",
+    "datetime": "2012-09-28 13:18:45",
+    "duration": "2:16:31",
+    "distance": "32.35",
+    "elevation_gps": "42.2123",
+    "elevation_google": "57.5726",
+    "elevation_bing": "57.6480",
+    "speed_avg": "14.22",
+    "heartrate_avg": "161.01",
+    "temperature_avg": "19.0417",
+    "trackpoints": "2565"
+}

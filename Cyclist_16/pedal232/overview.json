@@ -1,0 +1,21 @@
+{
+    "pedal": 232,
+    "path": "/datasets/dataset3/Rider10/252.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.67067331261932849884033203125|16.1713568307459354400634765625",
+    "coordinateFinal": "46.6707387752830982208251953125|16.17143369279801845550537109375",
+    "country": "Slovenia",
+    "locality": "Murska Sobota",
+    "centroid": "46.73132005|16.2316484",
+    "bbox": "[[46.6703992,16.1713306],[46.7922409,16.1713306],[46.7922409,16.2919662],[46.6703992,16.2919662],[46.6703992,16.1713306]]",
+    "datetime": "2016-10-30 12:02:10",
+    "duration": "3:38:46",
+    "distance": "56.88",
+    "elevation_gps": "290.1512",
+    "elevation_google": "291.0388",
+    "elevation_bing": "292.9841",
+    "speed_avg": "15.60",
+    "heartrate_avg": "134.83",
+    "temperature_avg": "9.5536",
+    "trackpoints": "6211"
+}
