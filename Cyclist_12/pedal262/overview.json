@@ -1,0 +1,21 @@
+{
+    "pedal": 262,
+    "path": "/datasets/dataset3/Rider3/289.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.68017637915909|15.988590773195028",
+    "coordinateFinal": "46.680346028879285|15.988492369651794",
+    "country": "Slovenia",
+    "locality": "Gornja Radgona",
+    "centroid": "46.67879705|15.991529",
+    "bbox": "[[46.6742705,15.9839399],[46.6833236,15.9839399],[46.6833236,15.9991181],[46.6742705,15.9991181],[46.6742705,15.9839399]]",
+    "datetime": "2014-02-15 14:28:30",
+    "duration": "1:22:53",
+    "distance": "10.62",
+    "elevation_gps": "278.1308",
+    "elevation_google": "231.0779",
+    "elevation_bing": "236.1565",
+    "speed_avg": "7.69",
+    "heartrate_avg": "160.25",
+    "temperature_avg": "22.1597",
+    "trackpoints": "3074"
+}

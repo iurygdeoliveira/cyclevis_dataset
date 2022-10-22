@@ -1,0 +1,21 @@
+{
+    "pedal": 211,
+    "path": "/datasets/dataset3/Rider3/235.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.705077815800905|16.393029168248177",
+    "coordinateFinal": "45.7050902210176|16.393193621188402",
+    "country": "Croatia",
+    "locality": "Ivani\u0107 Grad",
+    "centroid": "45.59615665|16.578759299999998",
+    "bbox": "[[45.4792657,16.3790651],[45.7130476,16.3790651],[45.7130476,16.7784535],[45.4792657,16.7784535],[45.4792657,16.3790651]]",
+    "datetime": "2015-08-23 09:14:19",
+    "duration": "2:24:2",
+    "distance": "98.19",
+    "elevation_gps": "81.5561",
+    "elevation_google": "114.1920",
+    "elevation_bing": "114.3113",
+    "speed_avg": "40.90",
+    "heartrate_avg": "173.93",
+    "temperature_avg": "20.6363",
+    "trackpoints": "8637"
+}

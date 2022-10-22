@@ -1,0 +1,21 @@
+{
+    "pedal": 285,
+    "path": "/datasets/dataset3/Rider3/312.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.56256193295121|16.171160945668817",
+    "coordinateFinal": "46.53824142180383|16.174994576722383",
+    "country": "Slovenia",
+    "locality": "Kri\u017eevci pri Ljutomeru",
+    "centroid": "46.56082575|16.16389165",
+    "bbox": "[[46.5381449,16.1487402],[46.5835066,16.1487402],[46.5835066,16.1790431],[46.5381449,16.1790431],[46.5381449,16.1487402]]",
+    "datetime": "2014-06-28 09:35:51",
+    "duration": "0:24:40",
+    "distance": "10.99",
+    "elevation_gps": "166.3729",
+    "elevation_google": "180.1210",
+    "elevation_bing": "181.1355",
+    "speed_avg": "26.73",
+    "heartrate_avg": "140.33",
+    "temperature_avg": "30.4796",
+    "trackpoints": "465"
+}

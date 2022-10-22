@@ -1,0 +1,21 @@
+{
+    "pedal": 186,
+    "path": "/datasets/dataset3/Rider3/206.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "43.56070342473686|19.53944407403469",
+    "coordinateFinal": "43.14089396037161|20.517236329615116",
+    "country": "Serbia",
+    "locality": "Priboj",
+    "centroid": "43.349949650000006|20.0283401",
+    "bbox": "[[43.1391958,19.5394439],[43.5607035,19.5394439],[43.5607035,20.5172363],[43.1391958,20.5172363],[43.1391958,19.5394439]]",
+    "datetime": "2016-06-16 07:58:45",
+    "duration": "3:14:23",
+    "distance": "122.23",
+    "elevation_gps": "885.9187",
+    "elevation_google": "910.1386",
+    "elevation_bing": "909.5124",
+    "speed_avg": "37.73",
+    "heartrate_avg": "162.58",
+    "temperature_avg": "25.5965",
+    "trackpoints": "11661"
+}

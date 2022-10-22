@@ -1,0 +1,21 @@
+{
+    "pedal": 250,
+    "path": "/datasets/dataset3/Rider3/274.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "42.28884810581803|18.830680148676038",
+    "coordinateFinal": "42.28884542360902|18.83066321723163",
+    "country": "Montenegro",
+    "locality": "Budva",
+    "centroid": "42.292919850000004|18.798963200000003",
+    "bbox": "[[42.2790575,18.7635204],[42.3067822,18.7635204],[42.3067822,18.834406],[42.2790575,18.834406],[42.2790575,18.7635204]]",
+    "datetime": "2016-07-17 07:45:31",
+    "duration": "1:12:52",
+    "distance": "25.66",
+    "elevation_gps": "91.3261",
+    "elevation_google": "96.0506",
+    "elevation_bing": "94.5479",
+    "speed_avg": "21.13",
+    "heartrate_avg": "157.09",
+    "temperature_avg": "19.2949",
+    "trackpoints": "4242"
+}

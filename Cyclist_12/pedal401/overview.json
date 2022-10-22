@@ -1,0 +1,21 @@
+{
+    "pedal": 401,
+    "path": "/datasets/dataset3/Rider3/438.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.931929079815745|12.418389860540628",
+    "coordinateFinal": "46.17045775987208|14.719396457076073",
+    "country": "Italy",
+    "locality": "Orsago",
+    "centroid": "45.96442025|13.56711925",
+    "bbox": "[[45.7569711,12.4148421],[46.1718694,12.4148421],[46.1718694,14.7193964],[45.7569711,14.7193964],[45.7569711,12.4148421]]",
+    "datetime": "2015-03-08 08:44:37",
+    "duration": "6:59:24",
+    "distance": "250.31",
+    "elevation_gps": "184.0368",
+    "elevation_google": "176.7090",
+    "elevation_bing": "176.2381",
+    "speed_avg": "35.81",
+    "heartrate_avg": "119.05",
+    "temperature_avg": "21.2498",
+    "trackpoints": "6152"
+}

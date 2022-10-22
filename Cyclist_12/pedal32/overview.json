@@ -1,0 +1,21 @@
+{
+    "pedal": 32,
+    "path": "/datasets/dataset3/Rider3/37.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.583386519923806|16.161272479221225",
+    "coordinateFinal": "46.58333782106638|16.16148194298148",
+    "country": "Slovenia",
+    "locality": "Ver\u017eej",
+    "centroid": "46.57964865|16.16604005",
+    "bbox": "[[46.5717021,16.1607414],[46.5875952,16.1607414],[46.5875952,16.1713387],[46.5717021,16.1713387],[46.5717021,16.1607414]]",
+    "datetime": "2014-02-14 19:36:27",
+    "duration": "0:45:31",
+    "distance": "6.42",
+    "elevation_gps": "195.5155",
+    "elevation_google": "181.5295",
+    "elevation_bing": "182.0038",
+    "speed_avg": "8.46",
+    "heartrate_avg": "149.94",
+    "temperature_avg": "17.0491",
+    "trackpoints": "530"
+}

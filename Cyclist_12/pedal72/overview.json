@@ -1,0 +1,21 @@
+{
+    "pedal": 72,
+    "path": "/datasets/dataset3/Rider3/84.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.48544507101178|15.597312720492482",
+    "coordinateFinal": "46.49933899752796|15.554073248058558",
+    "country": "Slovenia",
+    "locality": "Pohorje",
+    "centroid": "46.49156105|15.573849200000002",
+    "bbox": "[[46.4837832,15.5503857],[46.4993389,15.5503857],[46.4993389,15.5973127],[46.4837832,15.5973127],[46.4837832,15.5503857]]",
+    "datetime": "2014-04-04 15:55:46",
+    "duration": "0:20:2",
+    "distance": "6.42",
+    "elevation_gps": "785.7091",
+    "elevation_google": "784.5560",
+    "elevation_bing": "783.4335",
+    "speed_avg": "19.23",
+    "heartrate_avg": "188.56",
+    "temperature_avg": "17.8869",
+    "trackpoints": "955"
+}

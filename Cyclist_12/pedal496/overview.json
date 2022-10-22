@@ -1,0 +1,21 @@
+{
+    "pedal": 496,
+    "path": "/datasets/dataset3/Rider3/540.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.52116519771516|11.841453909873962",
+    "coordinateFinal": "45.62285268679261|11.843846859410405",
+    "country": "Italy",
+    "locality": "Curtarolo",
+    "centroid": "45.572008849999996|11.847102199999998",
+    "bbox": "[[45.5211651,11.8320924],[45.6228526,11.8320924],[45.6228526,11.862112],[45.5211651,11.862112],[45.5211651,11.8320924]]",
+    "datetime": "2016-07-10 09:23:02",
+    "duration": "0:25:38",
+    "distance": "13.57",
+    "elevation_gps": "22.9280",
+    "elevation_google": "26.8230",
+    "elevation_bing": "25.7314",
+    "speed_avg": "31.76",
+    "heartrate_avg": "138.51",
+    "temperature_avg": "32.2870",
+    "trackpoints": "1467"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 403,
+    "path": "/datasets/dataset3/Rider3/440.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "48.317296765744686|15.206161150708795",
+    "coordinateFinal": "48.31376421265304|15.233262442052364",
+    "country": "Austria",
+    "locality": "P\u00f6ggstall",
+    "centroid": "48.3017359|15.21998765",
+    "bbox": "[[48.2857554,15.1995628],[48.3177164,15.1995628],[48.3177164,15.2404125],[48.2857554,15.2404125],[48.2857554,15.1995628]]",
+    "datetime": "2016-05-08 08:42:57",
+    "duration": "3:23:26",
+    "distance": "103.02",
+    "elevation_gps": "495.1390",
+    "elevation_google": "497.8270",
+    "elevation_bing": "497.0103",
+    "speed_avg": "30.38",
+    "heartrate_avg": "171.09",
+    "temperature_avg": "18.5276",
+    "trackpoints": "11176"
+}

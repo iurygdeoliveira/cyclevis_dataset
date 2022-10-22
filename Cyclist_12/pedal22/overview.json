@@ -1,0 +1,21 @@
+{
+    "pedal": 22,
+    "path": "/datasets/dataset3/Rider3/26.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "48.279487090185285|14.249035231769085",
+    "coordinateFinal": "48.292839881032705|14.195687435567379",
+    "country": "Austria",
+    "locality": "Leonding",
+    "centroid": "48.3003354|14.21425245",
+    "bbox": "[[48.272446,14.1735675],[48.3282248,14.1735675],[48.3282248,14.2549374],[48.272446,14.2549374],[48.272446,14.1735675]]",
+    "datetime": "2016-03-20 09:59:45",
+    "duration": "1:17:37",
+    "distance": "49.47",
+    "elevation_gps": "304.9712",
+    "elevation_google": "301.6705",
+    "elevation_bing": "300.8856",
+    "speed_avg": "38.24",
+    "heartrate_avg": "179.75",
+    "temperature_avg": "6.4980",
+    "trackpoints": "4651"
+}

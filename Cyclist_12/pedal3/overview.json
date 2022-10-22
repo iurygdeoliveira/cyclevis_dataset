@@ -1,0 +1,21 @@
+{
+    "pedal": 3,
+    "path": "/datasets/dataset3/Rider3/3.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.50733832642436|13.618945190683007",
+    "coordinateFinal": "45.50711402669549|13.619203269481659",
+    "country": "Slovenia",
+    "locality": "Portoro\u017e - Portorose",
+    "centroid": "45.515313299999995|13.5928325",
+    "bbox": "[[45.5032158,13.5664618],[45.5274108,13.5664618],[45.5274108,13.6192032],[45.5032158,13.6192032],[45.5032158,13.5664618]]",
+    "datetime": "2015-08-04 08:15:58",
+    "duration": "1:5:32",
+    "distance": "26.09",
+    "elevation_gps": "29.3072",
+    "elevation_google": "35.0199",
+    "elevation_bing": "34.9834",
+    "speed_avg": "23.89",
+    "heartrate_avg": "153.94",
+    "temperature_avg": "27.4868",
+    "trackpoints": "3800"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 335,
+    "path": "/datasets/dataset3/Rider3/366.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.84797034598887|16.13703863695264",
+    "coordinateFinal": "46.84936040081084|16.13733921200037",
+    "country": "Slovenia",
+    "locality": "Kuzma",
+    "centroid": "46.80523305|16.1768924",
+    "bbox": "[[46.7510448,16.0270465],[46.8594213,16.0270465],[46.8594213,16.3267383],[46.7510448,16.3267383],[46.7510448,16.0270465]]",
+    "datetime": "2015-05-03 07:59:54",
+    "duration": "2:23:20",
+    "distance": "83.88",
+    "elevation_gps": "324.0295",
+    "elevation_google": "304.8360",
+    "elevation_bing": "306.9964",
+    "speed_avg": "35.11",
+    "heartrate_avg": "161.35",
+    "temperature_avg": "15.6288",
+    "trackpoints": "5062"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 122,
+    "path": "/datasets/dataset3/Rider3/137.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.64832942187786|16.095976112410426",
+    "coordinateFinal": "46.64842673577368|16.096228826791048",
+    "country": "Slovenia",
+    "locality": "Ti\u0161ina",
+    "centroid": "46.6485078|16.0961594",
+    "bbox": "[[46.6483294,16.0958432],[46.6486862,16.0958432],[46.6486862,16.0964756],[46.6483294,16.0964756],[46.6483294,16.0958432]]",
+    "datetime": "2015-02-03 16:08:05",
+    "duration": "1:52:5",
+    "distance": "1.22",
+    "elevation_gps": "266.1264",
+    "elevation_google": "194.0000",
+    "elevation_bing": "193.0000",
+    "speed_avg": "0.65",
+    "heartrate_avg": "154.94",
+    "temperature_avg": "19.5155",
+    "trackpoints": "1164"
+}

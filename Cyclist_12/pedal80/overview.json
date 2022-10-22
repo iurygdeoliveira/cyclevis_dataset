@@ -1,0 +1,21 @@
+{
+    "pedal": 80,
+    "path": "/datasets/dataset3/Rider3/92.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.53850299678743|13.665265515446663",
+    "coordinateFinal": "45.52010044455528|13.675613896921277",
+    "country": "Slovenia",
+    "locality": "Izola - Isola",
+    "centroid": "45.529562999999996|13.669215150000001",
+    "bbox": "[[45.5201004,13.6622985],[45.5390256,13.6622985],[45.5390256,13.6761318],[45.5201004,13.6761318],[45.5201004,13.6622985]]",
+    "datetime": "2016-02-28 12:16:52",
+    "duration": "0:16:48",
+    "distance": "4.44",
+    "elevation_gps": "99.3421",
+    "elevation_google": "97.6994",
+    "elevation_bing": "96.3452",
+    "speed_avg": "15.86",
+    "heartrate_avg": "148.01",
+    "temperature_avg": "13.9097",
+    "trackpoints": "1008"
+}

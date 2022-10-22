@@ -1,0 +1,21 @@
+{
+    "pedal": 227,
+    "path": "/datasets/dataset3/Rider3/251.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.8879963401705|13.90179486013949",
+    "coordinateFinal": "45.88705555535853|13.902914179489017",
+    "country": "Slovenia",
+    "locality": "Ajdov\u0161\u010dina",
+    "centroid": "45.88771495|13.90311795",
+    "bbox": "[[45.8869037,13.8999973],[45.8885262,13.8999973],[45.8885262,13.9062386],[45.8869037,13.9062386],[45.8869037,13.8999973]]",
+    "datetime": "2014-05-03 12:08:49",
+    "duration": "0:45:19",
+    "distance": "8.01",
+    "elevation_gps": "148.8133",
+    "elevation_google": "104.4069",
+    "elevation_bing": "106.2093",
+    "speed_avg": "10.61",
+    "heartrate_avg": "138.52",
+    "temperature_avg": "21.3556",
+    "trackpoints": "540"
+}

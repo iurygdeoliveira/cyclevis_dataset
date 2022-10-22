@@ -1,0 +1,21 @@
+{
+    "pedal": 217,
+    "path": "/datasets/dataset3/Rider3/241.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.408002907410264|16.415494764223695",
+    "coordinateFinal": "46.45536066032946|16.319823134690523",
+    "country": "Croatia",
+    "locality": "\u0160enkovec",
+    "centroid": "46.44194185|16.365377549999998",
+    "bbox": "[[46.407984,16.3150282],[46.4758997,16.3150282],[46.4758997,16.4157269],[46.407984,16.4157269],[46.407984,16.3150282]]",
+    "datetime": "2014-09-21 07:59:49",
+    "duration": "0:26:53",
+    "distance": "14.70",
+    "elevation_gps": "259.3621",
+    "elevation_google": "268.5863",
+    "elevation_bing": "269.7613",
+    "speed_avg": "32.81",
+    "heartrate_avg": "184.80",
+    "temperature_avg": "23.9249",
+    "trackpoints": "972"
+}

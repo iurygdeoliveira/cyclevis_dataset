@@ -1,0 +1,21 @@
+{
+    "pedal": 102,
+    "path": "/datasets/dataset3/Rider3/116.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "43.96815301850438|19.558745082467794",
+    "coordinateFinal": "43.547985814511776|19.560759169980884",
+    "country": "Serbia",
+    "locality": "Bajina Ba\u0161ta",
+    "centroid": "43.73598105000001|19.672442500000002",
+    "bbox": "[[43.5038091,19.5407063],[43.968153,19.5407063],[43.968153,19.8041787],[43.5038091,19.8041787],[43.5038091,19.5407063]]",
+    "datetime": "2016-06-15 11:02:28",
+    "duration": "3:14:20",
+    "distance": "104.42",
+    "elevation_gps": "797.3253",
+    "elevation_google": "820.4166",
+    "elevation_bing": "819.8892",
+    "speed_avg": "32.24",
+    "heartrate_avg": "161.39",
+    "temperature_avg": "23.3959",
+    "trackpoints": "11623"
+}

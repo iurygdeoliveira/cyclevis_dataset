@@ -1,0 +1,21 @@
+{
+    "pedal": 283,
+    "path": "/datasets/dataset3/Rider3/310.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.61397820338607|14.702567104250193",
+    "coordinateFinal": "46.65832618251443|14.634228441864252",
+    "country": "Austria",
+    "locality": "Eberndorf",
+    "centroid": "46.63247715|14.6679303",
+    "bbox": "[[46.6064353,14.6263551],[46.658519,14.6263551],[46.658519,14.7095055],[46.6064353,14.7095055],[46.6064353,14.6263551]]",
+    "datetime": "2016-06-05 13:59:21",
+    "duration": "0:24:54",
+    "distance": "11.98",
+    "elevation_gps": "431.9883",
+    "elevation_google": "449.2784",
+    "elevation_bing": "454.3515",
+    "speed_avg": "28.87",
+    "heartrate_avg": "135.43",
+    "temperature_avg": "15.8714",
+    "trackpoints": "1485"
+}
