@@ -1,0 +1,21 @@
+{
+    "pedal": 22,
+    "path": "/datasets/dataset3/Rider6/73.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.07971644960343837738037109375|14.7401287592947483062744140625",
+    "coordinateFinal": "46.0522354580461978912353515625|14.7101282514631748199462890625",
+    "country": "Slovenia",
+    "locality": "Kresnice",
+    "centroid": "46.0659759|14.726899799999998",
+    "bbox": "[[46.0522354,14.7101282],[46.0797164,14.7101282],[46.0797164,14.7436714],[46.0522354,14.7436714],[46.0522354,14.7101282]]",
+    "datetime": "2017-03-23 16:31:55",
+    "duration": "0:50:26",
+    "distance": "8.28",
+    "elevation_gps": "465.4093",
+    "elevation_google": "532.6046",
+    "elevation_bing": "537.9148",
+    "speed_avg": "9.85",
+    "heartrate_avg": "150.46",
+    "temperature_avg": "10.9667",
+    "trackpoints": "751"
+}

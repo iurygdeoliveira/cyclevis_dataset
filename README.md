@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/iurygdeoliveira/cyclevis_dataset?style=for-the-badge) [![HitCount](https://hits.dwyl.com/iurygdeoliveira/cyclevis_dataset.svg?style=for-the-badge)](http://hits.dwyl.com/iurygdeoliveira/cyclevis_dataset)
+
 # Cyclevis Master Project Dataset
 
 <p align="justify"> 
