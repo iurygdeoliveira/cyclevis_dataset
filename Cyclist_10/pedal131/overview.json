@@ -1,0 +1,21 @@
+{
+    "pedal": 131,
+    "path": "/datasets/dataset2/Rider6/212.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.0620230|14.8161710",
+    "coordinateFinal": "46.0621720|14.8161160",
+    "country": "Slovenia",
+    "locality": "Litija",
+    "centroid": "46.06037|14.830937500000001",
+    "bbox": "[[46.042587,14.816024],[46.078153,14.816024],[46.078153,14.845851],[46.042587,14.845851],[46.042587,14.816024]]",
+    "datetime": "2015-04-27 09:15:38",
+    "duration": "2:6:56",
+    "distance": "17.68",
+    "elevation_gps": "245.4646",
+    "elevation_google": "247.7219",
+    "elevation_bing": "250.5982",
+    "speed_avg": "8.36",
+    "heartrate_avg": "96.73",
+    "temperature_avg": "18.2393",
+    "trackpoints": "1028"
+}

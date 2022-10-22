@@ -1,0 +1,21 @@
+{
+    "pedal": 102,
+    "path": "/datasets/dataset2/Rider6/166.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.4072040|14.1468430",
+    "coordinateFinal": "46.4068970|14.1511460",
+    "country": "Slovenia",
+    "locality": "\u017dirovnica",
+    "centroid": "46.406548|14.1518215",
+    "bbox": "[[46.405163,14.146843],[46.407933,14.146843],[46.407933,14.1568],[46.405163,14.1568],[46.405163,14.146843]]",
+    "datetime": "2014-06-21 07:41:17",
+    "duration": "0:48:54",
+    "distance": "3.80",
+    "elevation_gps": "620.8734",
+    "elevation_google": "643.9037",
+    "elevation_bing": "650.9439",
+    "speed_avg": "4.66",
+    "heartrate_avg": "135.07",
+    "temperature_avg": "18.3255",
+    "trackpoints": "553"
+}

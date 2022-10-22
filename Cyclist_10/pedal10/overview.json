@@ -1,0 +1,21 @@
+{
+    "pedal": 10,
+    "path": "/datasets/dataset2/Rider6/14.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.2259250|14.6082560",
+    "coordinateFinal": "46.2261080|14.6083570",
+    "country": "Slovenia",
+    "locality": "Kamnik",
+    "centroid": "46.230892|14.6038985",
+    "bbox": "[[46.224374,14.595912],[46.23741,14.595912],[46.23741,14.611885],[46.224374,14.611885],[46.224374,14.595912]]",
+    "datetime": "2014-06-11 16:09:59",
+    "duration": "1:45:59",
+    "distance": "18.66",
+    "elevation_gps": "433.8777",
+    "elevation_google": "422.2119",
+    "elevation_bing": "432.8669",
+    "speed_avg": "10.56",
+    "heartrate_avg": "142.71",
+    "temperature_avg": "25.9845",
+    "trackpoints": "2638"
+}

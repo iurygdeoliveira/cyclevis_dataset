@@ -1,0 +1,21 @@
+{
+    "pedal": 32,
+    "path": "/datasets/dataset2/Rider6/53.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1330800|14.8394360",
+    "coordinateFinal": "46.1330290|14.8393330",
+    "country": "Slovenia",
+    "locality": "Va\u010de",
+    "centroid": "46.157889999999995|14.787465",
+    "bbox": "[[46.127167,14.644606],[46.188613,14.644606],[46.188613,14.930324],[46.127167,14.930324],[46.127167,14.644606]]",
+    "datetime": "2014-07-24 14:50:14",
+    "duration": "1:54:40",
+    "distance": "57.10",
+    "elevation_gps": "419.5533",
+    "elevation_google": "415.9759",
+    "elevation_bing": "420.4537",
+    "speed_avg": "29.88",
+    "heartrate_avg": "146.14",
+    "temperature_avg": "21.4622",
+    "trackpoints": "2462"
+}
