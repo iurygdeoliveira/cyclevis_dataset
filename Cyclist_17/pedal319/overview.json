@@ -1,0 +1,21 @@
+{
+    "pedal": 319,
+    "path": "/datasets/dataset3/Rider12/444.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.8852840|13.6000060",
+    "coordinateFinal": "45.8864040|13.6015530",
+    "country": "Slovenia",
+    "locality": "Miren",
+    "centroid": "45.85486949999999|13.610721999999999",
+    "bbox": "[[45.823335,13.574367],[45.886404,13.574367],[45.886404,13.647077],[45.823335,13.647077],[45.823335,13.574367]]",
+    "datetime": "2017-03-12 09:04:12",
+    "duration": "1:49:20",
+    "distance": "40.43",
+    "elevation_gps": "217.0712",
+    "elevation_google": "220.4439",
+    "elevation_bing": "222.8891",
+    "speed_avg": "22.19",
+    "heartrate_avg": "169.26",
+    "temperature_avg": "12.0397",
+    "trackpoints": "6546"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 386,
+    "path": "/datasets/dataset3/Rider12/543.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "43.4998290|16.0184390",
+    "coordinateFinal": "43.4999260|16.0185280",
+    "country": "Croatia",
+    "locality": "Sevid",
+    "centroid": "43.514938|16.035738000000002",
+    "bbox": "[[43.499481,16.006336],[43.530395,16.006336],[43.530395,16.06514],[43.499481,16.06514],[43.499481,16.006336]]",
+    "datetime": "2016-08-06 10:54:52",
+    "duration": "2:4:44",
+    "distance": "50.22",
+    "elevation_gps": "129.4496",
+    "elevation_google": "122.4669",
+    "elevation_bing": "122.9617",
+    "speed_avg": "24.16",
+    "heartrate_avg": "137.93",
+    "temperature_avg": "21.0308",
+    "trackpoints": "3082"
+}

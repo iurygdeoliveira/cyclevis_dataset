@@ -1,0 +1,21 @@
+{
+    "pedal": 80,
+    "path": "/datasets/dataset3/Rider12/113.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "44.8568830|13.8364410",
+    "coordinateFinal": "44.8569070|13.8362710",
+    "country": "Croatia",
+    "locality": "Pula",
+    "centroid": "44.964245500000004|13.761105500000001",
+    "bbox": "[[44.847202,13.635901],[45.081289,13.635901],[45.081289,13.88631],[44.847202,13.88631],[44.847202,13.635901]]",
+    "datetime": "2017-02-11 10:49:18",
+    "duration": "3:50:37",
+    "distance": "85.79",
+    "elevation_gps": "71.2780",
+    "elevation_google": "59.4541",
+    "elevation_bing": "59.5180",
+    "speed_avg": "22.32",
+    "heartrate_avg": "121.80",
+    "temperature_avg": "7.0738",
+    "trackpoints": "3361"
+}

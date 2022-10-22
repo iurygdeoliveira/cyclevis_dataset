@@ -1,0 +1,21 @@
+{
+    "pedal": 66,
+    "path": "/datasets/dataset3/Rider12/93.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1753330|13.7379580",
+    "coordinateFinal": "46.1753630|13.7378050",
+    "country": "Slovenia",
+    "locality": "Tolmin",
+    "centroid": "46.180024499999995|13.7323275",
+    "bbox": "[[46.175177,13.723753],[46.184872,13.723753],[46.184872,13.740902],[46.175177,13.740902],[46.175177,13.723753]]",
+    "datetime": "2014-07-05 06:22:23",
+    "duration": "0:19:34",
+    "distance": "5.40",
+    "elevation_gps": "182.2425",
+    "elevation_google": "177.4838",
+    "elevation_bing": "178.7724",
+    "speed_avg": "16.56",
+    "heartrate_avg": "115.21",
+    "temperature_avg": "14.3982",
+    "trackpoints": "457"
+}

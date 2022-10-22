@@ -1,0 +1,21 @@
+{
+    "pedal": 332,
+    "path": "/datasets/dataset3/Rider12/465.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.4840220|13.5679580",
+    "coordinateFinal": "45.4949750|13.5361140",
+    "country": "Croatia",
+    "locality": "Kanegra",
+    "centroid": "45.487520499999995|13.553351",
+    "bbox": "[[45.480066,13.536112],[45.494975,13.536112],[45.494975,13.57059],[45.480066,13.57059],[45.480066,13.536112]]",
+    "datetime": "2016-07-09 18:21:52",
+    "duration": "1:25:6",
+    "distance": "6.30",
+    "elevation_gps": "21.8791",
+    "elevation_google": "24.5739",
+    "elevation_bing": "21.3311",
+    "speed_avg": "4.44",
+    "heartrate_avg": "102.47",
+    "temperature_avg": "22.5093",
+    "trackpoints": "589"
+}

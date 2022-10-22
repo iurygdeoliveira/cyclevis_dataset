@@ -1,0 +1,21 @@
+{
+    "pedal": 220,
+    "path": "/datasets/dataset3/Rider12/304.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.8965890|13.9056320",
+    "coordinateFinal": "45.8965480|13.9056210",
+    "country": "Slovenia",
+    "locality": "Ajdov\u0161\u010dina",
+    "centroid": "45.896561000000005|13.906628999999999",
+    "bbox": "[[45.891218,13.904553],[45.901904,13.904553],[45.901904,13.908705],[45.891218,13.908705],[45.891218,13.904553]]",
+    "datetime": "2016-04-30 06:02:45",
+    "duration": "0:21:36",
+    "distance": "4.66",
+    "elevation_gps": "149.8623",
+    "elevation_google": "132.6099",
+    "elevation_bing": "133.4871",
+    "speed_avg": "12.94",
+    "heartrate_avg": "112.11",
+    "temperature_avg": "6.9742",
+    "trackpoints": "427"
+}

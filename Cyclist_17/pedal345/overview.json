@@ -1,0 +1,21 @@
+{
+    "pedal": 345,
+    "path": "/datasets/dataset3/Rider12/485.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.4960380|14.8232580",
+    "coordinateFinal": "46.4971190|14.8231370",
+    "country": "Slovenia",
+    "locality": "\u010crna na Koro\u0161kem",
+    "centroid": "46.5006925|14.8260405",
+    "bbox": "[[46.494307,14.822287],[46.507078,14.822287],[46.507078,14.829794],[46.494307,14.829794],[46.494307,14.822287]]",
+    "datetime": "2014-07-26 07:17:43",
+    "duration": "0:39:29",
+    "distance": "6.12",
+    "elevation_gps": "924.0155",
+    "elevation_google": "948.4264",
+    "elevation_bing": "950.9585",
+    "speed_avg": "9.30",
+    "heartrate_avg": "117.37",
+    "temperature_avg": "18.1107",
+    "trackpoints": "723"
+}

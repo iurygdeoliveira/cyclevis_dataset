@@ -1,0 +1,21 @@
+{
+    "pedal": 322,
+    "path": "/datasets/dataset3/Rider12/448.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.4812790|13.7818270",
+    "coordinateFinal": "46.4816200|13.7822870",
+    "country": "Slovenia",
+    "locality": "Kranjska Gora",
+    "centroid": "46.421647|13.675657000000001",
+    "bbox": "[[46.333334,13.566094],[46.50996,13.566094],[46.50996,13.78522],[46.333334,13.78522],[46.333334,13.566094]]",
+    "datetime": "2016-08-14 06:19:38",
+    "duration": "7:4:49",
+    "distance": "108.41",
+    "elevation_gps": "1119.8901",
+    "elevation_google": "1108.0799",
+    "elevation_bing": "1113.5891",
+    "speed_avg": "15.31",
+    "heartrate_avg": "141.96",
+    "temperature_avg": "18.3925",
+    "trackpoints": "7715"
+}

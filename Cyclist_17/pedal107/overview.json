@@ -1,0 +1,21 @@
+{
+    "pedal": 107,
+    "path": "/datasets/dataset3/Rider12/151.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1734870|15.1075440",
+    "coordinateFinal": "46.1487640|15.0850620",
+    "country": "Slovenia",
+    "locality": "Dol pri Hrastniku",
+    "centroid": "46.160345500000005|15.102290499999999",
+    "bbox": "[[46.147204,15.085062],[46.173487,15.085062],[46.173487,15.119519],[46.147204,15.119519],[46.147204,15.085062]]",
+    "datetime": "2015-06-27 10:14:45",
+    "duration": "0:15:4",
+    "distance": "8.11",
+    "elevation_gps": "646.5812",
+    "elevation_google": "643.4713",
+    "elevation_bing": "645.0578",
+    "speed_avg": "32.30",
+    "heartrate_avg": "85.75",
+    "temperature_avg": "20.0759",
+    "trackpoints": "606"
+}

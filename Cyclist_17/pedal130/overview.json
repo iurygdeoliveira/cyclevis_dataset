@@ -1,0 +1,21 @@
+{
+    "pedal": 130,
+    "path": "/datasets/dataset3/Rider12/188.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.8162710|14.1572350",
+    "coordinateFinal": "45.8166310|14.1575390",
+    "country": "Slovenia",
+    "locality": "Postojna",
+    "centroid": "45.8167755|14.154367500000001",
+    "bbox": "[[45.812253,14.146421],[45.821298,14.146421],[45.821298,14.162314],[45.812253,14.162314],[45.812253,14.146421]]",
+    "datetime": "2016-09-03 11:23:21",
+    "duration": "0:31:55",
+    "distance": "7.28",
+    "elevation_gps": "537.0937",
+    "elevation_google": "526.7270",
+    "elevation_bing": "533.7851",
+    "speed_avg": "13.69",
+    "heartrate_avg": "115.34",
+    "temperature_avg": "23.2978",
+    "trackpoints": "591"
+}

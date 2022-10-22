@@ -1,0 +1,21 @@
+{
+    "pedal": 467,
+    "path": "/datasets/dataset3/Rider12/659.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.4949220|13.5361120",
+    "coordinateFinal": "45.4950500|13.5360480",
+    "country": "Croatia",
+    "locality": "Riva",
+    "centroid": "45.454136000000005|13.629612999999999",
+    "bbox": "[[45.37834,13.534098],[45.529932,13.534098],[45.529932,13.725128],[45.37834,13.725128],[45.37834,13.534098]]",
+    "datetime": "2016-06-25 06:50:56",
+    "duration": "6:31:4",
+    "distance": "80.18",
+    "elevation_gps": "119.8105",
+    "elevation_google": "118.5244",
+    "elevation_bing": "118.5210",
+    "speed_avg": "12.30",
+    "heartrate_avg": "123.24",
+    "temperature_avg": "30.2729",
+    "trackpoints": "5386"
+}

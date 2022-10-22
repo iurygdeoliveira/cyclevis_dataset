@@ -1,0 +1,21 @@
+{
+    "pedal": 112,
+    "path": "/datasets/dataset3/Rider12/157.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.6190230|14.8785330",
+    "coordinateFinal": "45.6177270|14.8796860",
+    "country": "Slovenia",
+    "locality": "Ko\u010devje",
+    "centroid": "45.625023999999996|14.8689655",
+    "bbox": "[[45.617727,14.858245],[45.632321,14.858245],[45.632321,14.879686],[45.617727,14.879686],[45.617727,14.858245]]",
+    "datetime": "2015-05-03 09:56:07",
+    "duration": "0:23:22",
+    "distance": "5.56",
+    "elevation_gps": "471.6645",
+    "elevation_google": "469.9288",
+    "elevation_bing": "476.2738",
+    "speed_avg": "14.28",
+    "heartrate_avg": "126.59",
+    "temperature_avg": "16.0139",
+    "trackpoints": "431"
+}

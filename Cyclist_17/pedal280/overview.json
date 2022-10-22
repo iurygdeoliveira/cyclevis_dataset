@@ -1,0 +1,21 @@
+{
+    "pedal": 280,
+    "path": "/datasets/dataset3/Rider12/388.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.2995270|13.6248960",
+    "coordinateFinal": "45.3005660|13.6253030",
+    "country": "Croatia",
+    "locality": "Tar",
+    "centroid": "45.306007|13.6373245",
+    "bbox": "[[45.299316,13.624687],[45.312698,13.624687],[45.312698,13.649962],[45.299316,13.649962],[45.299316,13.624687]]",
+    "datetime": "2016-09-24 08:22:07",
+    "duration": "0:26:40",
+    "distance": "6.51",
+    "elevation_gps": "105.6264",
+    "elevation_google": "102.1006",
+    "elevation_bing": "101.8802",
+    "speed_avg": "14.65",
+    "heartrate_avg": "104.97",
+    "temperature_avg": "22.1012",
+    "trackpoints": "484"
+}

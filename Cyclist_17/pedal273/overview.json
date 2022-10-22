@@ -1,0 +1,21 @@
+{
+    "pedal": 273,
+    "path": "/datasets/dataset3/Rider12/379.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1318140|14.9947170",
+    "coordinateFinal": "46.1321760|14.9941670",
+    "country": "Slovenia",
+    "locality": "Zagorje ob Savi",
+    "centroid": "46.157878|14.9565105",
+    "bbox": "[[46.120008,14.893715],[46.195748,14.893715],[46.195748,15.019306],[46.120008,15.019306],[46.120008,14.893715]]",
+    "datetime": "2015-05-30 07:06:12",
+    "duration": "9:7:31",
+    "distance": "56.34",
+    "elevation_gps": "623.6553",
+    "elevation_google": "626.7960",
+    "elevation_bing": "635.8199",
+    "speed_avg": "6.17",
+    "heartrate_avg": "120.60",
+    "temperature_avg": "18.4084",
+    "trackpoints": "7919"
+}

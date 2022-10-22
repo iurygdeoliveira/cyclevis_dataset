@@ -1,0 +1,21 @@
+{
+    "pedal": 221,
+    "path": "/datasets/dataset3/Rider12/306.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.9244790|14.0523360",
+    "coordinateFinal": "45.9225210|14.0539540",
+    "country": "Slovenia",
+    "locality": "\u010crni vrh nad Idrijo",
+    "centroid": "45.9221275|14.052108500000001",
+    "bbox": "[[45.919776,14.04763],[45.924479,14.04763],[45.924479,14.056587],[45.919776,14.056587],[45.919776,14.04763]]",
+    "datetime": "2016-08-20 09:29:08",
+    "duration": "0:32:47",
+    "distance": "5.17",
+    "elevation_gps": "722.7550",
+    "elevation_google": "713.3651",
+    "elevation_bing": "719.8708",
+    "speed_avg": "9.46",
+    "heartrate_avg": "157.67",
+    "temperature_avg": "22.4706",
+    "trackpoints": "782"
+}

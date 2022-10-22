@@ -1,0 +1,21 @@
+{
+    "pedal": 501,
+    "path": "/datasets/dataset3/Rider12/707.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.8018130|15.7094180",
+    "coordinateFinal": "45.8017260|15.7099700",
+    "country": "Croatia",
+    "locality": "Samobor",
+    "centroid": "45.798533500000005|15.704239999999999",
+    "bbox": "[[45.795251,15.698459],[45.801816,15.698459],[45.801816,15.710021],[45.795251,15.710021],[45.795251,15.698459]]",
+    "datetime": "2014-06-15 08:13:11",
+    "duration": "1:13:26",
+    "distance": "15.50",
+    "elevation_gps": "191.3625",
+    "elevation_google": "231.9916",
+    "elevation_bing": "232.9397",
+    "speed_avg": "12.66",
+    "heartrate_avg": "167.71",
+    "temperature_avg": "18.0516",
+    "trackpoints": "2403"
+}

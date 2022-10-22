@@ -1,0 +1,21 @@
+{
+    "pedal": 234,
+    "path": "/datasets/dataset3/Rider12/326.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.1489910|15.0852280",
+    "coordinateFinal": "46.1723980|15.1073180",
+    "country": "Slovenia",
+    "locality": "Hrastnik",
+    "centroid": "46.159754500000005|15.102398999999998",
+    "bbox": "[[46.147111,15.085228],[46.172398,15.085228],[46.172398,15.11957],[46.147111,15.11957],[46.147111,15.085228]]",
+    "datetime": "2014-06-28 08:00:34",
+    "duration": "0:32:59",
+    "distance": "7.99",
+    "elevation_gps": "624.8769",
+    "elevation_google": "635.8523",
+    "elevation_bing": "637.3375",
+    "speed_avg": "14.53",
+    "heartrate_avg": "178.51",
+    "temperature_avg": "21.3433",
+    "trackpoints": "871"
+}

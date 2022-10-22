@@ -1,0 +1,21 @@
+{
+    "pedal": 125,
+    "path": "/datasets/dataset3/Rider12/177.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.0620760|14.8163360",
+    "coordinateFinal": "46.0622010|14.8160840",
+    "country": "Slovenia",
+    "locality": "Litija",
+    "centroid": "46.06359|14.822874500000001",
+    "bbox": "[[46.057649,14.816049],[46.069531,14.816049],[46.069531,14.8297],[46.057649,14.8297],[46.057649,14.816049]]",
+    "datetime": "2017-03-08 16:09:24",
+    "duration": "1:9:33",
+    "distance": "16.99",
+    "elevation_gps": "290.2959",
+    "elevation_google": "292.6718",
+    "elevation_bing": "302.9039",
+    "speed_avg": "14.66",
+    "heartrate_avg": "135.24",
+    "temperature_avg": "7.3606",
+    "trackpoints": "4154"
+}

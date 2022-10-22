@@ -1,0 +1,21 @@
+{
+    "pedal": 443,
+    "path": "/datasets/dataset3/Rider12/620.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "47.3929640|13.6940510",
+    "coordinateFinal": "47.3931010|13.6940860",
+    "country": "Austria",
+    "locality": "Schladming",
+    "centroid": "47.399943|13.7438265",
+    "bbox": "[[47.36473,13.691913],[47.435156,13.691913],[47.435156,13.79574],[47.36473,13.79574],[47.36473,13.691913]]",
+    "datetime": "2015-06-12 07:59:57",
+    "duration": "3:8:50",
+    "distance": "53.20",
+    "elevation_gps": "1164.6886",
+    "elevation_google": "1153.6558",
+    "elevation_bing": "1159.1771",
+    "speed_avg": "16.90",
+    "heartrate_avg": "148.71",
+    "temperature_avg": "22.2188",
+    "trackpoints": "4941"
+}

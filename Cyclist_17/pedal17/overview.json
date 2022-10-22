@@ -1,0 +1,21 @@
+{
+    "pedal": 17,
+    "path": "/datasets/dataset3/Rider12/24.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.7937110|14.3605200",
+    "coordinateFinal": "45.7938200|14.3603720",
+    "country": "Slovenia",
+    "locality": "Cerknica",
+    "centroid": "45.790636|14.404658",
+    "bbox": "[[45.776434,14.360372],[45.804838,14.360372],[45.804838,14.448944],[45.776434,14.448944],[45.776434,14.360372]]",
+    "datetime": "2016-01-01 10:49:39",
+    "duration": "2:53:30",
+    "distance": "28.74",
+    "elevation_gps": "828.2728",
+    "elevation_google": "811.2401",
+    "elevation_bing": "818.1832",
+    "speed_avg": "9.94",
+    "heartrate_avg": "139.57",
+    "temperature_avg": "1.2109",
+    "trackpoints": "3740"
+}

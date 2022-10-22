@@ -1,0 +1,21 @@
+{
+    "pedal": 312,
+    "path": "/datasets/dataset3/Rider12/434.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.5053340|13.5978410",
+    "coordinateFinal": "45.5053890|13.5973950",
+    "country": "Slovenia",
+    "locality": "Portoro\u017e - Portorose",
+    "centroid": "45.417684|13.630416",
+    "bbox": "[[45.329979,13.500839],[45.505389,13.500839],[45.505389,13.759993],[45.329979,13.759993],[45.329979,13.500839]]",
+    "datetime": "2017-03-18 10:05:39",
+    "duration": "2:37:24",
+    "distance": "87.74",
+    "elevation_gps": "103.3693",
+    "elevation_google": "98.8101",
+    "elevation_bing": "98.6334",
+    "speed_avg": "33.45",
+    "heartrate_avg": "156.27",
+    "temperature_avg": "14.0033",
+    "trackpoints": "3944"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 329,
+    "path": "/datasets/dataset3/Rider12/461.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.0781570|14.1509870",
+    "coordinateFinal": "45.0779730|14.1686180",
+    "country": "Croatia",
+    "locality": "Rabac",
+    "centroid": "45.076761|14.1624415",
+    "bbox": "[[45.07288,14.150987],[45.080642,14.150987],[45.080642,14.173896],[45.07288,14.173896],[45.07288,14.150987]]",
+    "datetime": "2016-05-22 12:04:09",
+    "duration": "0:21:33",
+    "distance": "3.75",
+    "elevation_gps": "13.8948",
+    "elevation_google": "14.9537",
+    "elevation_bing": "14.9828",
+    "speed_avg": "10.44",
+    "heartrate_avg": "107.73",
+    "temperature_avg": "25.6806",
+    "trackpoints": "407"
+}
