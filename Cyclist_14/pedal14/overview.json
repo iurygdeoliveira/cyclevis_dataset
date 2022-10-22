@@ -1,0 +1,21 @@
+{
+    "pedal": 14,
+    "path": "/datasets/dataset3/Rider7/101.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.2999060|15.6868210",
+    "coordinateFinal": "46.3001360|15.6862350",
+    "country": "Slovenia",
+    "locality": "Makole",
+    "centroid": "46.347004|15.686135",
+    "bbox": "[[46.296063,15.613087],[46.397945,15.613087],[46.397945,15.759183],[46.296063,15.759183],[46.296063,15.613087]]",
+    "datetime": "2016-09-07 13:25:07",
+    "duration": "1:49:41",
+    "distance": "50.13",
+    "elevation_gps": "272.8745",
+    "elevation_google": "272.4688",
+    "elevation_bing": "274.8782",
+    "speed_avg": "27.42",
+    "heartrate_avg": "135.53",
+    "temperature_avg": "21.2341",
+    "trackpoints": "2234"
+}

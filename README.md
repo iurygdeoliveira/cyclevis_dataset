@@ -1,4 +1,6 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/iurygdeoliveira/cyclevis_dataset?style=for-the-badge) [![HitCount](https://hits.dwyl.com/iurygdeoliveira/cyclevis_dataset.svg?style=for-the-badge)](http://hits.dwyl.com/iurygdeoliveira/cyclevis_dataset)
+<p align="center">
+![GitHub repo size](https://img.shields.io/github/repo-size/iurygdeoliveira/cyclevis_dataset?style=flat-square) [![HitCount](https://hits.dwyl.com/iurygdeoliveira/cyclevis_dataset.svg?style=flat-square)](http://hits.dwyl.com/iurygdeoliveira/cyclevis_dataset)
+</p>
 
 # Cyclevis Master Project Dataset
 

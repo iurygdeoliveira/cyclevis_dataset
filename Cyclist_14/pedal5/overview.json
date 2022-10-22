@@ -1,0 +1,21 @@
+{
+    "pedal": 5,
+    "path": "/datasets/dataset3/Rider7/55.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "45.9734460|14.4205530",
+    "coordinateFinal": "45.9779160|14.4253240",
+    "country": "Slovenia",
+    "locality": "Preserje",
+    "centroid": "45.9813105|14.434714",
+    "bbox": "[[45.961209,14.390452],[46.001412,14.390452],[46.001412,14.478976],[45.961209,14.478976],[45.961209,14.390452]]",
+    "datetime": "2016-07-31 08:50:46",
+    "duration": "1:1:25",
+    "distance": "28.97",
+    "elevation_gps": "292.3777",
+    "elevation_google": "290.6284",
+    "elevation_bing": "292.9366",
+    "speed_avg": "28.30",
+    "heartrate_avg": "157.15",
+    "temperature_avg": "27.5080",
+    "trackpoints": "994"
+}

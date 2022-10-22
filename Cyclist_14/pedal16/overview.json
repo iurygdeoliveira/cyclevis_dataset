@@ -1,0 +1,21 @@
+{
+    "pedal": 16,
+    "path": "/datasets/dataset3/Rider7/105.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "46.3359190|15.7534680",
+    "coordinateFinal": "46.3348570|15.7538540",
+    "country": "Slovenia",
+    "locality": "Maj\u0161perk",
+    "centroid": "46.3140205|15.716426499999999",
+    "bbox": "[[46.22477,15.553752],[46.403271,15.553752],[46.403271,15.879101],[46.22477,15.879101],[46.22477,15.553752]]",
+    "datetime": "2017-03-04 10:40:07",
+    "duration": "3:45:54",
+    "distance": "99.92",
+    "elevation_gps": "268.3565",
+    "elevation_google": "264.7320",
+    "elevation_bing": "267.0474",
+    "speed_avg": "26.54",
+    "heartrate_avg": "142.64",
+    "temperature_avg": "14.7682",
+    "trackpoints": "4240"
+}
