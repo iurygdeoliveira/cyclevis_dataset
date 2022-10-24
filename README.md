@@ -41,6 +41,7 @@ Mentor - [Prof. Dr. Danilo Coimbra](http://lattes.cnpq.br/9590398895954821)
 Each pedal has several trackpoints\
 .\
 ├── Cyclist (Contains the cyclist's data)\
+│ ├── all_distances.json (Contains the distances of each pedal)\
 │   ├── pedal (Contains the pedal data)\
 │   │   ├── distance_history.json (Distance recorded at each trackpoint)\
 │   │   ├── elevation_bing.json (Elevation provided by bing for the coordinate latitude,longitude)\
@@ -62,6 +63,8 @@ The original data was obtained from:
 Additional information on data preprocessing
 
 -   RAUTER, S.; FISTER, I.; JR, I. F. How to deal with sports activity datasets for data mining and analysis:. International Journal of Advanced Pervasive and Ubiquitous Computing, v. 7, p. 27–37, 04 2015
+
+## API (Coming Soon)
 
 #### Retorna todos os itens
 
