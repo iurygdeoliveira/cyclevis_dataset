@@ -1,0 +1,21 @@
+{
+    "pedal": 15,
+    "path": "/datasets/dataset3/Rider1/18.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.243277303874492645263671875|14.357039071619510650634765625",
+    "coordinateFinal": "46.2519473768770694732666015625|14.34954171068966388702392578125",
+    "country": "Slovenia",
+    "locality": "Kranj",
+    "centroid": "46.24672135|14.353344049999999",
+    "bbox": "[[46.2413782,14.3495417],[46.2520645,14.3495417],[46.2520645,14.3571464],[46.2413782,14.3571464],[46.2413782,14.3495417]]",
+    "datetime": "2014-08-02 17:44:32",
+    "duration": "0:50:6",
+    "distance": "19.32",
+    "elevation_gps": "400.8567",
+    "elevation_google": "385.8811",
+    "elevation_bing": "389.9556",
+    "speed_avg": "23.14",
+    "heartrate_avg": "172.82",
+    "temperature_avg": "26.4461",
+    "trackpoints": "946"
+}
