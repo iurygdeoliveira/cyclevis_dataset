@@ -50,7 +50,7 @@ Each pedal has several trackpoints\
 │   │   ├── heartrate_history.json (heartrate recorded at each trackpoint)\
 │   │   ├── latitudes.json (latitude recorded at each trackpoint)\
 │   │   ├── longitudes.json (longitude recorded at each trackpoint)\
-│   │   ├── overview.json (Contains general data, e.g., average speed, average heart rate, total distance, etc.)\
+│   │   ├── overview.json (Contains general data, e.g., average speed, average heart rate, total trackpoints, etc.)\
 │   │   ├── speed_history.json (speed recorded at each trackpoint)\
 │   │   └── time_history.json (time recorded at each trackpoint)\
 
