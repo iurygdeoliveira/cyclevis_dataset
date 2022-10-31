@@ -54,6 +54,28 @@ Each pedal has several trackpoints\
 │   │   ├── speed_history.json (speed recorded at each trackpoint)\
 │   │   └── time_history.json (time recorded at each trackpoint)\
 
+Additional information about the overview.json file
+
+-   pedal: ID used in mysql database
+-   path: gpx file path,
+-   creator: Device or platform generating the data
+-   coordinateInicial: Latitude Initial | Longitude Initial
+-   coordinateFinal: Latitude Final | Longitude Final
+-   country: pedal country,
+-   locality: pedal locality,
+-   centroid: pedal centroid
+-   bbox: pedal bounding box,
+-   datetime: pedal datetime,
+-   duration: pedal duration (HH:MM:SS),
+-   distance: pedal distance in kilometers,
+-   elevation_gps: pedal elevation recorded in gps in meters,
+-   elevation_google: pedal elevation obtained from google API in meters,
+-   elevation_bing: pedal elevation obtained from bing API in meters,
+-   speed_avg: Average pedal speed in KM/H,
+-   heartrate_avg: Average pedal heartrate in bpm,
+-   temperature_avg: Average pedal temperature in celsius,
+-   trackpoints: total pedal trackpoints
+
 ## Reference
 
 The original data was obtained from:
