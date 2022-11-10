@@ -56,7 +56,7 @@ Each pedal has several trackpoints\
 
 Additional information about the overview.json file
 
--   pedal: ID used in mysql database
+-   pedal: ID
 -   path: gpx file path,
 -   creator: Device or platform generating the data
 -   coordinateInicial: Latitude Initial | Longitude Initial
