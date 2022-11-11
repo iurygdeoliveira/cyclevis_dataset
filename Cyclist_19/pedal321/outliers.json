@@ -1,0 +1,20 @@
+[
+    {
+        "trackpoints": "5082",
+        "outliers": 1,
+        "percentage": "0.02"
+    },
+    {
+        "idx": 5080,
+        "pedal": "pedal337",
+        "time_prev": "15:42:29",
+        "distance_prev": "0.0485078847109999316",
+        "speed_prev": "19.40315388439997264000",
+        "time_current": "10:02:02",
+        "distance_current": "0",
+        "speed_current": "-0.00000000000000000000",
+        "time_next": "10:02:03",
+        "distance_next": "0",
+        "speed_next": "0.00000000000000000000"
+    }
+]
