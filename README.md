@@ -42,11 +42,9 @@ Each pedal has several trackpoints\
 .\
 ├── Cyclist (Contains the cyclist's data)\
 │ ├── all_distances.json (Contains the distances of each pedal)\
-│   ├── pedal (Contains the pedal data)\
+│   ├── pedal (Contains the ride data)\
 │   │   ├── distance_history.json (Distance recorded at each trackpoint)\
-│   │   ├── elevation_bing.json (Elevation provided by bing for the coordinate latitude,longitude)\
 │   │   ├── elevation_google.json (Elevation provided by google for the coordinate latitude,longitude)\
-│   │   ├── elevation_gps.json (Elevation recorded at each trackpoint)\
 │   │   ├── heartrate_history.json (heartrate recorded at each trackpoint)\
 │   │   ├── latitudes.json (latitude recorded at each trackpoint)\
 │   │   ├── longitudes.json (longitude recorded at each trackpoint)\
@@ -61,20 +59,18 @@ Additional information about the overview.json file
 -   creator: Device or platform generating the data
 -   coordinateInicial: Latitude Initial | Longitude Initial
 -   coordinateFinal: Latitude Final | Longitude Final
--   country: pedal country,
--   locality: pedal locality,
--   centroid: pedal centroid
--   bbox: pedal bounding box,
--   datetime: pedal datetime,
--   duration: pedal duration (HH:MM:SS),
--   distance: pedal distance in kilometers,
--   elevation_gps: pedal elevation recorded in gps in meters,
--   elevation_google: pedal elevation obtained from google API in meters,
--   elevation_bing: pedal elevation obtained from bing API in meters,
--   speed_avg: Average pedal speed in KM/H,
--   heartrate_avg: Average pedal heartrate in bpm,
--   temperature_avg: Average pedal temperature in celsius,
--   trackpoints: total pedal trackpoints
+-   country: ride country,
+-   locality: ride locality,
+-   centroid: ride centroid
+-   bbox: ride bounding box,
+-   datetime: ride datetime,
+-   duration: ride duration (HH:MM:SS),
+-   distance: ride distance in kilometers,
+-   elevation_google: ride elevation obtained from google API in meters,
+-   speed_avg: Average ride speed in KM/H,
+-   heartrate_avg: Average ride heartrate in bpm,
+-   temperature_avg: Average ride temperature in celsius,
+-   trackpoints: total ride trackpoints
 
 ## Reference
 
