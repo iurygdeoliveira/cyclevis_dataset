@@ -1,0 +1,21 @@
+{
+    "pedal": 199,
+    "path": "/datasets/dataset3/Rider8/215.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.50423903390765|13.60098822042346",
+    "coordinateFinal": "45.50426091067493|13.601133059710264",
+    "country": "Cesta solinarjev 1, 6320 Portoro\u017e - Portorose, Slovenia",
+    "locality": "Piran",
+    "centroid": "45.49853015|13.599378900000001",
+    "bbox": "[[45.4927994,13.5868081],[45.5042609,13.5868081],[45.5042609,13.6119497],[45.4927994,13.6119497],[45.4927994,13.5868081]]",
+    "datetime": "2015-11-14 11:00:41",
+    "duration": "0:29:32",
+    "distance": "6.81",
+    "elevation_gps": "31.1598",
+    "elevation_google": "22.7417",
+    "elevation_bing": "20.2970",
+    "speed_avg": "13.84",
+    "heartrate_avg": "176.07",
+    "temperature_avg": "21.1510",
+    "trackpoints": "404"
+}

@@ -1,0 +1,21 @@
+{
+    "pedal": 360,
+    "path": "/datasets/dataset3/Rider1/427.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.80832769162952899932861328125|15.96930610947310924530029296875",
+    "coordinateFinal": "45.8040902204811573028564453125|15.16764177940785884857177734375",
+    "country": "Croatia",
+    "locality": "Zagreb",
+    "centroid": "45.893223549999995|15.571612550000001",
+    "bbox": "[[45.7939314,15.164355],[45.9925157,15.164355],[45.9925157,15.9788701],[45.7939314,15.9788701],[45.7939314,15.164355]]",
+    "datetime": "2016-08-28 09:12:21",
+    "duration": "5:3:0",
+    "distance": "126.16",
+    "elevation_gps": "179.5488",
+    "elevation_google": "179.7144",
+    "elevation_bing": "182.0611",
+    "speed_avg": "24.98",
+    "heartrate_avg": "150.01",
+    "temperature_avg": "33.9936",
+    "trackpoints": "11766"
+}

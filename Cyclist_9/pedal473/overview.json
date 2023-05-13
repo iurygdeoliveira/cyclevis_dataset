@@ -1,0 +1,21 @@
+{
+    "pedal": 473,
+    "path": "/datasets/dataset2/Rider5/485.gpx",
+    "creator": "StravaGPX",
+    "coordinateInicial": "44.5311470|14.8967430",
+    "coordinateFinal": "44.5309770|14.8965860",
+    "country": "Croatia",
+    "locality": "Gajac",
+    "centroid": "44.6116405|14.821496",
+    "bbox": "[[44.530972,14.734327],[44.692309,14.734327],[44.692309,14.908665],[44.530972,14.908665],[44.530972,14.734327]]",
+    "datetime": "2014-08-19 05:11:32",
+    "duration": "1:59:40",
+    "distance": "51.03",
+    "elevation_gps": "64.1782",
+    "elevation_google": "58.6664",
+    "elevation_bing": "58.8099",
+    "speed_avg": "25.59",
+    "heartrate_avg": "110.21",
+    "temperature_avg": "24.1912",
+    "trackpoints": "3462"
+}

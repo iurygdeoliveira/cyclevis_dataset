@@ -1,0 +1,21 @@
+{
+    "pedal": 827,
+    "path": "/datasets/dataset3/Rider13/843.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "46.0421218536794185638427734375|14.05541955493390560150146484375",
+    "coordinateFinal": "46.04212646372616291046142578125|14.0553413517773151397705078125",
+    "country": "Slovenia",
+    "locality": "Spodnja Idrija",
+    "centroid": "46.0498888|14.0338164",
+    "bbox": "[[46.033154,14.0121241],[46.0666236,14.0121241],[46.0666236,14.0555087],[46.033154,14.0555087],[46.033154,14.0121241]]",
+    "datetime": "2015-01-17 08:50:05",
+    "duration": "1:31:25",
+    "distance": "18.60",
+    "elevation_gps": "652.4476",
+    "elevation_google": "639.8804",
+    "elevation_bing": "647.3672",
+    "speed_avg": "12.21",
+    "heartrate_avg": "152.33",
+    "temperature_avg": "10.3399",
+    "trackpoints": "5401"
+}

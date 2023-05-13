@@ -1,0 +1,21 @@
+{
+    "pedal": 578,
+    "path": "/datasets/dataset2/Rider1/586.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "45.57605207897723|13.8496118132025",
+    "coordinateFinal": "45.57609952054918|13.8494564127177",
+    "country": "Slovenia",
+    "locality": "\u010crni Kal",
+    "centroid": "45.574660550000004|13.8509281",
+    "bbox": "[[45.5507531,13.8331759],[45.598568,13.8331759],[45.598568,13.8686803],[45.5507531,13.8686803],[45.5507531,13.8331759]]",
+    "datetime": "2015-12-27 10:31:48",
+    "duration": "4:17:44",
+    "distance": "34.75",
+    "elevation_gps": "168.8513",
+    "elevation_google": "186.1836",
+    "elevation_bing": "189.9701",
+    "speed_avg": "8.09",
+    "heartrate_avg": "131.43",
+    "temperature_avg": "7.8637",
+    "trackpoints": "7464"
+}

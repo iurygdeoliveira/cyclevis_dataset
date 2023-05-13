@@ -1,0 +1,21 @@
+{
+    "pedal": 350,
+    "path": "/datasets/dataset3/Rider1/416.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "47.3429935611784458160400390625|11.6865796409547328948974609375",
+    "coordinateFinal": "47.342504225671291351318359375|11.6859917342662811279296875",
+    "country": "Austria",
+    "locality": "Vomp",
+    "centroid": "47.343220599999995|11.70049045",
+    "bbox": "[[47.3351702,11.6842304],[47.351271,11.6842304],[47.351271,11.7167505],[47.3351702,11.7167505],[47.3351702,11.6842304]]",
+    "datetime": "2016-09-03 14:03:48",
+    "duration": "2:54:32",
+    "distance": "40.06",
+    "elevation_gps": "535.5411",
+    "elevation_google": "542.3408",
+    "elevation_bing": "545.3157",
+    "speed_avg": "13.77",
+    "heartrate_avg": "136.66",
+    "temperature_avg": "27.8785",
+    "trackpoints": "5718"
+}

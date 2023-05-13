@@ -1,0 +1,21 @@
+{
+    "pedal": 848,
+    "path": "/datasets/dataset3/Rider13/865.gpx",
+    "creator": "Garmin Connect",
+    "coordinateInicial": "43.855484314262866973876953125|7.85277332179248332977294921875",
+    "coordinateFinal": "43.8554030098021030426025390625|7.852825708687305450439453125",
+    "country": "Italy",
+    "locality": "Taggia",
+    "centroid": "43.84138475|7.787963435",
+    "bbox": "[[43.81618,7.72032148],[43.8665895,7.72032148],[43.8665895,7.85560539],[43.81618,7.85560539],[43.81618,7.72032148]]",
+    "datetime": "2014-02-19 09:06:12",
+    "duration": "4:1:1",
+    "distance": "59.41",
+    "elevation_gps": "441.4208",
+    "elevation_google": "449.6441",
+    "elevation_bing": "444.5211",
+    "speed_avg": "14.79",
+    "heartrate_avg": "126.84",
+    "temperature_avg": "14.3375",
+    "trackpoints": "13068"
+}
